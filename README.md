@@ -37,326 +37,326 @@
 
 ## C
 
-* [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 153,019 | 🐛 2,935 | 🌐 C | 📅 2026-10-22 - Display and control your Android device
-* [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ⭐ 80,315 | 🐛 1,010 | 🌐 C | 📅 2026-10-22 - A new bootable USB solution.
-* [obsproject/obs-studio](https://github.com/obsproject/obs-studio) ⭐ 78,088 | 🐛 1,170 | 🌐 C | 📅 2026-10-23 - OBS Studio - Free and open source software for live streaming and screen recording
-* [redis/redis](https://github.com/redis/redis) ⭐ 77,078 | 🐛 3,065 | 🌐 C | 📅 2026-10-24 - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
-* [valkey-io/valkey](https://github.com/valkey-io/valkey) ⭐ 27,501 | 🐛 938 | 🌐 C | 📅 2026-10-24 - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
-* [taosdata/TDengine](https://github.com/taosdata/TDengine) ⭐ 25,168 | 🐛 444 | 🌐 C | 📅 2026-10-21 - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
-* [timescale/timescaledb](https://github.com/timescale/timescaledb) ⭐ 23,745 | 🐛 439 | 🌐 C | 📅 2026-10-24 - A time-series database for high-performance real-time analytics packaged as a Postgres extension
-* [tursodatabase/libsql](https://github.com/tursodatabase/libsql) ⭐ 17,286 | 🐛 472 | 🌐 C | 📅 2026-10-17 - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
+* [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 153,105 | 🐛 2,936 | 🌐 C | 📅 2026-10-24 - Display and control your Android device
+* [ventoy/Ventoy](https://github.com/ventoy/Ventoy) ⭐ 80,344 | 🐛 1,011 | 🌐 C | 📅 2026-10-22 - A new bootable USB solution.
+* [obsproject/obs-studio](https://github.com/obsproject/obs-studio) ⭐ 78,194 | 🐛 1,182 | 🌐 C | 📅 2026-10-23 - OBS Studio - Free and open source software for live streaming and screen recording
+* [redis/redis](https://github.com/redis/redis) ⭐ 77,094 | 🐛 3,068 | 🌐 C | 📅 2026-10-24 - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
+* [valkey-io/valkey](https://github.com/valkey-io/valkey) ⭐ 27,511 | 🐛 946 | 🌐 C | 📅 2026-10-25 - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
+* [taosdata/TDengine](https://github.com/taosdata/TDengine) ⭐ 25,169 | 🐛 444 | 🌐 C | 📅 2026-10-21 - High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios
+* [timescale/timescaledb](https://github.com/timescale/timescaledb) ⭐ 23,751 | 🐛 442 | 🌐 C | 📅 2026-10-24 - A time-series database for high-performance real-time analytics packaged as a Postgres extension
+* [tursodatabase/libsql](https://github.com/tursodatabase/libsql) ⭐ 17,290 | 🐛 474 | 🌐 C | 📅 2026-10-17 - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 * [gojue/ecapture](https://github.com/gojue/ecapture) ⭐ 15,512 | 🐛 2 | 🌐 C | 📅 2026-10-24 - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86\_64 and arm64.
-* [citusdata/citus](https://github.com/citusdata/citus) ⭐ 12,824 | 🐛 463 | 🌐 C | 📅 2026-10-23 - Distributed PostgreSQL as an extension
-* [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) ⭐ 10,619 | 🐛 8,659 | 🌐 C | 📅 2026-10-24 - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
-* [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) ⭐ 1,127 | 🐛 7 | 🌐 C | 📅 2026-08-09 - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
+* [citusdata/citus](https://github.com/citusdata/citus) ⭐ 12,827 | 🐛 464 | 🌐 C | 📅 2026-10-25 - Distributed PostgreSQL as an extension
+* [yugabyte/yugabyte-db](https://github.com/yugabyte/yugabyte-db) ⭐ 10,626 | 🐛 8,673 | 🌐 C | 📅 2026-10-25 - YugabyteDB - the cloud native distributed SQL database for mission-critical applications.
+* [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) ⭐ 1,128 | 🐛 7 | 🌐 C | 📅 2026-08-09 - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣
 
 ## C++
 
-* [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 132,205 | 🐛 2,598 | 🌐 C++ | 📅 2026-10-24 - LLM inference in C/C++
-* [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) ⭐ 54,616 | 🐛 363 | 🌐 C++ | 📅 2026-10-19 - Port of OpenAI's Whisper model in C/C++
-* [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐ 50,572 | 🐛 8,434 | 🌐 C++ | 📅 2026-10-24 - ClickHouse® is a real-time analytics database management system
-* [grpc/grpc](https://github.com/grpc/grpc) ⭐ 45,400 | 🐛 1,371 | 🌐 C++ | 📅 2026-10-23 - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
-* [aria2/aria2](https://github.com/aria2/aria2) ⭐ 43,260 | 🐛 1,183 | 🌐 C++ | 📅 2026-06-25 - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-* [duckdb/duckdb](https://github.com/duckdb/duckdb) ⭐ 42,485 | 🐛 1,021 | 🌐 C++ | 📅 2026-10-23 - DuckDB is an analytical in-process SQL database management system
-* [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) ⭐ 32,548 | 🐛 634 | 🌐 C++ | 📅 2026-10-15 - Android real-time display control software
-* [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) ⭐ 31,864 | 🐛 686 | 🌐 C++ | 📅 2026-10-24 - An MCP-based chatbot | 一个基于MCP的聊天机器人
-* [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) ⭐ 31,816 | 🐛 279 | 🌐 C++ | 📅 2026-10-24 - A modern replacement for Redis and Memcached
-* [deskflow/deskflow](https://github.com/deskflow/deskflow) ⭐ 30,104 | 🐛 243 | 🌐 C++ | 📅 2026-10-21 - Share a single keyboard and mouse between multiple computers.
-* [ossrs/srs](https://github.com/ossrs/srs) ⭐ 29,367 | 🐛 14 | 🌐 C++ | 📅 2026-10-24 - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
-* [envoyproxy/envoy](https://github.com/envoyproxy/envoy) ⭐ 29,119 | 🐛 1,860 | 🌐 C++ | 📅 2026-10-24 - Cloud-native high-performance edge/middle/service proxy
-* [ml-explore/mlx](https://github.com/ml-explore/mlx) ⭐ 28,910 | 🐛 131 | 🌐 C++ | 📅 2026-10-23 - MLX: An array framework for Apple silicon
-* [osquery/osquery](https://github.com/osquery/osquery) ⭐ 23,669 | 🐛 576 | 🌐 C++ | 📅 2026-10-23 - SQL powered operating system instrumentation, monitoring, and analytics.
-* [wolfpld/tracy](https://github.com/wolfpld/tracy) ⭐ 17,009 | 🐛 172 | 🌐 C++ | 📅 2026-10-23 - Frame profiler
-* [apple/foundationdb](https://github.com/apple/foundationdb) ⭐ 16,806 | 🐛 791 | 🌐 C++ | 📅 2026-10-23 - FoundationDB - the open source, distributed, transactional key-value store
-* [alibaba/zvec](https://github.com/alibaba/zvec) ⭐ 16,143 | 🐛 90 | 🌐 C++ | 📅 2026-10-22 - A lightweight, lightning-fast, in-process vector database
-* [facebook/watchman](https://github.com/facebook/watchman) ⭐ 13,749 | 🐛 262 | 🌐 C++ | 📅 2026-10-24 - Watches files and records, or triggers actions, when they change.
-* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) ⭐ 12,068 | 🐛 649 | 🌐 C++ | 📅 2026-10-24 - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
-* [versatica/mediasoup](https://github.com/versatica/mediasoup) ⭐ 7,402 | 🐛 35 | 🌐 C++ | 📅 2026-10-23 - Cutting Edge WebRTC Video Conferencing
-* [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) ⭐ 6,728 | 🐛 716 | 🌐 C++ | 📅 2026-10-24 - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
-* [pixie-io/pixie](https://github.com/pixie-io/pixie) ⭐ 6,551 | 🐛 395 | 🌐 C++ | 📅 2026-10-19 - Instant Kubernetes-Native Application Observability
-* [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) ⭐ 3,218 | 🐛 112 | 🌐 C++ | 📅 2026-10-23 - A modern high-performance open source message queuing system
+* [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) ⭐ 132,310 | 🐛 2,584 | 🌐 C++ | 📅 2026-10-25 - LLM inference in C/C++
+* [ggml-org/whisper.cpp](https://github.com/ggml-org/whisper.cpp) ⭐ 54,651 | 🐛 363 | 🌐 C++ | 📅 2026-10-19 - Port of OpenAI's Whisper model in C/C++
+* [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) ⭐ 50,590 | 🐛 8,435 | 🌐 C++ | 📅 2026-10-25 - ClickHouse® is a real-time analytics database management system
+* [grpc/grpc](https://github.com/grpc/grpc) ⭐ 45,401 | 🐛 1,363 | 🌐 C++ | 📅 2026-10-25 - C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
+* [aria2/aria2](https://github.com/aria2/aria2) ⭐ 43,271 | 🐛 1,183 | 🌐 C++ | 📅 2026-06-25 - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+* [duckdb/duckdb](https://github.com/duckdb/duckdb) ⭐ 42,517 | 🐛 1,048 | 🌐 C++ | 📅 2026-10-23 - DuckDB is a high-performance analytical database system
+* [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) ⭐ 32,561 | 🐛 634 | 🌐 C++ | 📅 2026-10-15 - Android real-time display control software
+* [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) ⭐ 31,932 | 🐛 687 | 🌐 C++ | 📅 2026-10-25 - An MCP-based chatbot | 一个基于MCP的聊天机器人
+* [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) ⭐ 31,819 | 🐛 278 | 🌐 C++ | 📅 2026-10-25 - A modern replacement for Redis and Memcached
+* [deskflow/deskflow](https://github.com/deskflow/deskflow) ⭐ 30,134 | 🐛 244 | 🌐 C++ | 📅 2026-10-21 - Share a single keyboard and mouse between multiple computers.
+* [ossrs/srs](https://github.com/ossrs/srs) ⭐ 29,366 | 🐛 7 | 🌐 C++ | 📅 2026-10-25 - SRS is a simple, high-performance, AI-driven real-time media server supporting RTMP, WebRTC, HLS, HTTP-FLV, HTTP-TS, SRT, MPEG-DASH, and GB28181, with codec support for H.264, H.265, AV1, VP9, AAC, Op
+* [envoyproxy/envoy](https://github.com/envoyproxy/envoy) ⭐ 29,134 | 🐛 1,880 | 🌐 C++ | 📅 2026-10-25 - Cloud-native high-performance edge/middle/service proxy
+* [ml-explore/mlx](https://github.com/ml-explore/mlx) ⭐ 28,930 | 🐛 136 | 🌐 C++ | 📅 2026-10-25 - MLX: An array framework for Apple silicon
+* [osquery/osquery](https://github.com/osquery/osquery) ⭐ 23,674 | 🐛 577 | 🌐 C++ | 📅 2026-10-23 - SQL powered operating system instrumentation, monitoring, and analytics.
+* [wolfpld/tracy](https://github.com/wolfpld/tracy) ⭐ 17,012 | 🐛 172 | 🌐 C++ | 📅 2026-10-23 - Frame profiler
+* [apple/foundationdb](https://github.com/apple/foundationdb) ⭐ 16,811 | 🐛 791 | 🌐 C++ | 📅 2026-10-24 - FoundationDB - the open source, distributed, transactional key-value store
+* [alibaba/zvec](https://github.com/alibaba/zvec) ⭐ 16,147 | 🐛 90 | 🌐 C++ | 📅 2026-10-22 - A lightweight, lightning-fast, in-process vector database
+* [facebook/watchman](https://github.com/facebook/watchman) ⭐ 13,754 | 🐛 262 | 🌐 C++ | 📅 2026-10-24 - Watches files and records, or triggers actions, when they change.
+* [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) ⭐ 12,069 | 🐛 652 | 🌐 C++ | 📅 2026-10-25 - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
+* [versatica/mediasoup](https://github.com/versatica/mediasoup) ⭐ 7,405 | 🐛 35 | 🌐 C++ | 📅 2026-10-25 - Cutting Edge WebRTC Video Conferencing
+* [google-ai-edge/LiteRT-LM](https://github.com/google-ai-edge/LiteRT-LM) ⭐ 6,733 | 🐛 719 | 🌐 C++ | 📅 2026-10-25 - LiteRT-LM is Google's production-ready, high-performance, open-source inference framework for deploying Large Language Models on edge devices.
+* [pixie-io/pixie](https://github.com/pixie-io/pixie) ⭐ 6,551 | 🐛 397 | 🌐 C++ | 📅 2026-10-19 - Instant Kubernetes-Native Application Observability
+* [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) ⭐ 3,219 | 🐛 112 | 🌐 C++ | 📅 2026-10-23 - A modern high-performance open source message queuing system
 
 ## CSS
 
-* [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) ⭐ 6,114 | 🐛 9 | 🌐 CSS | 📅 2026-04-08 - 程序员工作中常见的英语词汇
+* [Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words) ⭐ 6,116 | 🐛 9 | 🌐 CSS | 📅 2026-04-08 - 程序员工作中常见的英语词汇
 
 ## Dart
 
-* [ente/ente](https://github.com/ente/ente) ⭐ 29,566 | 🐛 212 | 🌐 Dart | 📅 2026-10-24 - 💚 End-to-end encrypted cloud for everything.
+* [ente/ente](https://github.com/ente/ente) ⭐ 29,583 | 🐛 221 | 🌐 Dart | 📅 2026-10-25 - 💚 End-to-end encrypted cloud for everything.
 
 ## Dockerfile
 
-* [jaywcjlove/reference](https://github.com/jaywcjlove/reference) ⭐ 15,243 | 🐛 199 | 🌐 Dockerfile | 📅 2026-10-21 - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
+* [jaywcjlove/reference](https://github.com/jaywcjlove/reference) ⭐ 15,244 | 🐛 200 | 🌐 Dockerfile | 📅 2026-10-21 - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 
 ## Elixir
 
-* [openai/symphony](https://github.com/openai/symphony) ⭐ 27,804 | 🐛 0 | 🌐 Elixir | 📅 2026-09-15 - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
-* [tuist/tuist](https://github.com/tuist/tuist) ⭐ 5,848 | 🐛 549 | 🌐 Elixir | 📅 2026-10-24 - Your platform team, as a service
+* [openai/symphony](https://github.com/openai/symphony) ⭐ 27,811 | 🐛 0 | 🌐 Elixir | 📅 2026-09-15 - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+* [tuist/tuist](https://github.com/tuist/tuist) ⭐ 5,849 | 🐛 542 | 🌐 Elixir | 📅 2026-10-25 - Your platform team, as a service
 
 ## Go
 
-* [avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 190,081 | 🐛 86 | 🌐 Go | 📅 2026-10-23 - A curated list of awesome Go frameworks, libraries and software
-* [ollama/ollama](https://github.com/ollama/ollama) ⭐ 184,613 | 🐛 4,410 | 🌐 Go | 📅 2026-10-23 - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-* [golang/go](https://github.com/golang/go) ⭐ 139,506 | 🐛 10,443 | 🌐 Go | 📅 2026-10-23 - The Go programming language
-* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 128,600 | 🐛 3,211 | 🌐 Go | 📅 2026-10-24 - Production-Grade Container Scheduling and Management
-* [fatedier/frp](https://github.com/fatedier/frp) ⭐ 110,105 | 🐛 34 | 🌐 Go | 📅 2026-10-23 - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
-* [syncthing/syncthing](https://github.com/syncthing/syncthing) ⭐ 89,695 | 🐛 392 | 🌐 Go | 📅 2026-10-24 - Open Source Continuous File Synchronization
-* [netdata/netdata](https://github.com/netdata/netdata) ⭐ 81,115 | 🐛 456 | 🌐 Go | 📅 2026-10-24 - The fastest path to AI-powered full stack observability, even for lean teams.
-* [caddyserver/caddy](https://github.com/caddyserver/caddy) ⭐ 78,346 | 🐛 295 | 🌐 Go | 📅 2026-10-24 - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-* [nektos/act](https://github.com/nektos/act) ⭐ 72,440 | 🐛 398 | 🌐 Go | 📅 2026-08-09 - Run your GitHub Actions locally 🚀
-* [prometheus/prometheus](https://github.com/prometheus/prometheus) ⭐ 66,733 | 🐛 1,018 | 🌐 Go | 📅 2026-10-24 - The Prometheus monitoring system and time series database.
-* [traefik/traefik](https://github.com/traefik/traefik) ⭐ 65,345 | 🐛 961 | 🌐 Go | 📅 2026-10-23 - The Cloud Native Application Proxy
-* [rclone/rclone](https://github.com/rclone/rclone) ⭐ 60,505 | 🐛 1,263 | 🌐 Go | 📅 2026-10-22 - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
-* [wagoodman/dive](https://github.com/wagoodman/dive) ⭐ 54,666 | 🐛 217 | 🌐 Go | 📅 2025-12-15 - A tool for exploring each layer in a docker image
-* [etcd-io/etcd](https://github.com/etcd-io/etcd) ⭐ 52,424 | 🐛 393 | 🌐 Go | 📅 2026-10-23 - Distributed reliable key-value store for the most critical data of a distributed system
-* [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ⭐ 48,192 | 🐛 350 | 🌐 Go | 📅 2026-10-22 - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
-* [cli/cli](https://github.com/cli/cli) ⭐ 46,727 | 🐛 1,095 | 🌐 Go | 📅 2026-10-23 - GitHub’s official command line tool
-* [milvus-io/milvus](https://github.com/milvus-io/milvus) ⭐ 46,466 | 🐛 1,467 | 🌐 Go | 📅 2026-10-23 - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
-* [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ⭐ 45,491 | 🐛 273 | 🌐 Go | 📅 2026-10-21 - A powerful little TUI framework 🏗
-* [juanfont/headscale](https://github.com/juanfont/headscale) ⭐ 44,961 | 🐛 136 | 🌐 Go | 📅 2026-10-24 - An open source, self-hosted implementation of the Tailscale control server
-* [spf13/cobra](https://github.com/spf13/cobra) ⭐ 44,721 | 🐛 490 | 🌐 Go | 📅 2026-07-11 - A Commander for modern Go CLI interactions
-* [schollz/croc](https://github.com/schollz/croc) ⭐ 40,744 | 🐛 5 | 🌐 Go | 📅 2026-10-22 - Easily and securely send things from one computer to another :crocodile: :package:
-* [photoprism/photoprism](https://github.com/photoprism/photoprism) ⭐ 40,351 | 🐛 465 | 🌐 Go | 📅 2026-10-24 - AI-Powered Photos App 🌈💎✨
-* [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ⭐ 38,687 | 🐛 278 | 🌐 Go | 📅 2026-10-23 - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-* [istio/istio](https://github.com/istio/istio) ⭐ 38,469 | 🐛 498 | 🌐 Go | 📅 2026-10-23 - Connect, secure, control, and observe services.
-* [tailscale/tailscale](https://github.com/tailscale/tailscale) ⭐ 38,023 | 🐛 4,768 | 🌐 Go | 📅 2026-10-24 - The easiest, most secure way to use WireGuard and 2FA.
-* [restic/restic](https://github.com/restic/restic) ⭐ 36,771 | 🐛 637 | 🌐 Go | 📅 2026-10-18 - Fast, secure, efficient backup program
-* [hashicorp/vault](https://github.com/hashicorp/vault) ⭐ 36,423 | 🐛 1,474 | 🌐 Go | 📅 2026-10-23 - A tool for secrets management, encryption as a service, and privileged access management
-* [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) ⭐ 35,714 | 🐛 728 | 🌐 Go | 📅 2026-10-24 - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
-* [Tencent/WeKnora](https://github.com/Tencent/WeKnora) ⭐ 35,283 | 🐛 773 | 🌐 Go | 📅 2026-10-24 - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
-* [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) ⭐ 35,029 | 🐛 365 | 🌐 Go | 📅 2026-10-24 - Send push notifications to your phone or desktop using PUT/POST
-* [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) ⭐ 34,707 | 🐛 33 | 🌐 Go | 📅 2026-10-20 - A platform for building proxies to bypass network restrictions.
-* [k3s-io/k3s](https://github.com/k3s-io/k3s) ⭐ 34,244 | 🐛 89 | 🌐 Go | 📅 2026-10-22 - Lightweight Kubernetes
-* [podman-container-tools/podman](https://github.com/podman-container-tools/podman) ⭐ 33,111 | 🐛 989 | 🌐 Go | 📅 2026-10-24 - Podman: A tool for managing OCI containers and pods.
-* [grafana/k6](https://github.com/grafana/k6) ⭐ 32,022 | 🐛 764 | 🌐 Go | 📅 2026-10-23 - A modern load testing tool, using Go and JavaScript
-* [iawia002/lux](https://github.com/iawia002/lux) ⭐ 31,802 | 🐛 545 | 🌐 Go | 📅 2026-03-29 - 👾 Fast and simple video download library and CLI tool written in Go
-* [helm/helm](https://github.com/helm/helm) ⭐ 30,365 | 🐛 488 | 🌐 Go | 📅 2026-10-21 - The Kubernetes Package Manager
-* [netbirdio/netbird](https://github.com/netbirdio/netbird) ⭐ 30,180 | 🐛 797 | 🌐 Go | 📅 2026-10-24 - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
-* [goharbor/harbor](https://github.com/goharbor/harbor) ⭐ 29,603 | 🐛 956 | 🌐 Go | 📅 2026-10-24 - An open source trusted cloud native registry project that stores, signs, and scans content.
-* [grafana/loki](https://github.com/grafana/loki) ⭐ 29,053 | 🐛 1,178 | 🌐 Go | 📅 2026-10-24 - Like Prometheus, but for logs.
-* [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) ⭐ 28,681 | 🐛 581 | 🌐 Go | 📅 2026-10-24 - Find, verify, and analyze leaked credentials
-* [charmbracelet/glow](https://github.com/charmbracelet/glow) ⭐ 27,786 | 🐛 258 | 🌐 Go | 📅 2026-10-05 - Render markdown on the CLI, with pizzazz! 💅🏻
-* [openfaas/faas](https://github.com/openfaas/faas) ⭐ 26,252 | 🐛 31 | 🌐 Go | 📅 2026-10-23 - OpenFaaS - Serverless Functions Made Simple
-* [stretchr/testify](https://github.com/stretchr/testify) ⭐ 26,229 | 🐛 402 | 🌐 Go | 📅 2026-10-19 - A toolkit with common assertions and mocks that plays nicely with the standard library
-* [dapr/dapr](https://github.com/dapr/dapr) ⭐ 26,154 | 🐛 453 | 🌐 Go | 📅 2026-10-22 - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
-* [rancher/rancher](https://github.com/rancher/rancher) ⭐ 26,002 | 🐛 3,413 | 🌐 Go | 📅 2026-10-23 - Complete container management platform
-* [pulumi/pulumi](https://github.com/pulumi/pulumi) ⭐ 25,812 | 🐛 2,501 | 🌐 Go | 📅 2026-10-24 - Pulumi - Infrastructure as Code in any programming language 🚀
-* [nsqio/nsq](https://github.com/nsqio/nsq) ⭐ 25,771 | 🐛 82 | 🌐 Go | 📅 2026-08-11 - A realtime distributed messaging platform
-* [cilium/cilium](https://github.com/cilium/cilium) ⭐ 25,708 | 🐛 1,075 | 🌐 Go | 📅 2026-10-24 - eBPF-based Networking, Security, and Observability
-* [gocolly/colly](https://github.com/gocolly/colly) ⭐ 25,568 | 🐛 194 | 🌐 Go | 📅 2026-10-16 - Elegant Scraper and Crawler Framework for Golang
-* [tsenart/vegeta](https://github.com/tsenart/vegeta) ⭐ 25,225 | 🐛 125 | 🌐 Go | 📅 2026-09-24 - HTTP load testing tool and library. It's over 9000!
-* [go-delve/delve](https://github.com/go-delve/delve) ⭐ 24,947 | 🐛 83 | 🌐 Go | 📅 2026-10-21 - Delve is a debugger for the Go programming language.
-* [dolthub/dolt](https://github.com/dolthub/dolt) ⭐ 24,720 | 🐛 606 | 🌐 Go | 📅 2026-10-24 - Dolt – Git for Data
-* [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ⭐ 24,460 | 🐛 4,461 | 🌐 Go | 📅 2026-10-24 - Declarative Continuous Deployment for Kubernetes
-* [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,333 | 🐛 562 | 🌐 Go | 📅 2026-10-24 - CNCF Jaeger, a Distributed Tracing Platform
-* [grpc/grpc-go](https://github.com/grpc/grpc-go) ⭐ 23,094 | 🐛 189 | 🌐 Go | 📅 2026-10-23 - The Go language implementation of gRPC. HTTP/2 based RPC
-* [go-chi/chi](https://github.com/go-chi/chi) ⭐ 22,992 | 🐛 138 | 🌐 Go | 📅 2026-10-18 - lightweight, idiomatic and composable router for building Go HTTP services
-* [redis/go-redis](https://github.com/redis/go-redis) ⭐ 22,276 | 🐛 114 | 🌐 Go | 📅 2026-10-22 - Redis Go client
-* [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) ⭐ 21,812 | 🐛 100 | 🌐 Go | 📅 2026-10-23 - high-performance graph database for real-time use cases
-* [livekit/livekit](https://github.com/livekit/livekit) ⭐ 21,781 | 🐛 194 | 🌐 Go | 📅 2026-10-23 - End-to-end realtime stack for connecting humans and AI
-* [samber/lo](https://github.com/samber/lo) ⭐ 21,442 | 🐛 255 | 🌐 Go | 📅 2026-10-20 - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
-* [containerd/containerd](https://github.com/containerd/containerd) ⭐ 21,440 | 🐛 543 | 🌐 Go | 📅 2026-10-23 - An open and reliable container runtime
-* [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ⭐ 21,189 | 🐛 177 | 🌐 Go | 📅 2026-10-01 - Your CLI home video recorder 📼
-* [gravitational/teleport](https://github.com/gravitational/teleport) ⭐ 21,018 | 🐛 3,248 | 🌐 Go | 📅 2026-10-20 - The easiest, and most secure way to access and protect all of your infrastructure.
-* [qax-os/excelize](https://github.com/qax-os/excelize) ⭐ 21,015 | 🐛 146 | 🌐 Go | 📅 2026-10-20 - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
-* [nats-io/nats-server](https://github.com/nats-io/nats-server) ⭐ 20,919 | 🐛 507 | 🌐 Go | 📅 2026-10-22 - High-Performance server for NATS.io, the cloud and edge native messaging system.
-* [yetone/magpie](https://github.com/yetone/magpie) ⭐ 20,598 | 🐛 1,644 | 🌐 Go | 📅 2026-10-24 - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-* [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) ⭐ 20,501 | 🐛 217 | 🌐 Go | 📅 2026-10-24 - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio
-* [apache/casbin](https://github.com/apache/casbin) ⭐ 20,467 | 🐛 39 | 🌐 Go | 📅 2026-10-21 - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
+* [avelino/awesome-go](https://github.com/avelino/awesome-go) ⭐ 190,287 | 🐛 87 | 🌐 Go | 📅 2026-10-23 - A curated list of awesome Go frameworks, libraries and software
+* [ollama/ollama](https://github.com/ollama/ollama) ⭐ 184,722 | 🐛 4,419 | 🌐 Go | 📅 2026-10-24 - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+* [golang/go](https://github.com/golang/go) ⭐ 139,570 | 🐛 10,455 | 🌐 Go | 📅 2026-10-24 - The Go programming language
+* [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) ⭐ 128,670 | 🐛 3,224 | 🌐 Go | 📅 2026-10-24 - Production-Grade Container Scheduling and Management
+* [fatedier/frp](https://github.com/fatedier/frp) ⭐ 110,125 | 🐛 33 | 🌐 Go | 📅 2026-10-23 - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
+* [syncthing/syncthing](https://github.com/syncthing/syncthing) ⭐ 89,723 | 🐛 391 | 🌐 Go | 📅 2026-10-24 - Open Source Continuous File Synchronization
+* [netdata/netdata](https://github.com/netdata/netdata) ⭐ 81,121 | 🐛 463 | 🌐 Go | 📅 2026-10-25 - The fastest path to AI-powered full stack observability, even for lean teams.
+* [caddyserver/caddy](https://github.com/caddyserver/caddy) ⭐ 78,395 | 🐛 293 | 🌐 Go | 📅 2026-10-24 - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
+* [nektos/act](https://github.com/nektos/act) ⭐ 72,444 | 🐛 398 | 🌐 Go | 📅 2026-08-09 - Run your GitHub Actions locally 🚀
+* [prometheus/prometheus](https://github.com/prometheus/prometheus) ⭐ 66,748 | 🐛 1,027 | 🌐 Go | 📅 2026-10-25 - The Prometheus monitoring system and time series database.
+* [traefik/traefik](https://github.com/traefik/traefik) ⭐ 65,362 | 🐛 961 | 🌐 Go | 📅 2026-10-23 - The Cloud Native Application Proxy
+* [rclone/rclone](https://github.com/rclone/rclone) ⭐ 60,530 | 🐛 1,265 | 🌐 Go | 📅 2026-10-24 - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
+* [wagoodman/dive](https://github.com/wagoodman/dive) ⭐ 54,669 | 🐛 217 | 🌐 Go | 📅 2025-12-15 - A tool for exploring each layer in a docker image
+* [etcd-io/etcd](https://github.com/etcd-io/etcd) ⭐ 52,422 | 🐛 396 | 🌐 Go | 📅 2026-10-23 - Distributed reliable key-value store for the most critical data of a distributed system
+* [alibaba/open-code-review](https://github.com/alibaba/open-code-review) ⭐ 48,247 | 🐛 351 | 🌐 Go | 📅 2026-10-22 - Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE,
+* [cli/cli](https://github.com/cli/cli) ⭐ 46,738 | 🐛 1,099 | 🌐 Go | 📅 2026-10-24 - GitHub’s official command line tool
+* [milvus-io/milvus](https://github.com/milvus-io/milvus) ⭐ 46,476 | 🐛 1,472 | 🌐 Go | 📅 2026-10-23 - Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search
+* [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) ⭐ 45,507 | 🐛 274 | 🌐 Go | 📅 2026-10-21 - A powerful little TUI framework 🏗
+* [juanfont/headscale](https://github.com/juanfont/headscale) ⭐ 45,004 | 🐛 137 | 🌐 Go | 📅 2026-10-25 - An open source, self-hosted implementation of the Tailscale control server
+* [spf13/cobra](https://github.com/spf13/cobra) ⭐ 44,723 | 🐛 490 | 🌐 Go | 📅 2026-07-11 - A Commander for modern Go CLI interactions
+* [schollz/croc](https://github.com/schollz/croc) ⭐ 40,754 | 🐛 5 | 🌐 Go | 📅 2026-10-22 - Easily and securely send things from one computer to another :crocodile: :package:
+* [photoprism/photoprism](https://github.com/photoprism/photoprism) ⭐ 40,359 | 🐛 468 | 🌐 Go | 📅 2026-10-24 - AI-Powered Photos App 🌈💎✨
+* [aquasecurity/trivy](https://github.com/aquasecurity/trivy) ⭐ 38,706 | 🐛 280 | 🌐 Go | 📅 2026-10-23 - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+* [istio/istio](https://github.com/istio/istio) ⭐ 38,471 | 🐛 498 | 🌐 Go | 📅 2026-10-25 - Connect, secure, control, and observe services.
+* [tailscale/tailscale](https://github.com/tailscale/tailscale) ⭐ 38,051 | 🐛 4,774 | 🌐 Go | 📅 2026-10-25 - The easiest, most secure way to use WireGuard and 2FA.
+* [restic/restic](https://github.com/restic/restic) ⭐ 36,796 | 🐛 638 | 🌐 Go | 📅 2026-10-18 - Fast, secure, efficient backup program
+* [hashicorp/vault](https://github.com/hashicorp/vault) ⭐ 36,429 | 🐛 1,474 | 🌐 Go | 📅 2026-10-23 - A tool for secrets management, encryption as a service, and privileged access management
+* [seaweedfs/seaweedfs](https://github.com/seaweedfs/seaweedfs) ⭐ 35,725 | 🐛 709 | 🌐 Go | 📅 2026-10-25 - SeaweedFS is a distributed storage system for object storage (S3), file systems, and Iceberg tables, designed to handle billions of files with O(1) disk access and effortless horizontal scaling.
+* [Tencent/WeKnora](https://github.com/Tencent/WeKnora) ⭐ 35,368 | 🐛 791 | 🌐 Go | 📅 2026-10-24 - Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.
+* [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) ⭐ 35,054 | 🐛 364 | 🌐 Go | 📅 2026-10-25 - Send push notifications to your phone or desktop using PUT/POST
+* [v2fly/v2ray-core](https://github.com/v2fly/v2ray-core) ⭐ 34,706 | 🐛 32 | 🌐 Go | 📅 2026-10-20 - A platform for building proxies to bypass network restrictions.
+* [k3s-io/k3s](https://github.com/k3s-io/k3s) ⭐ 34,251 | 🐛 93 | 🌐 Go | 📅 2026-10-22 - Lightweight Kubernetes
+* [podman-container-tools/podman](https://github.com/podman-container-tools/podman) ⭐ 33,116 | 🐛 990 | 🌐 Go | 📅 2026-10-24 - Podman: A tool for managing OCI containers and pods.
+* [grafana/k6](https://github.com/grafana/k6) ⭐ 32,036 | 🐛 768 | 🌐 Go | 📅 2026-10-23 - A modern load testing tool, using Go and JavaScript
+* [iawia002/lux](https://github.com/iawia002/lux) ⭐ 31,803 | 🐛 545 | 🌐 Go | 📅 2026-03-29 - 👾 Fast and simple video download library and CLI tool written in Go
+* [helm/helm](https://github.com/helm/helm) ⭐ 30,369 | 🐛 485 | 🌐 Go | 📅 2026-10-25 - The Kubernetes Package Manager
+* [netbirdio/netbird](https://github.com/netbirdio/netbird) ⭐ 30,202 | 🐛 801 | 🌐 Go | 📅 2026-10-25 - NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard®
+* [goharbor/harbor](https://github.com/goharbor/harbor) ⭐ 29,610 | 🐛 954 | 🌐 Go | 📅 2026-10-25 - An open source trusted cloud native registry project that stores, signs, and scans content.
+* [grafana/loki](https://github.com/grafana/loki) ⭐ 29,055 | 🐛 1,211 | 🌐 Go | 📅 2026-10-25 - Like Prometheus, but for logs.
+* [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) ⭐ 28,698 | 🐛 583 | 🌐 Go | 📅 2026-10-24 - Find, verify, and analyze leaked credentials
+* [charmbracelet/glow](https://github.com/charmbracelet/glow) ⭐ 27,804 | 🐛 258 | 🌐 Go | 📅 2026-10-05 - Render markdown on the CLI, with pizzazz! 💅🏻
+* [openfaas/faas](https://github.com/openfaas/faas) ⭐ 26,253 | 🐛 31 | 🌐 Go | 📅 2026-10-23 - OpenFaaS - Serverless Functions Made Simple
+* [stretchr/testify](https://github.com/stretchr/testify) ⭐ 26,231 | 🐛 403 | 🌐 Go | 📅 2026-10-19 - A toolkit with common assertions and mocks that plays nicely with the standard library
+* [dapr/dapr](https://github.com/dapr/dapr) ⭐ 26,154 | 🐛 451 | 🌐 Go | 📅 2026-10-22 - Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration.
+* [rancher/rancher](https://github.com/rancher/rancher) ⭐ 26,005 | 🐛 3,412 | 🌐 Go | 📅 2026-10-23 - Complete container management platform
+* [pulumi/pulumi](https://github.com/pulumi/pulumi) ⭐ 25,816 | 🐛 2,504 | 🌐 Go | 📅 2026-10-25 - Pulumi - Infrastructure as Code in any programming language 🚀
+* [nsqio/nsq](https://github.com/nsqio/nsq) ⭐ 25,772 | 🐛 82 | 🌐 Go | 📅 2026-08-11 - A realtime distributed messaging platform
+* [cilium/cilium](https://github.com/cilium/cilium) ⭐ 25,712 | 🐛 1,067 | 🌐 Go | 📅 2026-10-25 - eBPF-based Networking, Security, and Observability
+* [gocolly/colly](https://github.com/gocolly/colly) ⭐ 25,570 | 🐛 194 | 🌐 Go | 📅 2026-10-16 - Elegant Scraper and Crawler Framework for Golang
+* [tsenart/vegeta](https://github.com/tsenart/vegeta) ⭐ 25,227 | 🐛 125 | 🌐 Go | 📅 2026-09-24 - HTTP load testing tool and library. It's over 9000!
+* [go-delve/delve](https://github.com/go-delve/delve) ⭐ 24,949 | 🐛 83 | 🌐 Go | 📅 2026-10-21 - Delve is a debugger for the Go programming language.
+* [dolthub/dolt](https://github.com/dolthub/dolt) ⭐ 24,729 | 🐛 606 | 🌐 Go | 📅 2026-10-24 - Dolt – Git for Data
+* [argoproj/argo-cd](https://github.com/argoproj/argo-cd) ⭐ 24,469 | 🐛 4,462 | 🌐 Go | 📅 2026-10-25 - Declarative Continuous Deployment for Kubernetes
+* [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) ⭐ 23,338 | 🐛 574 | 🌐 Go | 📅 2026-10-24 - CNCF Jaeger, a Distributed Tracing Platform
+* [grpc/grpc-go](https://github.com/grpc/grpc-go) ⭐ 23,093 | 🐛 191 | 🌐 Go | 📅 2026-10-23 - The Go language implementation of gRPC. HTTP/2 based RPC
+* [go-chi/chi](https://github.com/go-chi/chi) ⭐ 22,995 | 🐛 140 | 🌐 Go | 📅 2026-10-18 - lightweight, idiomatic and composable router for building Go HTTP services
+* [redis/go-redis](https://github.com/redis/go-redis) ⭐ 22,277 | 🐛 115 | 🌐 Go | 📅 2026-10-22 - Redis Go client
+* [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) ⭐ 21,812 | 🐛 101 | 🌐 Go | 📅 2026-10-23 - high-performance graph database for real-time use cases
+* [livekit/livekit](https://github.com/livekit/livekit) ⭐ 21,800 | 🐛 195 | 🌐 Go | 📅 2026-10-25 - End-to-end realtime stack for connecting humans and AI
+* [samber/lo](https://github.com/samber/lo) ⭐ 21,444 | 🐛 255 | 🌐 Go | 📅 2026-10-20 - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
+* [containerd/containerd](https://github.com/containerd/containerd) ⭐ 21,443 | 🐛 545 | 🌐 Go | 📅 2026-10-23 - An open and reliable container runtime
+* [yetone/magpie](https://github.com/yetone/magpie) ⭐ 21,265 | 🐛 1,742 | 🌐 Go | 📅 2026-10-25 - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
+* [charmbracelet/vhs](https://github.com/charmbracelet/vhs) ⭐ 21,197 | 🐛 177 | 🌐 Go | 📅 2026-10-01 - Your CLI home video recorder 📼
+* [gravitational/teleport](https://github.com/gravitational/teleport) ⭐ 21,022 | 🐛 3,249 | 🌐 Go | 📅 2026-10-20 - The easiest, and most secure way to access and protect all of your infrastructure.
+* [qax-os/excelize](https://github.com/qax-os/excelize) ⭐ 21,016 | 🐛 147 | 🌐 Go | 📅 2026-10-20 - Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets
+* [nats-io/nats-server](https://github.com/nats-io/nats-server) ⭐ 20,921 | 🐛 506 | 🌐 Go | 📅 2026-10-22 - High-Performance server for NATS.io, the cloud and edge native messaging system.
+* [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) ⭐ 20,510 | 🐛 215 | 🌐 Go | 📅 2026-10-25 - Ready-to-use Media-over-QUIC / SRT / WebRTC / RTSP / RTMP / LL-HLS / MPEG-TS / RTP live media server and media proxy that allows to read, publish, proxy, record and playback real-time video and audio
+* [apache/casbin](https://github.com/apache/casbin) ⭐ 20,469 | 🐛 39 | 🌐 Go | 📅 2026-10-21 - Apache Casbin: an authorization library that supports access control models like ACL, RBAC, ABAC.
 * [go-playground/validator](https://github.com/go-playground/validator) ⭐ 20,207 | 🐛 348 | 🌐 Go | 📅 2026-10-21 - :100:Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving
-* [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ⭐ 20,057 | 🐛 41 | 🌐 Go | 📅 2026-10-11 - Faster way to switch between clusters and namespaces in kubectl
-* [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) ⭐ 20,007 | 🐛 151 | 🌐 Go | 📅 2026-10-24 - gRPC to JSON proxy generator following the gRPC HTTP spec
-* [google/gvisor](https://github.com/google/gvisor) ⭐ 19,765 | 🐛 1,036 | 🌐 Go | 📅 2026-10-24 - Application Kernel for Containers
-* [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) ⭐ 19,728 | 🐛 8 | 🌐 Go | 📅 2026-10-18 - Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programmi
-* [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ⭐ 19,466 | 🐛 115 | 🌐 Go | 📅 2026-10-21 - Fast linters runner for Go
-* [probelabs/goreplay](https://github.com/probelabs/goreplay) ⭐ 19,322 | 🐛 340 | 🌐 Go | 📅 2026-01-27 - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
-* [golang-migrate/migrate](https://github.com/golang-migrate/migrate) ⭐ 18,988 | 🐛 494 | 🌐 Go | 📅 2026-09-09 - Database migrations. CLI and Golang library.
-* [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) ⭐ 18,406 | 🐛 697 | 🌐 Go | 📅 2026-10-23 - Generate type-safe code from SQL
-* [labring/sealos](https://github.com/labring/sealos) ⭐ 18,375 | 🐛 51 | 🌐 Go | 📅 2026-10-24 - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
-* [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17,900 | 🐛 795 | 🌐 Go | 📅 2026-10-23 - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
-* [influxdata/telegraf](https://github.com/influxdata/telegraf) ⭐ 17,878 | 🐛 439 | 🌐 Go | 📅 2026-10-22 - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
-* [rqlite/rqlite](https://github.com/rqlite/rqlite) ⭐ 17,848 | 🐛 67 | 🌐 Go | 📅 2026-10-24 - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
-* [larksuite/cli](https://github.com/larksuite/cli) ⭐ 17,819 | 🐛 714 | 🌐 Go | 📅 2026-10-23 - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings,
-* [projectdiscovery/katana](https://github.com/projectdiscovery/katana) ⭐ 17,722 | 🐛 16 | 🌐 Go | 📅 2026-10-23 - A next-generation crawling and spidering framework.
-* [ipfs/kubo](https://github.com/ipfs/kubo) ⭐ 17,156 | 🐛 879 | 🌐 Go | 📅 2026-10-21 - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
-* [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ⭐ 17,050 | 🐛 1,350 | 🌐 Go | 📅 2026-10-23 - Workflow Engine for Kubernetes
-* [pion/webrtc](https://github.com/pion/webrtc) ⭐ 16,851 | 🐛 108 | 🌐 Go | 📅 2026-10-24 - Pure Go implementation of the WebRTC API
-* [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) ⭐ 16,717 | 🐛 405 | 🌐 Go | 📅 2026-10-23 - MCP Toolbox for Databases is an open source MCP server for databases.
-* [kubernetes/kops](https://github.com/kubernetes/kops) ⭐ 16,694 | 🐛 128 | 🌐 Go | 📅 2026-10-24 - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
-* [dagger/dagger](https://github.com/dagger/dagger) ⭐ 16,461 | 🐛 242 | 🌐 Go | 📅 2026-10-24 - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
-* [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ⭐ 16,233 | 🐛 568 | 🌐 Go | 📅 2026-10-23 - Cloudflare Tunnel client
-* [mikefarah/yq](https://github.com/mikefarah/yq) ⭐ 16,174 | 🐛 323 | 🌐 Go | 📅 2026-10-22 - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
-* [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ⭐ 16,117 | 🐛 19 | 🌐 Go | 📅 2026-10-24 - Release engineering, simplified
-* [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) ⭐ 15,898 | 🐛 918 | 🌐 Go | 📅 2026-10-21 - Easy and Repeatable Kubernetes Development
-* [dgraph-io/badger](https://github.com/dgraph-io/badger) ⭐ 15,788 | 🐛 79 | 🌐 Go | 📅 2026-10-20 - Fast key-value DB in Go.
-* [apache/answer](https://github.com/apache/answer) ⭐ 15,701 | 🐛 135 | 🌐 Go | 📅 2026-10-21 - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
-* [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ⭐ 15,575 | 🐛 247 | 🌐 Go | 📅 2026-10-22 - Kubernetes IN Docker - local clusters for testing Kubernetes
-* [zitadel/zitadel](https://github.com/zitadel/zitadel) ⭐ 15,421 | 🐛 1,313 | 🌐 Go | 📅 2026-10-23 - ZITADEL - Identity infrastructure, simplified for you.
-* [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) ⭐ 14,632 | 🐛 33 | 🌐 Go | 📅 2026-10-22 - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
-* [bytebase/bytebase](https://github.com/bytebase/bytebase) ⭐ 14,629 | 🐛 172 | 🌐 Go | 📅 2026-10-23 - Database governance built for humans and agents — controlling changes and access across every major database.
-* [juicedata/juicefs](https://github.com/juicedata/juicefs) ⭐ 14,567 | 🐛 250 | 🌐 Go | 📅 2026-10-23 - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
-* [panjf2000/ants](https://github.com/panjf2000/ants) ⭐ 14,524 | 🐛 0 | 🌐 Go | 📅 2026-09-19 - 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
-* [benbjohnson/litestream](https://github.com/benbjohnson/litestream) ⭐ 14,521 | 🐛 160 | 🌐 Go | 📅 2026-10-23 - Streaming replication for SQLite.
-* [coredns/coredns](https://github.com/coredns/coredns) ⭐ 14,395 | 🐛 295 | 🌐 Go | 📅 2026-10-24 - CoreDNS is a DNS server that chains plugins
-* [jackc/pgx](https://github.com/jackc/pgx) ⭐ 14,354 | 🐛 218 | 🌐 Go | 📅 2026-10-21 - PostgreSQL driver and toolkit for Go
-* [thanos-io/thanos](https://github.com/thanos-io/thanos) ⭐ 14,251 | 🐛 931 | 🌐 Go | 📅 2026-10-23 - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
-* [rivo/tview](https://github.com/rivo/tview) ⭐ 14,146 | 🐛 107 | 🌐 Go | 📅 2026-08-11 - Terminal UI library with rich, interactive widgets — written in Golang
-* [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ⭐ 14,125 | 🐛 293 | 🌐 Go | 📅 2026-10-24 - Automatically provision and manage TLS certificates in Kubernetes
-* [google/ax](https://github.com/google/ax) ⭐ 14,057 | 🐛 93 | 🌐 Go | 📅 2026-10-22 - Agent Executor (AX) is Google's open agentic orchestration runtime
-* [ory/kratos](https://github.com/ory/kratos) ⭐ 13,933 | 🐛 236 | 🌐 Go | 📅 2026-07-29 - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC,
-* [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) ⭐ 13,876 | 🐛 327 | 🌐 Go | 📅 2026-10-22 - Exporter for machine metrics
-* [hibiken/asynq](https://github.com/hibiken/asynq) ⭐ 13,786 | 🐛 293 | 🌐 Go | 📅 2026-10-19 - Simple, reliable, and efficient distributed task queue in Go
-* [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,764 | 🐛 1 | 🌐 Go | 📅 2026-10-22 - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
-* [rook/rook](https://github.com/rook/rook) ⭐ 13,693 | 🐛 126 | 🌐 Go | 📅 2026-10-22 - Storage Orchestration for Kubernetes
-* [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) ⭐ 12,862 | 🐛 121 | 🌐 Go | 📅 2026-10-13 - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
-* [drakkan/sftpgo](https://github.com/drakkan/sftpgo) ⭐ 12,700 | 🐛 181 | 🌐 Go | 📅 2026-10-22 - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
-* [IBM/sarama](https://github.com/IBM/sarama) ⭐ 12,521 | 🐛 63 | 🌐 Go | 📅 2026-10-23 - Sarama is a Go library for Apache Kafka.
-* [jetify-com/devbox](https://github.com/jetify-com/devbox) ⭐ 12,424 | 🐛 421 | 🌐 Go | 📅 2026-10-23 - Instant, easy, and predictable development environments
-* [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ⭐ 12,396 | 🐛 293 | 🌐 Go | 📅 2026-10-24 - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
-* [TwiN/gatus](https://github.com/TwiN/gatus) ⭐ 12,392 | 🐛 427 | 🌐 Go | 📅 2026-10-22 - Automated developer-oriented status page with alerting and incident support
-* [adnanh/webhook](https://github.com/adnanh/webhook) ⭐ 12,195 | 🐛 128 | 🌐 Go | 📅 2026-09-04 - webhook is a lightweight incoming webhook server to run shell commands
-* [crossplane/crossplane](https://github.com/crossplane/crossplane) ⭐ 12,190 | 🐛 199 | 🌐 Go | 📅 2026-10-24 - The Cloud Native Control Plane
-* [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ⭐ 12,189 | 🐛 192 | 🌐 Go | 📅 2026-10-18 - Customization of kubernetes YAML configurations
+* [ahmetb/kubectx](https://github.com/ahmetb/kubectx) ⭐ 20,058 | 🐛 41 | 🌐 Go | 📅 2026-10-11 - Faster way to switch between clusters and namespaces in kubectl
+* [grpc-ecosystem/grpc-gateway](https://github.com/grpc-ecosystem/grpc-gateway) ⭐ 20,008 | 🐛 142 | 🌐 Go | 📅 2026-10-25 - gRPC to JSON proxy generator following the gRPC HTTP spec
+* [google/gvisor](https://github.com/google/gvisor) ⭐ 19,774 | 🐛 988 | 🌐 Go | 📅 2026-10-25 - Application Kernel for Containers
+* [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) ⭐ 19,732 | 🐛 8 | 🌐 Go | 📅 2026-10-25 - Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programmi
+* [golangci/golangci-lint](https://github.com/golangci/golangci-lint) ⭐ 19,469 | 🐛 118 | 🌐 Go | 📅 2026-10-25 - Fast linters runner for Go
+* [probelabs/goreplay](https://github.com/probelabs/goreplay) ⭐ 19,324 | 🐛 340 | 🌐 Go | 📅 2026-01-27 - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in
+* [golang-migrate/migrate](https://github.com/golang-migrate/migrate) ⭐ 18,989 | 🐛 494 | 🌐 Go | 📅 2026-09-09 - Database migrations. CLI and Golang library.
+* [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) ⭐ 18,407 | 🐛 707 | 🌐 Go | 📅 2026-10-23 - Generate type-safe code from SQL
+* [labring/sealos](https://github.com/labring/sealos) ⭐ 18,378 | 🐛 52 | 🌐 Go | 📅 2026-10-24 - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
+* [VictoriaMetrics/VictoriaMetrics](https://github.com/VictoriaMetrics/VictoriaMetrics) ⭐ 17,904 | 🐛 796 | 🌐 Go | 📅 2026-10-25 - VictoriaMetrics: fast, cost-effective monitoring solution and time series database
+* [influxdata/telegraf](https://github.com/influxdata/telegraf) ⭐ 17,879 | 🐛 440 | 🌐 Go | 📅 2026-10-22 - Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.
+* [rqlite/rqlite](https://github.com/rqlite/rqlite) ⭐ 17,865 | 🐛 67 | 🌐 Go | 📅 2026-10-24 - The lightweight, fault-tolerant database built on SQLite. Designed to keep your data highly available with minimal effort.
+* [larksuite/cli](https://github.com/larksuite/cli) ⭐ 17,825 | 🐛 714 | 🌐 Go | 📅 2026-10-23 - The official Lark/飞书 CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings,
+* [projectdiscovery/katana](https://github.com/projectdiscovery/katana) ⭐ 17,727 | 🐛 15 | 🌐 Go | 📅 2026-10-25 - A next-generation crawling and spidering framework.
+* [ipfs/kubo](https://github.com/ipfs/kubo) ⭐ 17,158 | 🐛 879 | 🌐 Go | 📅 2026-10-21 - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
+* [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) ⭐ 17,052 | 🐛 1,354 | 🌐 Go | 📅 2026-10-23 - Workflow Engine for Kubernetes
+* [pion/webrtc](https://github.com/pion/webrtc) ⭐ 16,853 | 🐛 110 | 🌐 Go | 📅 2026-10-24 - Pure Go implementation of the WebRTC API
+* [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) ⭐ 16,721 | 🐛 406 | 🌐 Go | 📅 2026-10-23 - MCP Toolbox for Databases is an open source MCP server for databases.
+* [kubernetes/kops](https://github.com/kubernetes/kops) ⭐ 16,696 | 🐛 131 | 🌐 Go | 📅 2026-10-25 - Kubernetes Operations (kOps) - Production Grade k8s Installation, Upgrades and Management
+* [dagger/dagger](https://github.com/dagger/dagger) ⭐ 16,495 | 🐛 242 | 🌐 Go | 📅 2026-10-24 - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
+* [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) ⭐ 16,239 | 🐛 569 | 🌐 Go | 📅 2026-10-23 - Cloudflare Tunnel client
+* [mikefarah/yq](https://github.com/mikefarah/yq) ⭐ 16,185 | 🐛 323 | 🌐 Go | 📅 2026-10-22 - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
+* [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) ⭐ 16,125 | 🐛 20 | 🌐 Go | 📅 2026-10-24 - Release engineering, simplified
+* [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) ⭐ 15,900 | 🐛 918 | 🌐 Go | 📅 2026-10-21 - Easy and Repeatable Kubernetes Development
+* [dgraph-io/badger](https://github.com/dgraph-io/badger) ⭐ 15,789 | 🐛 79 | 🌐 Go | 📅 2026-10-20 - Fast key-value DB in Go.
+* [apache/answer](https://github.com/apache/answer) ⭐ 15,702 | 🐛 136 | 🌐 Go | 📅 2026-10-21 - A Q\&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
+* [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) ⭐ 15,575 | 🐛 246 | 🌐 Go | 📅 2026-10-22 - Kubernetes IN Docker - local clusters for testing Kubernetes
+* [zitadel/zitadel](https://github.com/zitadel/zitadel) ⭐ 15,426 | 🐛 1,315 | 🌐 Go | 📅 2026-10-23 - ZITADEL - Identity infrastructure, simplified for you.
+* [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) ⭐ 14,637 | 🐛 33 | 🌐 Go | 📅 2026-10-22 - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
+* [bytebase/bytebase](https://github.com/bytebase/bytebase) ⭐ 14,636 | 🐛 172 | 🌐 Go | 📅 2026-10-23 - Database governance built for humans and agents — controlling changes and access across every major database.
+* [juicedata/juicefs](https://github.com/juicedata/juicefs) ⭐ 14,571 | 🐛 256 | 🌐 Go | 📅 2026-10-23 - JuiceFS is a distributed POSIX file system built on top of Redis and S3.
+* [panjf2000/ants](https://github.com/panjf2000/ants) ⭐ 14,527 | 🐛 0 | 🌐 Go | 📅 2026-09-19 - 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
+* [benbjohnson/litestream](https://github.com/benbjohnson/litestream) ⭐ 14,526 | 🐛 160 | 🌐 Go | 📅 2026-10-23 - Streaming replication for SQLite.
+* [coredns/coredns](https://github.com/coredns/coredns) ⭐ 14,395 | 🐛 297 | 🌐 Go | 📅 2026-10-25 - CoreDNS is a DNS server that chains plugins
+* [jackc/pgx](https://github.com/jackc/pgx) ⭐ 14,355 | 🐛 218 | 🌐 Go | 📅 2026-10-21 - PostgreSQL driver and toolkit for Go
+* [thanos-io/thanos](https://github.com/thanos-io/thanos) ⭐ 14,253 | 🐛 931 | 🌐 Go | 📅 2026-10-23 - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
+* [rivo/tview](https://github.com/rivo/tview) ⭐ 14,145 | 🐛 107 | 🌐 Go | 📅 2026-08-11 - Terminal UI library with rich, interactive widgets — written in Golang
+* [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) ⭐ 14,126 | 🐛 290 | 🌐 Go | 📅 2026-10-25 - Automatically provision and manage TLS certificates in Kubernetes
+* [google/ax](https://github.com/google/ax) ⭐ 14,067 | 🐛 96 | 🌐 Go | 📅 2026-10-25 - Agent Executor (AX) is Google's open agentic orchestration runtime
+* [ory/kratos](https://github.com/ory/kratos) ⭐ 13,934 | 🐛 236 | 🌐 Go | 📅 2026-07-29 - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC,
+* [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) ⭐ 13,877 | 🐛 326 | 🌐 Go | 📅 2026-10-24 - Exporter for machine metrics
+* [hibiken/asynq](https://github.com/hibiken/asynq) ⭐ 13,790 | 🐛 293 | 🌐 Go | 📅 2026-10-19 - Simple, reliable, and efficient distributed task queue in Go
+* [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) ⭐ 13,764 | 🐛 2 | 🌐 Go | 📅 2026-10-22 - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+* [rook/rook](https://github.com/rook/rook) ⭐ 13,694 | 🐛 126 | 🌐 Go | 📅 2026-10-22 - Storage Orchestration for Kubernetes
+* [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) ⭐ 12,863 | 🐛 121 | 🌐 Go | 📅 2026-10-13 - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers
+* [drakkan/sftpgo](https://github.com/drakkan/sftpgo) ⭐ 12,704 | 🐛 181 | 🌐 Go | 📅 2026-10-22 - Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob
+* [IBM/sarama](https://github.com/IBM/sarama) ⭐ 12,524 | 🐛 64 | 🌐 Go | 📅 2026-10-25 - Sarama is a Go library for Apache Kafka.
+* [jetify-com/devbox](https://github.com/jetify-com/devbox) ⭐ 12,427 | 🐛 409 | 🌐 Go | 📅 2026-10-25 - Instant, easy, and predictable development environments
+* [TwiN/gatus](https://github.com/TwiN/gatus) ⭐ 12,403 | 🐛 428 | 🌐 Go | 📅 2026-10-22 - Automated developer-oriented status page with alerting and incident support
+* [open-policy-agent/opa](https://github.com/open-policy-agent/opa) ⭐ 12,400 | 🐛 293 | 🌐 Go | 📅 2026-10-25 - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
+* [adnanh/webhook](https://github.com/adnanh/webhook) ⭐ 12,196 | 🐛 128 | 🌐 Go | 📅 2026-09-04 - webhook is a lightweight incoming webhook server to run shell commands
+* [crossplane/crossplane](https://github.com/crossplane/crossplane) ⭐ 12,192 | 🐛 199 | 🌐 Go | 📅 2026-10-25 - The Cloud Native Control Plane
+* [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) ⭐ 12,189 | 🐛 189 | 🌐 Go | 📅 2026-10-18 - Customization of kubernetes YAML configurations
 * [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) ⭐ 12,109 | 🐛 141 | 🌐 Go | 📅 2026-10-21 - eBPF-powered network observability for Kubernetes. Indexes L4/L7 traffic with full K8s context, decrypts TLS without keys. Queryable by AI agents via MCP and humans via dashboard.
-* [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ⭐ 11,949 | 🐛 164 | 🌐 Go | 📅 2026-10-11 - Style definitions for nice terminal layouts 👄
-* [shirou/gopsutil](https://github.com/shirou/gopsutil) ⭐ 11,936 | 🐛 214 | 🌐 Go | 📅 2026-10-24 - psutil for golang
-* [majd/ipatool](https://github.com/majd/ipatool) ⭐ 11,892 | 🐛 14 | 🌐 Go | 📅 2026-10-21 - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
-* [gravitl/netmaker](https://github.com/gravitl/netmaker) ⭐ 11,836 | 🐛 217 | 🌐 Go | 📅 2026-10-23 - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
-* [kubescape/kubescape](https://github.com/kubescape/kubescape) ⭐ 11,818 | 🐛 49 | 🌐 Go | 📅 2026-10-24 - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes
-* [go-resty/resty](https://github.com/go-resty/resty) ⭐ 11,818 | 🐛 31 | 🌐 Go | 📅 2026-10-19 - Simple HTTP, REST, and SSE client library for Go
-* [grafana/pyroscope](https://github.com/grafana/pyroscope) ⭐ 11,703 | 🐛 419 | 🌐 Go | 📅 2026-10-24 - Continuous Profiling Platform. Debug performance issues down to a single line of code
-* [pressly/goose](https://github.com/pressly/goose) ⭐ 11,616 | 🐛 145 | 🌐 Go | 📅 2026-10-23 - A database migration tool. Supports SQL migrations and Go functions.
-* [bufbuild/buf](https://github.com/bufbuild/buf) ⭐ 11,500 | 🐛 54 | 🌐 Go | 📅 2026-10-23 - The best way of working with Protocol Buffers.
-* [loft-sh/vcluster](https://github.com/loft-sh/vcluster) ⭐ 11,354 | 🐛 192 | 🌐 Go | 📅 2026-10-23 - vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs an
-* [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) ⭐ 11,344 | 🐛 68 | 🌐 Go | 📅 2026-10-24 - Work with remote images registries - retrieving information, images, signing content
-* [google/go-github](https://github.com/google/go-github) ⭐ 11,327 | 🐛 37 | 🌐 Go | 📅 2026-10-24 - Go library for accessing the GitHub v3 API
-* [google/osv-scanner](https://github.com/google/osv-scanner) ⭐ 11,255 | 🐛 105 | 🌐 Go | 📅 2026-10-23 - Vulnerability scanner written in Go which uses the data provided by <https://osv.dev>
-* [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) ⭐ 11,144 | 🐛 71 | 🌐 Go | 📅 2026-10-22 - Fast and secure standalone server for resizing, processing, and converting images on the fly
-* [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) ⭐ 10,869 | 🐛 513 | 🌐 Go | 📅 2026-10-23 - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
-* [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) ⭐ 10,805 | 🐛 67 | 🌐 Go | 📅 2026-05-11 - Cross-platform filesystem notifications for Go.
-* [kedacore/keda](https://github.com/kedacore/keda) ⭐ 10,659 | 🐛 279 | 🌐 Go | 📅 2026-10-24 - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
-* [wader/fq](https://github.com/wader/fq) ⭐ 10,618 | 🐛 59 | 🌐 Go | 📅 2026-10-22 - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
-* [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,528 | 🐛 14 | 🌐 Go | 📅 2026-10-23 - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-* [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,525 | 🐛 6 | 🌐 Go | 📅 2026-10-01 - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
-* [stakater/Reloader](https://github.com/stakater/Reloader) ⭐ 10,515 | 🐛 162 | 🌐 Go | 📅 2026-10-22 - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – \[✩Star] if you're usin
-* [containerd/nerdctl](https://github.com/containerd/nerdctl) ⭐ 10,449 | 🐛 362 | 🌐 Go | 📅 2026-10-23 - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
-* [velero-io/velero](https://github.com/velero-io/velero) ⭐ 10,355 | 🐛 818 | 🌐 Go | 📅 2026-10-23 - Backup and migrate Kubernetes applications and their persistent volumes
+* [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) ⭐ 11,957 | 🐛 167 | 🌐 Go | 📅 2026-10-11 - Style definitions for nice terminal layouts 👄
+* [shirou/gopsutil](https://github.com/shirou/gopsutil) ⭐ 11,939 | 🐛 215 | 🌐 Go | 📅 2026-10-24 - psutil for golang
+* [majd/ipatool](https://github.com/majd/ipatool) ⭐ 11,928 | 🐛 15 | 🌐 Go | 📅 2026-10-25 - Command-line tool that allows you to search for iOS, iPadOS, tvOS, watchOS, visionOS, and macOS apps on the App Store, and download .ipa or macOS .pkg app packages.
+* [gravitl/netmaker](https://github.com/gravitl/netmaker) ⭐ 11,838 | 🐛 217 | 🌐 Go | 📅 2026-10-23 - Netmaker makes networks with WireGuard. Netmaker automates fast, secure, and distributed virtual networks.
+* [kubescape/kubescape](https://github.com/kubescape/kubescape) ⭐ 11,820 | 🐛 49 | 🌐 Go | 📅 2026-10-25 - Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes
+* [go-resty/resty](https://github.com/go-resty/resty) ⭐ 11,820 | 🐛 31 | 🌐 Go | 📅 2026-10-19 - Simple HTTP, REST, and SSE client library for Go
+* [grafana/pyroscope](https://github.com/grafana/pyroscope) ⭐ 11,703 | 🐛 420 | 🌐 Go | 📅 2026-10-25 - Continuous Profiling Platform. Debug performance issues down to a single line of code
+* [pressly/goose](https://github.com/pressly/goose) ⭐ 11,619 | 🐛 145 | 🌐 Go | 📅 2026-10-25 - A database migration tool. Supports SQL migrations and Go functions.
+* [bufbuild/buf](https://github.com/bufbuild/buf) ⭐ 11,503 | 🐛 59 | 🌐 Go | 📅 2026-10-25 - The best way of working with Protocol Buffers.
+* [loft-sh/vcluster](https://github.com/loft-sh/vcluster) ⭐ 11,358 | 🐛 192 | 🌐 Go | 📅 2026-10-23 - vCluster creates tenant clusters: fully isolated environments delivered as managed Kubernetes, or as the foundation for Slurm, Ray, Run:ai and inference clusters. Each gets its own API server, CRDs an
+* [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) ⭐ 11,348 | 🐛 68 | 🌐 Go | 📅 2026-10-24 - Work with remote images registries - retrieving information, images, signing content
+* [google/go-github](https://github.com/google/go-github) ⭐ 11,328 | 🐛 36 | 🌐 Go | 📅 2026-10-24 - Go library for accessing the GitHub v3 API
+* [google/osv-scanner](https://github.com/google/osv-scanner) ⭐ 11,264 | 🐛 103 | 🌐 Go | 📅 2026-10-24 - Vulnerability scanner written in Go which uses the data provided by <https://osv.dev>
+* [imgproxy/imgproxy](https://github.com/imgproxy/imgproxy) ⭐ 11,149 | 🐛 71 | 🌐 Go | 📅 2026-10-22 - Fast and secure standalone server for resizing, processing, and converting images on the fly
+* [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) ⭐ 10,871 | 🐛 514 | 🌐 Go | 📅 2026-10-23 - Open Source API and AI Gateway supporting REST, GraphQL, TCP, gRPC and MCP (Model Context Protocol)
+* [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) ⭐ 10,806 | 🐛 67 | 🌐 Go | 📅 2026-05-11 - Cross-platform filesystem notifications for Go.
+* [kedacore/keda](https://github.com/kedacore/keda) ⭐ 10,664 | 🐛 274 | 🌐 Go | 📅 2026-10-25 - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
+* [wader/fq](https://github.com/wader/fq) ⭐ 10,619 | 🐛 59 | 🌐 Go | 📅 2026-10-22 - fq - jq for binary formats. Tool, language and decoders for working with binary formats.
+* [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) ⭐ 10,539 | 🐛 9 | 🌐 Go | 📅 2026-10-25 - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
+* [claudiodangelis/qrcp](https://github.com/claudiodangelis/qrcp) ⭐ 10,526 | 🐛 6 | 🌐 Go | 📅 2026-10-01 - :zap: Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.
+* [stakater/Reloader](https://github.com/stakater/Reloader) ⭐ 10,518 | 🐛 162 | 🌐 Go | 📅 2026-10-22 - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – \[✩Star] if you're usin
+* [containerd/nerdctl](https://github.com/containerd/nerdctl) ⭐ 10,453 | 🐛 362 | 🌐 Go | 📅 2026-10-23 - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
+* [velero-io/velero](https://github.com/velero-io/velero) ⭐ 10,356 | 🐛 837 | 🌐 Go | 📅 2026-10-25 - Backup and migrate Kubernetes applications and their persistent volumes
 * [xo/usql](https://github.com/xo/usql) ⭐ 10,162 | 🐛 63 | 🌐 Go | 📅 2026-10-19 - Universal command-line interface for SQL databases
 * [tilt-dev/tilt](https://github.com/tilt-dev/tilt) ⭐ 10,113 | 🐛 513 | 🌐 Go | 📅 2026-10-21 - Define your dev environment as code. For microservice apps on Kubernetes.
-* [google/go-cloud](https://github.com/google/go-cloud) ⭐ 9,917 | 🐛 10 | 🌐 Go | 📅 2026-10-21 - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
-* [gorse-io/gorse](https://github.com/gorse-io/gorse) ⭐ 9,889 | 🐛 118 | 🌐 Go | 📅 2026-10-24 - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
-* [anchore/syft](https://github.com/anchore/syft) ⭐ 9,738 | 🐛 693 | 🌐 Go | 📅 2026-10-24 - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
-* [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) ⭐ 9,733 | 🐛 129 | 🌐 Go | 📅 2026-10-24 - Community managed domain list. Generate geosite.dat for V2Ray.
-* [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ⭐ 9,352 | 🐛 69 | 🌐 Go | 📅 2026-10-24 - Kubebuilder - SDK for building Kubernetes APIs using CRDs
-* [google/pprof](https://github.com/google/pprof) ⭐ 9,310 | 🐛 65 | 🌐 Go | 📅 2026-10-16 - pprof is a tool for visualization and analysis of profiling data
-* [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ⭐ 9,252 | 🐛 54 | 🌐 Go | 📅 2026-10-23 - Go implementation of JSON Web Tokens (JWT).
-* [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ⭐ 9,134 | 🐛 188 | 🌐 Go | 📅 2026-10-24 - Configure external DNS servers dynamically from Kubernetes resources
-* [onsi/ginkgo](https://github.com/onsi/ginkgo) ⭐ 9,069 | 🐛 128 | 🌐 Go | 📅 2026-10-09 - A Modern Testing Framework for Go
-* [codenotary/immudb](https://github.com/codenotary/immudb) ⭐ 9,042 | 🐛 116 | 🌐 Go | 📅 2026-10-21 - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
-* [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ⭐ 9,000 | 🐛 329 | 🌐 Go | 📅 2026-10-24 - Autoscaling components for Kubernetes
-* [evilmartians/lefthook](https://github.com/evilmartians/lefthook) ⭐ 8,944 | 🐛 98 | 🌐 Go | 📅 2026-10-21 - Fast and powerful Git hooks manager for any type of projects.
-* [google/adk-go](https://github.com/google/adk-go) ⭐ 8,889 | 🐛 249 | 🌐 Go | 📅 2026-10-23 - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-* [redpanda-data/connect](https://github.com/redpanda-data/connect) ⭐ 8,791 | 🐛 374 | 🌐 Go | 📅 2026-10-23 - Fancy stream processing made operationally mundane
-* [appleboy/gorush](https://github.com/appleboy/gorush) ⭐ 8,791 | 🐛 68 | 🌐 Go | 📅 2026-07-25 - A push notification server written in Go (Golang).
-* [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) ⭐ 8,630 | 🐛 317 | 🌐 Go | 📅 2026-10-24 - Generate Go client and server boilerplate from OpenAPI 3 specifications
-* [tailscale/tailcat](https://github.com/tailscale/tailcat) ⭐ 8,462 | 🐛 30 | 🌐 Go | 📅 2026-10-07 - like netcat, but over Tailscale's data plane, without Tailscale's control plane
-* [metallb/metallb](https://github.com/metallb/metallb) ⭐ 8,384 | 🐛 93 | 🌐 Go | 📅 2026-10-22 - A network load-balancer implementation for Kubernetes using standard routing protocols
-* [kyverno/kyverno](https://github.com/kyverno/kyverno) ⭐ 8,275 | 🐛 723 | 🌐 Go | 📅 2026-10-24 - Unified Policy as Code
+* [google/go-cloud](https://github.com/google/go-cloud) ⭐ 9,918 | 🐛 10 | 🌐 Go | 📅 2026-10-21 - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
+* [gorse-io/gorse](https://github.com/gorse-io/gorse) ⭐ 9,890 | 🐛 119 | 🌐 Go | 📅 2026-10-24 - AI powered open source recommender system engine supports classical/LLM rankers and multimodal content via embedding
+* [anchore/syft](https://github.com/anchore/syft) ⭐ 9,749 | 🐛 695 | 🌐 Go | 📅 2026-10-24 - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
+* [v2fly/domain-list-community](https://github.com/v2fly/domain-list-community) ⭐ 9,745 | 🐛 127 | 🌐 Go | 📅 2026-10-25 - Community managed domain list. Generate geosite.dat for V2Ray.
+* [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) ⭐ 9,353 | 🐛 68 | 🌐 Go | 📅 2026-10-24 - Kubebuilder - SDK for building Kubernetes APIs using CRDs
+* [google/pprof](https://github.com/google/pprof) ⭐ 9,311 | 🐛 66 | 🌐 Go | 📅 2026-10-16 - pprof is a tool for visualization and analysis of profiling data
+* [golang-jwt/jwt](https://github.com/golang-jwt/jwt) ⭐ 9,254 | 🐛 55 | 🌐 Go | 📅 2026-10-25 - Go implementation of JSON Web Tokens (JWT).
+* [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) ⭐ 9,136 | 🐛 184 | 🌐 Go | 📅 2026-10-25 - Configure external DNS servers dynamically from Kubernetes resources
+* [onsi/ginkgo](https://github.com/onsi/ginkgo) ⭐ 9,070 | 🐛 128 | 🌐 Go | 📅 2026-10-09 - A Modern Testing Framework for Go
+* [codenotary/immudb](https://github.com/codenotary/immudb) ⭐ 9,043 | 🐛 116 | 🌐 Go | 📅 2026-10-21 - immudb - immutable database based on zero trust, SQL/Key-Value/Document model, tamperproof, data change history
+* [kubernetes/autoscaler](https://github.com/kubernetes/autoscaler) ⭐ 9,000 | 🐛 333 | 🌐 Go | 📅 2026-10-24 - Autoscaling components for Kubernetes
+* [evilmartians/lefthook](https://github.com/evilmartians/lefthook) ⭐ 8,946 | 🐛 98 | 🌐 Go | 📅 2026-10-21 - Fast and powerful Git hooks manager for any type of projects.
+* [google/adk-go](https://github.com/google/adk-go) ⭐ 8,894 | 🐛 255 | 🌐 Go | 📅 2026-10-23 - An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+* [appleboy/gorush](https://github.com/appleboy/gorush) ⭐ 8,792 | 🐛 68 | 🌐 Go | 📅 2026-07-25 - A push notification server written in Go (Golang).
+* [redpanda-data/connect](https://github.com/redpanda-data/connect) ⭐ 8,791 | 🐛 374 | 🌐 Go | 📅 2026-10-25 - Fancy stream processing made operationally mundane
+* [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) ⭐ 8,630 | 🐛 307 | 🌐 Go | 📅 2026-10-25 - Generate Go client and server boilerplate from OpenAPI 3 specifications
+* [tailscale/tailcat](https://github.com/tailscale/tailcat) ⭐ 8,467 | 🐛 32 | 🌐 Go | 📅 2026-10-07 - like netcat, but over Tailscale's data plane, without Tailscale's control plane
+* [metallb/metallb](https://github.com/metallb/metallb) ⭐ 8,386 | 🐛 93 | 🌐 Go | 📅 2026-10-22 - A network load-balancer implementation for Kubernetes using standard routing protocols
+* [kyverno/kyverno](https://github.com/kyverno/kyverno) ⭐ 8,276 | 🐛 717 | 🌐 Go | 📅 2026-10-25 - Unified Policy as Code
 * [aquasecurity/kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,237 | 🐛 108 | 🌐 Go | 📅 2026-10-19 - Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark
-* [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) ⭐ 8,175 | 🐛 148 | 🌐 Go | 📅 2026-10-23 - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
-* [TomWright/dasel](https://github.com/TomWright/dasel) ⭐ 8,050 | 🐛 25 | 🌐 Go | 📅 2026-10-15 - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
-* [coroot/coroot](https://github.com/coroot/coroot) ⭐ 7,982 | 🐛 127 | 🌐 Go | 📅 2026-10-21 - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and
-* [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,949 | 🐛 451 | 🌐 Go | 📅 2026-10-24 - A Chaos Engineering Platform for Kubernetes.
-* [kubevela/kubevela](https://github.com/kubevela/kubevela) ⭐ 7,913 | 🐛 256 | 🌐 Go | 📅 2026-10-22 - The Modern Application Platform.
-* [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) ⭐ 7,683 | 🐛 83 | 🌐 Go | 📅 2026-10-21 - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
-* [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) ⭐ 7,613 | 🐛 1,345 | 🌐 Go | 📅 2026-10-20 - Kubernetes Native Edge Computing Framework (project under CNCF)
-* [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ⭐ 7,592 | 🐛 189 | 🌐 Go | 📅 2026-07-15 - AI powered Kubernetes Assistant
-* [amacneil/dbmate](https://github.com/amacneil/dbmate) ⭐ 7,484 | 🐛 34 | 🌐 Go | 📅 2026-10-18 - 🚀 A lightweight, framework-agnostic database migration tool.
-* [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ⭐ 7,320 | 🐛 15 | 🌐 Go | 📅 2026-10-23 - Local development against a remote Kubernetes or OpenShift cluster
-* [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) ⭐ 7,134 | 🐛 658 | 🌐 Go | 📅 2026-10-24 - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
-* [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) ⭐ 7,047 | 🐛 24 | 🌐 Go | 📅 2026-10-19 - 📦 Find and install kubectl plugins
-* [fleetdm/fleet](https://github.com/fleetdm/fleet) ⭐ 7,039 | 🐛 4,008 | 🌐 Go | 📅 2026-10-24 - Open device management
-* [opencost/opencost](https://github.com/opencost/opencost) ⭐ 6,790 | 🐛 356 | 🌐 Go | 📅 2026-10-23 - Cost monitoring for Kubernetes workloads and cloud costs
+* [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) ⭐ 8,179 | 🐛 149 | 🌐 Go | 📅 2026-10-23 - 🪓 An orchestration engine for background tasks, AI agents, and durable workflows
+* [TomWright/dasel](https://github.com/TomWright/dasel) ⭐ 8,051 | 🐛 25 | 🌐 Go | 📅 2026-10-15 - Unified querying, transformation, and modification of JSON, TOML, YAML, XML, INI, HCL, KDL and CSV.
+* [coroot/coroot](https://github.com/coroot/coroot) ⭐ 7,987 | 🐛 127 | 🌐 Go | 📅 2026-10-21 - Coroot is an open-source observability and APM tool with AI-powered Root Cause Analysis. It combines metrics, logs, traces, continuous profiling, and SLO-based alerting with predefined dashboards and
+* [chaos-mesh/chaos-mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,950 | 🐛 443 | 🌐 Go | 📅 2026-10-24 - A Chaos Engineering Platform for Kubernetes.
+* [kubevela/kubevela](https://github.com/kubevela/kubevela) ⭐ 7,915 | 🐛 257 | 🌐 Go | 📅 2026-10-22 - The Modern Application Platform.
+* [operator-framework/operator-sdk](https://github.com/operator-framework/operator-sdk) ⭐ 7,684 | 🐛 83 | 🌐 Go | 📅 2026-10-21 - SDK for building Kubernetes applications. Provides high level APIs, useful abstractions, and project scaffolding.
+* [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) ⭐ 7,616 | 🐛 1,348 | 🌐 Go | 📅 2026-10-20 - Kubernetes Native Edge Computing Framework (project under CNCF)
+* [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) ⭐ 7,594 | 🐛 189 | 🌐 Go | 📅 2026-07-15 - AI powered Kubernetes Assistant
+* [amacneil/dbmate](https://github.com/amacneil/dbmate) ⭐ 7,489 | 🐛 34 | 🌐 Go | 📅 2026-10-18 - 🚀 A lightweight, framework-agnostic database migration tool.
+* [telepresenceio/telepresence](https://github.com/telepresenceio/telepresence) ⭐ 7,321 | 🐛 15 | 🌐 Go | 📅 2026-10-23 - Local development against a remote Kubernetes or OpenShift cluster
+* [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) ⭐ 7,136 | 🐛 659 | 🌐 Go | 📅 2026-10-25 - Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
+* [kubernetes-sigs/krew](https://github.com/kubernetes-sigs/krew) ⭐ 7,046 | 🐛 25 | 🌐 Go | 📅 2026-10-19 - 📦 Find and install kubectl plugins
+* [fleetdm/fleet](https://github.com/fleetdm/fleet) ⭐ 7,040 | 🐛 4,018 | 🌐 Go | 📅 2026-10-25 - Open device management
+* [opencost/opencost](https://github.com/opencost/opencost) ⭐ 6,792 | 🐛 356 | 🌐 Go | 📅 2026-10-23 - Cost monitoring for Kubernetes workloads and cloud costs
 * [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) ⭐ 6,757 | 🐛 82 | 🌐 Go | 📅 2026-10-06 - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
-* [k3d-io/k3d](https://github.com/k3d-io/k3d) ⭐ 6,603 | 🐛 310 | 🌐 Go | 📅 2026-10-21 - Little helper to run CNCF's k3s in Docker
-* [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ⭐ 6,599 | 🐛 396 | 🌐 Go | 📅 2026-10-23 - Kubernetes controller for GitHub Actions self-hosted runners
-* [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) ⭐ 6,543 | 🐛 150 | 🌐 Go | 📅 2026-10-24 - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
-* [caarlos0/env](https://github.com/caarlos0/env) ⭐ 6,344 | 🐛 43 | 🌐 Go | 📅 2026-10-07 - A simple, zero-dependencies library to parse environment variables into structs
-* [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ⭐ 6,228 | 🐛 117 | 🌐 Go | 📅 2026-10-19 - Add-on agent to generate and expose cluster-level metrics.
-* [anacrolix/torrent](https://github.com/anacrolix/torrent) ⭐ 6,128 | 🐛 96 | 🌐 Go | 📅 2026-10-24 - Full-featured BitTorrent client package and utilities
-* [knative/serving](https://github.com/knative/serving) ⭐ 6,112 | 🐛 170 | 🌐 Go | 📅 2026-10-24 - Kubernetes-based, scale-to-zero, request-driven compute
-* [volcano-sh/volcano](https://github.com/volcano-sh/volcano) ⭐ 6,032 | 🐛 865 | 🌐 Go | 📅 2026-10-23 - A Cloud Native Batch System (Project under CNCF)
-* [openfga/openfga](https://github.com/openfga/openfga) ⭐ 6,030 | 🐛 226 | 🌐 Go | 📅 2026-10-22 - A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
-* [Permify/permify](https://github.com/Permify/permify) ⭐ 5,966 | 🐛 84 | 🌐 Go | 📅 2026-10-23 - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
-* [prometheus/blackbox\_exporter](https://github.com/prometheus/blackbox_exporter) ⭐ 5,914 | 🐛 122 | 🌐 Go | 📅 2026-10-22 - Blackbox prober exporter
-* [cortexproject/cortex](https://github.com/cortexproject/cortex) ⭐ 5,877 | 🐛 340 | 🌐 Go | 📅 2026-10-23 - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
-* [go-pay/gopay](https://github.com/go-pay/gopay) ⭐ 5,805 | 🐛 41 | 🌐 Go | 📅 2026-08-22 - 微信、支付宝、抖音、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
-* [karmada-io/karmada](https://github.com/karmada-io/karmada) ⭐ 5,732 | 🐛 898 | 🌐 Go | 📅 2026-10-23 - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
-* [treeverse/lakeFS](https://github.com/treeverse/lakeFS) ⭐ 5,569 | 🐛 455 | 🌐 Go | 📅 2026-10-21 - lakeFS - Data version control for your data lake | Git for data
-* [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) ⭐ 5,553 | 🐛 66 | 🌐 Go | 📅 2026-10-05 - Descheduler for Kubernetes
-* [grafana/tempo](https://github.com/grafana/tempo) ⭐ 5,544 | 🐛 166 | 🌐 Go | 📅 2026-10-24 - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
-* [github/gh-aw](https://github.com/github/gh-aw) ⭐ 5,451 | 🐛 337 | 🌐 Go | 📅 2026-10-24 - GitHub Agentic Workflows
-* [fluxcd/flagger](https://github.com/fluxcd/flagger) ⭐ 5,420 | 🐛 408 | 🌐 Go | 📅 2026-09-21 - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
-* [ory/keto](https://github.com/ory/keto) ⭐ 5,413 | 🐛 77 | 🌐 Go | 📅 2026-09-04 - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, clo
-* [openkruise/kruise](https://github.com/openkruise/kruise) ⭐ 5,364 | 🐛 109 | 🌐 Go | 📅 2026-10-20 - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
-* [beclab/Olares](https://github.com/beclab/Olares) ⭐ 5,319 | 🐛 153 | 🌐 Go | 📅 2026-10-23 - Open-Source Personal Cloud OS for Always-On Agents
-* [grafana/mimir](https://github.com/grafana/mimir) ⭐ 5,261 | 🐛 903 | 🌐 Go | 📅 2026-10-24 - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
-* [helmfile/helmfile](https://github.com/helmfile/helmfile) ⭐ 5,219 | 🐛 28 | 🌐 Go | 📅 2026-10-24 - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
-* [alecthomas/chroma](https://github.com/alecthomas/chroma) ⭐ 5,064 | 🐛 18 | 🌐 Go | 📅 2026-10-23 - A general purpose syntax highlighter in pure Go
-* [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) ⭐ 5,018 | 🐛 196 | 🌐 Go | 📅 2026-10-24 - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
+* [k3d-io/k3d](https://github.com/k3d-io/k3d) ⭐ 6,604 | 🐛 310 | 🌐 Go | 📅 2026-10-21 - Little helper to run CNCF's k3s in Docker
+* [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) ⭐ 6,601 | 🐛 396 | 🌐 Go | 📅 2026-10-23 - Kubernetes controller for GitHub Actions self-hosted runners
+* [cloudquery/cloudquery](https://github.com/cloudquery/cloudquery) ⭐ 6,542 | 🐛 150 | 🌐 Go | 📅 2026-10-24 - Data pipelines for cloud config and security data. Build cloud asset inventory, CSPM, FinOps, and vulnerability management solutions. Extract from AWS, Azure, GCP, and 70+ cloud and SaaS sources.
+* [caarlos0/env](https://github.com/caarlos0/env) ⭐ 6,343 | 🐛 43 | 🌐 Go | 📅 2026-10-07 - A simple, zero-dependencies library to parse environment variables into structs
+* [kubernetes/kube-state-metrics](https://github.com/kubernetes/kube-state-metrics) ⭐ 6,229 | 🐛 118 | 🌐 Go | 📅 2026-10-19 - Add-on agent to generate and expose cluster-level metrics.
+* [anacrolix/torrent](https://github.com/anacrolix/torrent) ⭐ 6,129 | 🐛 96 | 🌐 Go | 📅 2026-10-24 - Full-featured BitTorrent client package and utilities
+* [knative/serving](https://github.com/knative/serving) ⭐ 6,114 | 🐛 170 | 🌐 Go | 📅 2026-10-24 - Kubernetes-based, scale-to-zero, request-driven compute
+* [openfga/openfga](https://github.com/openfga/openfga) ⭐ 6,035 | 🐛 226 | 🌐 Go | 📅 2026-10-24 - A high-performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar.
+* [volcano-sh/volcano](https://github.com/volcano-sh/volcano) ⭐ 6,035 | 🐛 866 | 🌐 Go | 📅 2026-10-23 - A Cloud Native Batch System (Project under CNCF)
+* [Permify/permify](https://github.com/Permify/permify) ⭐ 5,967 | 🐛 84 | 🌐 Go | 📅 2026-10-23 - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
+* [prometheus/blackbox\_exporter](https://github.com/prometheus/blackbox_exporter) ⭐ 5,916 | 🐛 123 | 🌐 Go | 📅 2026-10-22 - Blackbox prober exporter
+* [cortexproject/cortex](https://github.com/cortexproject/cortex) ⭐ 5,878 | 🐛 340 | 🌐 Go | 📅 2026-10-25 - A horizontally scalable, highly available, multi-tenant, long term Prometheus.
+* [go-pay/gopay](https://github.com/go-pay/gopay) ⭐ 5,807 | 🐛 41 | 🌐 Go | 📅 2026-08-22 - 微信、支付宝、抖音、通联支付、拉卡拉、PayPal、Apple 的Go版本SDK。【极简、易用的聚合支付SDK】
+* [karmada-io/karmada](https://github.com/karmada-io/karmada) ⭐ 5,733 | 🐛 899 | 🌐 Go | 📅 2026-10-23 - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
+* [treeverse/lakeFS](https://github.com/treeverse/lakeFS) ⭐ 5,570 | 🐛 455 | 🌐 Go | 📅 2026-10-21 - lakeFS - Data version control for your data lake | Git for data
+* [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) ⭐ 5,554 | 🐛 66 | 🌐 Go | 📅 2026-10-05 - Descheduler for Kubernetes
+* [grafana/tempo](https://github.com/grafana/tempo) ⭐ 5,545 | 🐛 168 | 🌐 Go | 📅 2026-10-24 - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
+* [github/gh-aw](https://github.com/github/gh-aw) ⭐ 5,466 | 🐛 333 | 🌐 Go | 📅 2026-10-25 - GitHub Agentic Workflows
+* [fluxcd/flagger](https://github.com/fluxcd/flagger) ⭐ 5,422 | 🐛 408 | 🌐 Go | 📅 2026-09-21 - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
+* [ory/keto](https://github.com/ory/keto) ⭐ 5,414 | 🐛 77 | 🌐 Go | 📅 2026-09-04 - The most scalable and customizable permission server on the market. Fix your slow or broken permission system with Google's proven "Zanzibar" approach. Supports ACL, RBAC, and more. Written in Go, clo
+* [openkruise/kruise](https://github.com/openkruise/kruise) ⭐ 5,366 | 🐛 109 | 🌐 Go | 📅 2026-10-20 - Automated management of large-scale applications on Kubernetes (incubating project under CNCF)
+* [beclab/Olares](https://github.com/beclab/Olares) ⭐ 5,320 | 🐛 154 | 🌐 Go | 📅 2026-10-25 - Open-Source Personal Cloud OS for Always-On Agents
+* [grafana/mimir](https://github.com/grafana/mimir) ⭐ 5,261 | 🐛 907 | 🌐 Go | 📅 2026-10-25 - Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.
+* [helmfile/helmfile](https://github.com/helmfile/helmfile) ⭐ 5,220 | 🐛 30 | 🌐 Go | 📅 2026-10-24 - Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.
+* [alecthomas/chroma](https://github.com/alecthomas/chroma) ⭐ 5,067 | 🐛 19 | 🌐 Go | 📅 2026-10-25 - A general purpose syntax highlighter in pure Go
+* [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) ⭐ 5,017 | 🐛 195 | 🌐 Go | 📅 2026-10-25 - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to p
 * [go-mysql-org/go-mysql](https://github.com/go-mysql-org/go-mysql) ⭐ 4,969 | 🐛 173 | 🌐 Go | 📅 2026-10-21 - a powerful mysql toolset with Go
-* [flipt-io/flipt](https://github.com/flipt-io/flipt) ⭐ 4,926 | 🐛 38 | 🌐 Go | 📅 2026-10-24 - Enterprise-ready, Git native feature management solution
+* [flipt-io/flipt](https://github.com/flipt-io/flipt) ⭐ 4,928 | 🐛 37 | 🌐 Go | 📅 2026-10-24 - Enterprise-ready, Git native feature management solution
 * [gomods/athens](https://github.com/gomods/athens) ⭐ 4,809 | 🐛 118 | 🌐 Go | 📅 2026-10-22 - A Go module datastore and proxy
-* [autobrr/qui](https://github.com/autobrr/qui) ⭐ 4,705 | 🐛 155 | 🌐 Go | 📅 2026-10-24 - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
+* [autobrr/qui](https://github.com/autobrr/qui) ⭐ 4,712 | 🐛 154 | 🌐 Go | 📅 2026-10-25 - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 * [aquasecurity/tracee](https://github.com/aquasecurity/tracee) ⭐ 4,653 | 🐛 127 | 🌐 Go | 📅 2026-10-01 - Linux Runtime Security and Forensics using eBPF
-* [deepflowio/deepflow](https://github.com/deepflowio/deepflow) ⭐ 4,305 | 🐛 272 | 🌐 Go | 📅 2026-10-19 - eBPF Observability - Distributed Tracing and Profiling
-* [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,300 | 🐛 190 | 🌐 Go | 📅 2026-10-22 - 🐊 Policy Controller for Kubernetes
+* [deepflowio/deepflow](https://github.com/deepflowio/deepflow) ⭐ 4,306 | 🐛 274 | 🌐 Go | 📅 2026-10-19 - eBPF Observability - Distributed Tracing and Profiling
+* [open-policy-agent/gatekeeper](https://github.com/open-policy-agent/gatekeeper) ⭐ 4,299 | 🐛 192 | 🌐 Go | 📅 2026-10-22 - 🐊 Policy Controller for Kubernetes
 * [monasticacademy/httptap](https://github.com/monasticacademy/httptap) ⭐ 4,183 | 🐛 13 | 🌐 Go | 📅 2026-06-15 - View HTTP/HTTPS requests made by any Linux program
 * [connectrpc/connect-go](https://github.com/connectrpc/connect-go) ⭐ 4,128 | 🐛 13 | 🌐 Go | 📅 2026-10-23 - The Go implementation of Connect: Protobuf RPC that works.
-* [google/go-containerregistry](https://github.com/google/go-containerregistry) ⭐ 4,094 | 🐛 148 | 🌐 Go | 📅 2026-10-21 - Go library and CLIs for working with container registries
+* [google/go-containerregistry](https://github.com/google/go-containerregistry) ⭐ 4,097 | 🐛 149 | 🌐 Go | 📅 2026-10-21 - Go library and CLIs for working with container registries
 * [JetBrains/go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines) ⭐ 3,893 | 🐛 11 | 🌐 Go | 📅 2026-10-15 - Help AI coding agents write modern Go
 * [aws/aws-lambda-go](https://github.com/aws/aws-lambda-go) ⭐ 3,801 | 🐛 125 | 🌐 Go | 📅 2026-10-07 - Libraries, samples and tools to help Go developers develop AWS Lambda functions.
-* [odigos-io/odigos](https://github.com/odigos-io/odigos) ⭐ 3,674 | 🐛 238 | 🌐 Go | 📅 2026-10-24 - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
-* [kiali/kiali](https://github.com/kiali/kiali) ⭐ 3,647 | 🐛 88 | 🌐 Go | 📅 2026-10-23 - Kiali project, observability for the Istio service mesh
-* [grafana/alloy](https://github.com/grafana/alloy) ⭐ 3,637 | 🐛 1,290 | 🌐 Go | 📅 2026-10-24 - OpenTelemetry Collector distribution with programmable pipelines
-* [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) ⭐ 3,607 | 🐛 6 | 🌐 Go | 📅 2026-10-23 - 🧑‍🎨 A collection of Golang agentic skills that works
+* [odigos-io/odigos](https://github.com/odigos-io/odigos) ⭐ 3,674 | 🐛 237 | 🌐 Go | 📅 2026-10-25 - Distributed tracing without code changes. 🚀 Instantly monitor any application using OpenTelemetry and eBPF
+* [kiali/kiali](https://github.com/kiali/kiali) ⭐ 3,647 | 🐛 89 | 🌐 Go | 📅 2026-10-25 - Kiali project, observability for the Istio service mesh
+* [grafana/alloy](https://github.com/grafana/alloy) ⭐ 3,640 | 🐛 1,292 | 🌐 Go | 📅 2026-10-25 - OpenTelemetry Collector distribution with programmable pipelines
+* [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) ⭐ 3,626 | 🐛 6 | 🌐 Go | 📅 2026-10-23 - 🧑‍🎨 A collection of Golang agentic skills that works
 * [ory/oathkeeper](https://github.com/ory/oathkeeper) ⭐ 3,606 | 🐛 107 | 🌐 Go | 📅 2026-07-27 - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white
 * [databus23/helm-diff](https://github.com/databus23/helm-diff) ⭐ 3,510 | 🐛 46 | 🌐 Go | 📅 2026-10-21 - A helm plugin that shows a diff explaining what a helm upgrade would change
-* [thomiceli/opengist](https://github.com/thomiceli/opengist) ⭐ 3,399 | 🐛 69 | 🌐 Go | 📅 2026-10-21 - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
-* [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) ⭐ 3,220 | 🐛 118 | 🌐 Go | 📅 2026-10-23 - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
+* [thomiceli/opengist](https://github.com/thomiceli/opengist) ⭐ 3,401 | 🐛 69 | 🌐 Go | 📅 2026-10-21 - Self-hosted pastebin powered by Git, open-source alternative to Github Gist.
+* [open-telemetry/opentelemetry-ebpf-profiler](https://github.com/open-telemetry/opentelemetry-ebpf-profiler) ⭐ 3,221 | 🐛 118 | 🌐 Go | 📅 2026-10-23 - The production-scale datacenter profiler (C/C++, Go, Rust, Python, Java, NodeJS, .NET, PHP, Ruby, Perl, ...)
 * [sideshow/apns2](https://github.com/sideshow/apns2) ⭐ 3,192 | 🐛 32 | 🌐 Go | 📅 2025-07-22 - ⚡ HTTP/2 Apple Push Notification Service (APNs) push provider for Go — Send push notifications to iOS, tvOS, Safari and OSX apps, using the APNs HTTP/2 protocol.
 * [microsoft/retina](https://github.com/microsoft/retina) ⭐ 3,180 | 🐛 163 | 🌐 Go | 📅 2026-10-23 - eBPF distributed networking observability tool for Kubernetes
 * [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) ⭐ 3,151 | 🐛 262 | 🌐 Go | 📅 2026-10-24 - KubeBlocks is a Kubernetes Operator designed to manage a variety of databases and streaming systems, including MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ, RocketMQ, and more, within Kubernetes enviro
+* [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) ⭐ 3,109 | 🐛 867 | 🌐 Go | 📅 2026-10-25 - :vertical\_traffic\_light: Kubernetes-native Job Queueing and Scheduling
 * [darccio/mergo](https://github.com/darccio/mergo) ⭐ 3,108 | 🐛 24 | 🌐 Go | 📅 2026-10-12 - Mergo: merging Go structs and maps since 2013
-* [kubernetes-sigs/kueue](https://github.com/kubernetes-sigs/kueue) ⭐ 3,107 | 🐛 867 | 🌐 Go | 📅 2026-10-24 - :vertical\_traffic\_light: Kubernetes-native Job Queueing and Scheduling
-* [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ⭐ 3,096 | 🐛 811 | 🌐 Go | 📅 2026-10-24 - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
+* [envoyproxy/gateway](https://github.com/envoyproxy/gateway) ⭐ 3,100 | 🐛 792 | 🌐 Go | 📅 2026-10-25 - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 * [gobackup/gobackup](https://github.com/gobackup/gobackup) ⭐ 3,082 | 🐛 12 | 🌐 Go | 📅 2026-08-14 - 🗄 CLI tool for backup your databases, files to cloud storages in schedully.
 * [appleboy/gin-jwt](https://github.com/appleboy/gin-jwt) ⭐ 2,965 | 🐛 21 | 🌐 Go | 📅 2026-09-21 - JWT Middleware for Gin framework
-* [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) ⭐ 2,946 | 🐛 45 | 🌐 Go | 📅 2026-10-23 - Dynamically provisioning persistent local storage with Kubernetes
+* [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) ⭐ 2,946 | 🐛 44 | 🌐 Go | 📅 2026-10-23 - Dynamically provisioning persistent local storage with Kubernetes
+* [egoist/mygo](https://github.com/egoist/mygo) ⭐ 2,923 | 🐛 112 | 🌐 Go | 📅 2026-10-25 - Develop desktop apps with native UI or web frontend in Go
 * [frain-dev/convoy](https://github.com/frain-dev/convoy) ⭐ 2,883 | 🐛 45 | 🌐 Go | 📅 2026-10-22 - The Cloud Native Webhooks Gateway
-* [egoist/mygo](https://github.com/egoist/mygo) ⭐ 2,807 | 🐛 112 | 🌐 Go | 📅 2026-10-24 - Develop desktop apps with native UI or web frontend in Go
-* [felinics/Memoh](https://github.com/felinics/Memoh) ⭐ 2,733 | 🐛 77 | 🌐 Go | 📅 2026-10-24 - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so
+* [felinics/Memoh](https://github.com/felinics/Memoh) ⭐ 2,740 | 🐛 64 | 🌐 Go | 📅 2026-10-25 - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory.  You can bring your own key, or host your coding agent like Claude Code, Codex and so
 * [argoproj/argo-events](https://github.com/argoproj/argo-events) ⭐ 2,706 | 🐛 157 | 🌐 Go | 📅 2026-10-24 - Event-driven Automation Framework for Kubernetes
 * [submariner-io/submariner](https://github.com/submariner-io/submariner) ⭐ 2,703 | 🐛 19 | 🌐 Go | 📅 2026-10-24 - Networking component for interconnecting Pods and Services across Kubernetes clusters.
 * [kubereboot/kured](https://github.com/kubereboot/kured) ⭐ 2,579 | 🐛 55 | 🌐 Go | 📅 2026-10-24 - Kubernetes Reboot Daemon
-* [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac) ⭐ 2,564 | 🐛 9 | 🌐 Go | 📅 2026-10-23 - Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 support— mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.
+* [YTwsy/OpenSurge-for-Mac](https://github.com/YTwsy/OpenSurge-for-Mac) ⭐ 2,566 | 🐛 9 | 🌐 Go | 📅 2026-10-23 - Surge-style whole-home gateway and control plane for macOS with IPv4/IPv6 support— mihomo TUN, dnsmasq-powered DHCP/DNS, per-device routing, and an agent-friendly validation workspace.
 * [rancher/rke2](https://github.com/rancher/rke2) ⭐ 2,372 | 🐛 119 | 🌐 Go | 📅 2026-10-23 -
-* [grafana/beyla](https://github.com/grafana/beyla) ⭐ 2,150 | 🐛 115 | 🌐 Go | 📅 2026-10-23 - eBPF-based autoinstrumentation of web applications and network metrics
+* [grafana/beyla](https://github.com/grafana/beyla) ⭐ 2,150 | 🐛 115 | 🌐 Go | 📅 2026-10-24 - eBPF-based autoinstrumentation of web applications and network metrics
 * [ogen-go/ogen](https://github.com/ogen-go/ogen) ⭐ 2,146 | 🐛 144 | 🌐 Go | 📅 2026-10-19 - OpenAPI v3 code generator for go
-* [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) ⭐ 2,025 | 🐛 108 | 🌐 Go | 📅 2026-10-24 -
+* [GoogleCloudPlatform/scion](https://github.com/GoogleCloudPlatform/scion) ⭐ 2,032 | 🐛 97 | 🌐 Go | 📅 2026-10-25 -
 * [hashicorp/go-version](https://github.com/hashicorp/go-version) ⭐ 1,775 | 🐛 29 | 🌐 Go | 📅 2026-10-16 - A Go (golang) library for parsing and verifying versions and version constraints.
 * [argoproj-labs/argocd-image-updater](https://github.com/argoproj-labs/argocd-image-updater) ⭐ 1,723 | 🐛 320 | 🌐 Go | 📅 2026-10-23 - Automatic container image update for Argo CD
-* [88250/lute](https://github.com/88250/lute) ⭐ 1,678 | 🐛 0 | 🌐 Go | 📅 2026-10-22 - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
+* [88250/lute](https://github.com/88250/lute) ⭐ 1,678 | 🐛 0 | 🌐 Go | 📅 2026-10-25 - 🎼 一款结构化的 Markdown 引擎，支持 Go 和 JavaScript。A structured Markdown engine that supports Go and JavaScript.
 * [Altinity/clickhouse-backup](https://github.com/Altinity/clickhouse-backup) ⭐ 1,654 | 🐛 20 | 🌐 Go | 📅 2026-10-21 - Tool for easy backup and restore for ClickHouse® using object storage for backup files.
 * [clickvisual/clickvisual](https://github.com/clickvisual/clickvisual) ⭐ 1,641 | 🐛 56 | 🌐 Go | 📅 2026-10-15 - A lightweight log analytic and data visualize platform  built on clickhouse.
 * [clusternet/clusternet](https://github.com/clusternet/clusternet) ⭐ 1,458 | 🐛 72 | 🌐 Go | 📅 2026-10-20 - \[CNCF Sandbox Project] Managing your Kubernetes clusters (including public, private, edge, etc.) as easily as visiting the Internet
 * [stashed/stash](https://github.com/stashed/stash) ⭐ 1,425 | 🐛 124 | 🌐 Go | 📅 2026-10-21 - 🛅 Backup your Kubernetes Stateful Applications
-* [astaxie/TokenHub](https://github.com/astaxie/TokenHub) ⭐ 1,392 | 🐛 54 | 🌐 Go | 📅 2026-10-20 - TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable.
+* [astaxie/TokenHub](https://github.com/astaxie/TokenHub) ⭐ 1,392 | 🐛 56 | 🌐 Go | 📅 2026-10-25 - TokenHub gives enterprises a private gateway to unify AI model access and governance, making every request controllable, traceable, and attributable.
 * [kubenetworks/kubevpn](https://github.com/kubenetworks/kubevpn) ⭐ 1,371 | 🐛 3 | 🌐 Go | 📅 2026-10-13 - KubeVPN offers a Cloud Native Dev Environment that connects to kubernetes cluster network.
 * [kubernetes-sigs/sig-storage-local-static-provisioner](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner) ⭐ 1,208 | 🐛 9 | 🌐 Go | 📅 2026-10-24 - Static provisioner of local volumes
-* [daveshanley/vacuum](https://github.com/daveshanley/vacuum) ⭐ 1,140 | 🐛 20 | 🌐 Go | 📅 2026-10-24 - vacuum is the worlds fastest and most versatile OpenAPI, Arazzo, AsyncAPI & JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rul
+* [daveshanley/vacuum](https://github.com/daveshanley/vacuum) ⭐ 1,139 | 🐛 17 | 🌐 Go | 📅 2026-10-25 - vacuum is the worlds fastest and most versatile OpenAPI, Arazzo, AsyncAPI & JSON Schema linter, docs generator and toolkit. It tears through API specs at light speed. 100% compatible with Spectral rul
 * [dromara/dongle](https://github.com/dromara/dongle) ⭐ 1,104 | 🐛 0 | 🌐 Go | 📅 2026-10-20 - A simple, semantic and developer-friendly crypto package for golang
-* [pb33f/libopenapi](https://github.com/pb33f/libopenapi) ⭐ 882 | 🐛 4 | 🌐 Go | 📅 2026-10-24 - libopenapi is a fully featured, high performance OpenAPI 3.2, 3.1, 3.0, Overlays and Arazzo parser, library, validator and toolkit for go applications.
+* [pb33f/libopenapi](https://github.com/pb33f/libopenapi) ⭐ 882 | 🐛 5 | 🌐 Go | 📅 2026-10-24 - libopenapi is a fully featured, high performance OpenAPI 3.2, 3.1, 3.0, Overlays and Arazzo parser, library, validator and toolkit for go applications.
 * [go-faker/faker](https://github.com/go-faker/faker) ⭐ 868 | 🐛 19 | 🌐 Go | 📅 2026-10-13 - Go (Golang) Fake Data Generator for Struct, previously <https://github.com/bxcodec/faker> ⚠️ Archived
 * [googleapis/api-linter](https://github.com/googleapis/api-linter) ⭐ 771 | 🐛 62 | 🌐 Go | 📅 2026-10-14 - A linter for APIs defined in protocol buffers.
 * [go-simpler/sloglint](https://github.com/go-simpler/sloglint) ⭐ 275 | 🐛 9 | 🌐 Go | 📅 2026-09-15 - 🪵 Ensure consistent code style when using log/slog
@@ -367,423 +367,424 @@
 
 ## HTML
 
-* [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ⭐ 67,962 | 🐛 29 | 🌐 HTML | 📅 2026-10-24 - from vibe coding to agentic engineering - practice makes claude perfect
-* [google/styleguide](https://github.com/google/styleguide) ⭐ 39,728 | 🐛 87 | 🌐 HTML | 📅 2026-10-24 - Style guides for Google-originated open-source projects
+* [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) ⭐ 68,017 | 🐛 30 | 🌐 HTML | 📅 2026-10-25 - from vibe coding to agentic engineering - practice makes claude perfect
+* [google/styleguide](https://github.com/google/styleguide) ⭐ 39,733 | 🐛 87 | 🌐 HTML | 📅 2026-10-24 - Style guides for Google-originated open-source projects
 * [alufers/mitmproxy2swagger](https://github.com/alufers/mitmproxy2swagger) ⭐ 9,670 | 🐛 18 | 🌐 HTML | 📅 2026-10-19 - Automagically reverse-engineer REST APIs via capturing traffic
-* [Tencent/libpag](https://github.com/Tencent/libpag) ⭐ 5,806 | 🐛 142 | 🌐 HTML | 📅 2026-10-23 - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
+* [Tencent/libpag](https://github.com/Tencent/libpag) ⭐ 5,807 | 🐛 143 | 🌐 HTML | 📅 2026-10-24 - The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.
 * [microlinkhq/metascraper](https://github.com/microlinkhq/metascraper) ⭐ 2,750 | 🐛 9 | 🌐 HTML | 📅 2026-10-15 - Scrape metadata from any URL using Open Graph, JSON-LD, HTML meta tags, and smart fallbacks.
-* [Fei2411/real-api-pricing](https://github.com/Fei2411/real-api-pricing) ⭐ 989 | 🐛 39 | 🌐 HTML | 📅 2026-10-24 - 真实 API 定价：订阅月费 ÷ 实际可用 token，含额度、单价与分榜帕累托图。Real API pricing: subscription fee ÷ usable tokens, with allowance, unit-price, and leaderboard Pareto charts.
+* [Fei2411/real-api-pricing](https://github.com/Fei2411/real-api-pricing) ⭐ 998 | 🐛 38 | 🌐 HTML | 📅 2026-10-25 - 真实 API 定价：订阅月费 ÷ 实际可用 token，含额度、单价与分榜帕累托图。Real API pricing: subscription fee ÷ usable tokens, with allowance, unit-price, and leaderboard Pareto charts.
 
 ## Haskell
 
-* [PostgREST/postgrest](https://github.com/PostgREST/postgrest) ⭐ 27,727 | 🐛 408 | 🌐 Haskell | 📅 2026-10-24 - REST API for any Postgres database
+* [PostgREST/postgrest](https://github.com/PostgREST/postgrest) ⭐ 27,728 | 🐛 408 | 🌐 Haskell | 📅 2026-10-24 - REST API for any Postgres database
 
 ## Java
 
-* [elastic/elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,357 | 🐛 6,176 | 🌐 Java | 📅 2026-10-24 - Free and Open Source, Distributed, RESTful Search Engine
-* [bazelbuild/bazel](https://github.com/bazelbuild/bazel) ⭐ 25,985 | 🐛 2,036 | 🌐 Java | 📅 2026-10-24 - a fast, scalable, multi-language and extensible build system
-* [trinodb/trino](https://github.com/trinodb/trino) ⭐ 13,364 | 🐛 2,735 | 🌐 Java | 📅 2026-10-24 - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (<https://trino.io>)
-* [apple/pkl](https://github.com/apple/pkl) ⭐ 11,551 | 🐛 212 | 🌐 Java | 📅 2026-10-23 - A configuration as code language with rich validation and tooling.
-* [AutoMQ/automq](https://github.com/AutoMQ/automq) ⭐ 10,923 | 🐛 69 | 🌐 Java | 📅 2026-10-23 - Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
-* [microsoft/typespec](https://github.com/microsoft/typespec) ⭐ 5,898 | 🐛 1,052 | 🌐 Java | 📅 2026-10-23 -
+* [elastic/elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,369 | 🐛 6,184 | 🌐 Java | 📅 2026-10-25 - Free and Open Source, Distributed, RESTful Search Engine
+* [bazelbuild/bazel](https://github.com/bazelbuild/bazel) ⭐ 25,994 | 🐛 2,039 | 🌐 Java | 📅 2026-10-25 - a fast, scalable, multi-language and extensible build system
+* [trinodb/trino](https://github.com/trinodb/trino) ⭐ 13,365 | 🐛 2,745 | 🌐 Java | 📅 2026-10-25 - Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (<https://trino.io>)
+* [apple/pkl](https://github.com/apple/pkl) ⭐ 11,552 | 🐛 212 | 🌐 Java | 📅 2026-10-23 - A configuration as code language with rich validation and tooling.
+* [AutoMQ/automq](https://github.com/AutoMQ/automq) ⭐ 10,923 | 🐛 70 | 🌐 Java | 📅 2026-10-23 - Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
+* [microsoft/typespec](https://github.com/microsoft/typespec) ⭐ 5,899 | 🐛 1,052 | 🌐 Java | 📅 2026-10-23 -
 
 ## JavaScript
 
-* [vercel/next.js](https://github.com/vercel/next.js) ⭐ 143,216 | 🐛 3,765 | 🌐 JavaScript | 📅 2026-10-24 - The React Framework
-* [mrdoob/three.js](https://github.com/mrdoob/three.js) ⭐ 116,864 | 🐛 390 | 🌐 JavaScript | 📅 2026-10-24 - JavaScript 3D Library.
-* [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,836 | 🐛 862 | 🌐 JavaScript | 📅 2026-10-24 - A fancy self-hosted monitoring tool
-* [tt-a1i/archify](https://github.com/tt-a1i/archify) ⭐ 88,567 | 🐛 292 | 🌐 JavaScript | 📅 2026-10-24 - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
-* [mozilla/pdf.js](https://github.com/mozilla/pdf.js) ⭐ 54,039 | 🐛 472 | 🌐 JavaScript | 📅 2026-10-24 - PDF Reader in JavaScript
-* [usebruno/bruno](https://github.com/usebruno/bruno) ⭐ 47,819 | 🐛 1,926 | 🌐 JavaScript | 📅 2026-10-24 - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
-* [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) ⭐ 46,878 | 🐛 887 | 🌐 JavaScript | 📅 2026-10-23 - A browser based code editor
-* [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,773 | 🐛 473 | 🌐 JavaScript | 📅 2026-10-24 - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
-* [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) ⭐ 32,935 | 🐛 181 | 🌐 JavaScript | 📅 2026-10-14 - Vercel's official collection of agent skills
-* [badges/shields](https://github.com/badges/shields) ⭐ 27,313 | 🐛 299 | 🌐 JavaScript | 📅 2026-10-21 - Concise, consistent, and legible badges in SVG and raster format
-* [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ⭐ 26,073 | 🐛 997 | 🌐 JavaScript | 📅 2026-10-24 - SVG icons for popular brands
-* [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) ⭐ 25,008 | 🐛 129 | 🌐 JavaScript | 📅 2026-09-06 - JavaScript syntax highlighter with language auto-detection and zero dependencies.
-* [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) ⭐ 23,361 | 🐛 141 | 🌐 JavaScript | 📅 2026-09-11 - 中国程序员容易发音错误的单词
-* [yjs/yjs](https://github.com/yjs/yjs) ⭐ 22,973 | 🐛 149 | 🌐 JavaScript | 📅 2026-10-23 - Shared data types for building collaborative software
+* [vercel/next.js](https://github.com/vercel/next.js) ⭐ 143,279 | 🐛 3,759 | 🌐 JavaScript | 📅 2026-10-25 - The React Framework
+* [mrdoob/three.js](https://github.com/mrdoob/three.js) ⭐ 116,904 | 🐛 394 | 🌐 JavaScript | 📅 2026-10-25 - JavaScript 3D Library.
+* [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) ⭐ 92,888 | 🐛 856 | 🌐 JavaScript | 📅 2026-10-25 - A fancy self-hosted monitoring tool
+* [mozilla/pdf.js](https://github.com/mozilla/pdf.js) ⭐ 54,042 | 🐛 464 | 🌐 JavaScript | 📅 2026-10-24 - PDF Reader in JavaScript
+* [usebruno/bruno](https://github.com/usebruno/bruno) ⭐ 47,836 | 🐛 1,932 | 🌐 JavaScript | 📅 2026-10-24 - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
+* [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) ⭐ 46,885 | 🐛 887 | 🌐 JavaScript | 📅 2026-10-23 - A browser based code editor
+* [Leaflet/Leaflet](https://github.com/Leaflet/Leaflet) ⭐ 45,781 | 🐛 465 | 🌐 JavaScript | 📅 2026-10-25 - 🍃 JavaScript library for mobile-friendly interactive maps 🇺🇦
+* [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) ⭐ 32,990 | 🐛 181 | 🌐 JavaScript | 📅 2026-10-14 - Vercel's official collection of agent skills
+* [badges/shields](https://github.com/badges/shields) ⭐ 27,317 | 🐛 298 | 🌐 JavaScript | 📅 2026-10-25 - Concise, consistent, and legible badges in SVG and raster format
+* [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) ⭐ 26,079 | 🐛 998 | 🌐 JavaScript | 📅 2026-10-25 - SVG icons for popular brands
+* [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) ⭐ 25,009 | 🐛 129 | 🌐 JavaScript | 📅 2026-09-06 - JavaScript syntax highlighter with language auto-detection and zero dependencies.
+* [shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation) ⭐ 23,364 | 🐛 141 | 🌐 JavaScript | 📅 2026-09-11 - 中国程序员容易发音错误的单词
+* [yjs/yjs](https://github.com/yjs/yjs) ⭐ 22,975 | 🐛 149 | 🌐 JavaScript | 📅 2026-10-23 - Shared data types for building collaborative software
 * [modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China) ⭐ 20,984 | 🐛 29 | 🌐 JavaScript | 📅 2025-12-27 - 中华人民共和国行政区划：省级（省份）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。
-* [mdx-js/mdx](https://github.com/mdx-js/mdx) ⭐ 19,830 | 🐛 22 | 🌐 JavaScript | 📅 2026-10-23 - Markdown for the component era
-* [novnc/noVNC](https://github.com/novnc/noVNC) ⭐ 14,128 | 🐛 119 | 🌐 JavaScript | 📅 2026-10-23 - VNC client web application
-* [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,209 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28 - Programming style, best practices, and coding conventions.
-* [facebook/stylex](https://github.com/facebook/stylex) ⭐ 10,435 | 🐛 245 | 🌐 JavaScript | 📅 2026-10-21 - StyleX is the styling system for ambitious user interfaces.
-* [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) ⭐ 9,864 | 🐛 510 | 🌐 JavaScript | 📅 2026-10-24 - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
-* [openai/plugins](https://github.com/openai/plugins) ⭐ 7,569 | 🐛 37 | 🌐 JavaScript | 📅 2026-10-08 - OpenAI Plugins
-* [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) ⭐ 5,929 | 🐛 78 | 🌐 JavaScript | 📅 2026-10-15 - An interactive web UI for gRPC, along the lines of postman
-* [asyncapi/spec](https://github.com/asyncapi/spec) ⭐ 5,326 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-18 - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-* [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) ⭐ 4,759 | 🐛 484 | 🌐 JavaScript | 📅 2026-10-24 - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
-* [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) ⭐ 3,871 | 🐛 97 | 🌐 JavaScript | 📅 2026-10-23 - A collection of JSON schema files including full API
-* [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) ⭐ 3,020 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-23 - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
-* [aozorae/Edgechat](https://github.com/aozorae/Edgechat) ⭐ 1,326 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-24 - 完全运行于 Cloudflare Worker的现代聊天系统：实时通信、Telegram 双向桥接、消息与文件加密 A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. |
+* [mdx-js/mdx](https://github.com/mdx-js/mdx) ⭐ 19,834 | 🐛 21 | 🌐 JavaScript | 📅 2026-10-23 - Markdown for the component era
+* [novnc/noVNC](https://github.com/novnc/noVNC) ⭐ 14,131 | 🐛 119 | 🌐 JavaScript | 📅 2026-10-23 - VNC client web application
+* [Kristories/awesome-guidelines](https://github.com/Kristories/awesome-guidelines) ⭐ 11,214 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-28 - Programming style, best practices, and coding conventions.
+* [facebook/stylex](https://github.com/facebook/stylex) ⭐ 10,442 | 🐛 251 | 🌐 JavaScript | 📅 2026-10-25 - StyleX is the styling system for ambitious user interfaces.
+* [OpenWhispr/openwhispr](https://github.com/OpenWhispr/openwhispr) ⭐ 9,948 | 🐛 513 | 🌐 JavaScript | 📅 2026-10-25 - Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.
+* [openai/plugins](https://github.com/openai/plugins) ⭐ 7,579 | 🐛 37 | 🌐 JavaScript | 📅 2026-10-08 - OpenAI Plugins
+* [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) ⭐ 5,930 | 🐛 78 | 🌐 JavaScript | 📅 2026-10-15 - An interactive web UI for gRPC, along the lines of postman
+* [asyncapi/spec](https://github.com/asyncapi/spec) ⭐ 5,327 | 🐛 43 | 🌐 JavaScript | 📅 2026-10-18 - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
+* [anthropics/claude-plugins-community](https://github.com/anthropics/claude-plugins-community) ⭐ 4,767 | 🐛 514 | 🌐 JavaScript | 📅 2026-10-25 - Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.
+* [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) ⭐ 3,872 | 🐛 98 | 🌐 JavaScript | 📅 2026-10-23 - A collection of JSON schema files including full API
+* [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) ⭐ 3,019 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-23 - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
+* [aozorae/Edgechat](https://github.com/aozorae/Edgechat) ⭐ 1,341 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-24 - 完全运行于 Cloudflare Worker的现代聊天系统：实时通信、Telegram 双向桥接、消息与文件加密 A modern, self-hosted team chat built on Cloudflare — realtime messaging, Telegram bridge, encrypted messages & files, and WebMCP. |
 
 ## Makefile
 
-* [golang-standards/project-layout](https://github.com/golang-standards/project-layout) ⭐ 56,710 | 🐛 93 | 🌐 Makefile | 📅 2026-04-28 - Standard Go Project Layout
+* [golang-standards/project-layout](https://github.com/golang-standards/project-layout) ⭐ 56,707 | 🐛 93 | 🌐 Makefile | 📅 2026-04-28 - Standard Go Project Layout
 * [open-telemetry/opentelemetry-specification](https://github.com/open-telemetry/opentelemetry-specification) ⭐ 4,372 | 🐛 246 | 🌐 Makefile | 📅 2026-10-24 - Specifications for OpenTelemetry
 
 ## Markdown
 
-* [emilkowalski/skills](https://github.com/emilkowalski/skills) ⭐ 49,251 | 🐛 0 | 🌐 Markdown | 📅 2026-10-11 - Skills for Designers and Engineers.
-* [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) ⭐ 31,270 | 🐛 80 | 🌐 Markdown | 📅 2026-10-22 - The OpenAPI Specification Repository
+* [emilkowalski/skills](https://github.com/emilkowalski/skills) ⭐ 49,528 | 🐛 1 | 🌐 Markdown | 📅 2026-10-11 - Skills for Designers and Engineers.
+* [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) ⭐ 31,274 | 🐛 81 | 🌐 Markdown | 📅 2026-10-22 - The OpenAPI Specification Repository
 
 ## Objective-C
 
-* [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) ⭐ 9,894 | 🐛 12 | 🌐 Objective-C | 📅 2026-10-24 - A software update framework for macOS
+* [sparkle-project/Sparkle](https://github.com/sparkle-project/Sparkle) ⭐ 9,898 | 🐛 11 | 🌐 Objective-C | 📅 2026-10-25 - A software update framework for macOS
 
 ## Others
 
-* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 523,935 | 🐛 105 | 📅 2026-09-02 - 😎 Awesome lists about all kinds of interesting topics \[NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
-* [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 144,215 | 🐛 162 | 📅 2026-10-12 - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
-* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 103,021 | 🐛 473 | 📅 2026-10-20 - Programmer's guide about how to cook at home.
-* [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,555 | 🐛 29 | 📅 2025-12-29 - A collection of (mostly) technical things every software developer should know about
-* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 96,810 | 🐛 3,269 | 📅 2026-10-23 - A collection of MCP servers.
-* [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 52,786 | 🐛 7 | 📅 2026-10-24 - :iphone: Collaborative List of Open-Source iOS Apps
-* [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 50,985 | 🐛 303 | 📅 2026-10-21 - 🚀 Awesome list of open source applications for macOS. <https://t.me/s/opensourcemacosapps>
-* [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) ⭐ 46,612 | 🐛 3 | 📅 2026-10-18 - Learn how to design systems at scale and prepare for system design interviews
+* [sindresorhus/awesome](https://github.com/sindresorhus/awesome) ⭐ 524,529 | 🐛 105 | 📅 2026-09-02 - 😎 Awesome lists about all kinds of interesting topics \[NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
+* [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 144,238 | 🐛 162 | 📅 2026-10-12 - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
+* [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) ⭐ 103,051 | 🐛 470 | 📅 2026-10-25 - Programmer's guide about how to cook at home.
+* [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) ⭐ 100,562 | 🐛 29 | 📅 2025-12-29 - A collection of (mostly) technical things every software developer should know about
+* [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 96,849 | 🐛 3,354 | 📅 2026-10-23 - A collection of MCP servers.
+* [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) ⭐ 52,819 | 🐛 5 | 📅 2026-10-25 - :iphone: Collaborative List of Open-Source iOS Apps
+* [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) ⭐ 51,024 | 🐛 313 | 📅 2026-10-21 - 🚀 Awesome list of open source applications for macOS. <https://t.me/s/opensourcemacosapps>
+* [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) ⭐ 46,631 | 🐛 3 | 📅 2026-10-18 - Learn how to design systems at scale and prepare for system design interviews
 * [mzlogin/awesome-adb](https://github.com/mzlogin/awesome-adb) ⭐ 12,497 | 🐛 52 | 📅 2026-09-29 - ADB Usage Complete / ADB 用法大全
-* [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) ⭐ 12,489 | 🐛 9 | 📅 2023-06-06 - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
-* [cncf/landscape](https://github.com/cncf/landscape) ⭐ 10,018 | 🐛 65 | 📅 2026-10-23 - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
-* [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) ⭐ 8,364 | 🐛 33 | 📅 2025-10-28 - A curated list of useful resources for gRPC
-* [skyline75489/what-happens-when-zh\_CN](https://github.com/skyline75489/what-happens-when-zh_CN) ⭐ 8,061 | 🐛 5 | 📅 2022-05-19 - What-happens-when 的中文翻译，原仓库 <https://github.com/alex/what-happens-when> ⭐ 43,384 | 🐛 2,059 | 📅 2024-08-19
-* [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 6,340 | 🐛 13 | 📅 2026-10-23 - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
-* [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) ⭐ 3,167 | 🐛 1 | 📅 2026-10-23 - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
+* [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) ⭐ 12,491 | 🐛 9 | 📅 2023-06-06 - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+* [cncf/landscape](https://github.com/cncf/landscape) ⭐ 10,020 | 🐛 65 | 📅 2026-10-23 - 🌄 The Cloud Native Interactive Landscape filters and sorts hundreds of projects and products, and shows details including GitHub stars, funding, first and last commits, contributor counts and headquar
+* [grpc-ecosystem/awesome-grpc](https://github.com/grpc-ecosystem/awesome-grpc) ⭐ 8,366 | 🐛 34 | 📅 2025-10-28 - A curated list of useful resources for gRPC
+* [skyline75489/what-happens-when-zh\_CN](https://github.com/skyline75489/what-happens-when-zh_CN) ⭐ 8,061 | 🐛 5 | 📅 2022-05-19 - What-happens-when 的中文翻译，原仓库 <https://github.com/alex/what-happens-when> ⭐ 43,389 | 🐛 2,059 | 📅 2024-08-19
+* [twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill) ⭐ 6,355 | 🐛 14 | 📅 2026-10-23 - SwiftUI agent skill for Claude Code, Codex, and other AI tools.
+* [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) ⭐ 3,170 | 🐛 1 | 📅 2026-10-24 - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 * [Kalmaegi/computer-book-list](https://github.com/Kalmaegi/computer-book-list) ⭐ 1,957 | 🐛 2 | 📅 2022-10-21 - 一个综合了豆瓣，goodreads综合评分的计算机书籍书单
 * [marckrenn/claude-code-changelog](https://github.com/marckrenn/claude-code-changelog) ⭐ 900 | 🐛 3 | 📅 2026-10-23 - Tracking prompts, feature flags and metadata of Claude Code releases. Subscribe to ↓
 * [XiaoGerGer/zimuzu-yyets-resourcelist](https://github.com/XiaoGerGer/zimuzu-yyets-resourcelist) ⭐ 658 | 🐛 5 | 📅 2021-03-28 - 人人影视资源列表，排序如下
 
 ## PHP
 
-* [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) ⭐ 7,092 | 🐛 241 | 🌐 PHP | 📅 2026-10-24 - Which is the fastest web framework?
+* [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) ⭐ 7,093 | 🐛 225 | 🌐 PHP | 📅 2026-10-25 - Which is the fastest web framework?
 
 ## Perl
 
-* [shanleiguang/vRain](https://github.com/shanleiguang/vRain) ⭐ 1,676 | 🐛 10 | 🌐 Perl | 📅 2026-06-14 - 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator
+* [shanleiguang/vRain](https://github.com/shanleiguang/vRain) ⭐ 1,677 | 🐛 10 | 🌐 Perl | 📅 2026-06-14 - 中文古籍刻本風格直排電子書製作工具 Chinese Ancient eBooks Generator
 
 ## PowerShell
 
-* [actions/runner-images](https://github.com/actions/runner-images) ⭐ 13,523 | 🐛 171 | 🌐 PowerShell | 📅 2026-10-24 - GitHub Actions runner images
+* [actions/runner-images](https://github.com/actions/runner-images) ⭐ 13,528 | 🐛 168 | 🌐 PowerShell | 📅 2026-10-25 - GitHub Actions runner images
 
 ## Python
 
-* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 375,411 | 🐛 632 | 🌐 Python | 📅 2026-09-15 - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-* [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 329,886 | 🐛 17 | 🌐 Python | 📅 2026-10-22 - The definitive list that answers "I want to do X in Python, which tool should I use?"
-* [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 201,321 | 🐛 2,719 | 🌐 Python | 📅 2026-10-23 - A feature-rich command-line audio/video downloader
-* [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 191,920 | 🐛 755 | 🌐 Python | 📅 2026-10-23 - Python tool for converting files and office documents to Markdown.
-* [browser-use/browser-use](https://github.com/browser-use/browser-use) ⭐ 119,023 | 🐛 605 | 🌐 Python | 📅 2026-10-24 - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
-* [openai/whisper](https://github.com/openai/whisper) ⭐ 111,183 | 🐛 179 | 🌐 Python | 📅 2026-08-31 - Robust Speech Recognition via Large-Scale Weak Supervision
-* [vllm-project/vllm](https://github.com/vllm-project/vllm) ⭐ 95,294 | 🐛 9,384 | 🌐 Python | 📅 2026-10-24 - A high-throughput and memory-efficient inference and serving engine for LLMs
-* [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) ⭐ 94,823 | 🐛 351 | 🌐 Python | 📅 2026-10-24 - Hunt down social media accounts by username across social networks
-* [home-assistant/core](https://github.com/home-assistant/core) ⭐ 91,698 | 🐛 3,388 | 🌐 Python | 📅 2026-10-24 - :house\_with\_garden: Open source home automation that puts local control and privacy first.
-* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) ⭐ 86,159 | 🐛 282 | 🌐 Python | 📅 2026-10-22 - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord <https://discord.gg/VuxzM8m>
-* [opendatalab/MinerU](https://github.com/opendatalab/MinerU) ⭐ 82,412 | 🐛 13 | 🌐 Python | 📅 2026-10-23 - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
-* [unslothai/unsloth](https://github.com/unslothai/unsloth) ⭐ 78,504 | 🐛 385 | 🌐 Python | 📅 2026-10-24 - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
-* [ansible/ansible](https://github.com/ansible/ansible) ⭐ 71,085 | 🐛 867 | 🌐 Python | 📅 2026-10-23 - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud
-* [asgeirtj/system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) ⭐ 70,129 | 🐛 55 | 🌐 Python | 📅 2026-10-24 - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
-* [docling-project/docling](https://github.com/docling-project/docling) ⭐ 69,495 | 🐛 913 | 🌐 Python | 📅 2026-10-23 - Get your documents ready for gen AI
-* [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) ⭐ 68,152 | 🐛 217 | 🌐 Python | 📅 2026-10-15 - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
-* [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 67,734 | 🐛 869 | 🌐 Python | 📅 2026-10-23 - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-* [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 62,070 | 🐛 37 | 🌐 Python | 📅 2026-10-24 - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
-* [BerriAI/litellm](https://github.com/BerriAI/litellm) ⭐ 61,955 | 🐛 5,674 | 🌐 Python | 📅 2026-10-24 - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropi
-* [apache/airflow](https://github.com/apache/airflow) ⭐ 47,269 | 🐛 1,933 | 🌐 Python | 📅 2026-10-24 - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-* [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 46,277 | 🐛 510 | 🌐 Python | 📅 2026-10-23 - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
-* [getsentry/sentry](https://github.com/getsentry/sentry) ⭐ 45,636 | 🐛 2,125 | 🌐 Python | 📅 2026-10-24 - Developer-first error tracking and performance monitoring
-* [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) ⭐ 44,271 | 🐛 1,210 | 🌐 Python | 📅 2026-10-24 - Official, Anthropic-managed directory of high quality Claude Code Plugins.
-* [ray-project/ray](https://github.com/ray-project/ray) ⭐ 44,111 | 🐛 3,618 | 🌐 Python | 📅 2026-10-24 - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
-* [anthropics/financial-services](https://github.com/anthropics/financial-services) ⭐ 40,749 | 🐛 233 | 🌐 Python | 📅 2026-09-21 -
-* [google/langextract](https://github.com/google/langextract) ⭐ 39,026 | 🐛 114 | 🌐 Python | 📅 2026-10-17 - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
-* [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) ⭐ 38,766 | 🐛 829 | 🌐 Python | 📅 2026-10-23 - DSPy: The framework for programming—not prompting—language models
-* [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) ⭐ 37,831 | 🐛 168 | 🌐 Python | 📅 2026-10-24 - \[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
-* [sgl-project/sglang](https://github.com/sgl-project/sglang) ⭐ 37,689 | 🐛 6,138 | 🌐 Python | 📅 2026-10-24 - SGLang is a high-performance serving framework for large language models and multimodal models.
-* [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) ⭐ 32,517 | 🐛 141 | 🌐 Python | 📅 2026-10-24 - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
-* [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) ⭐ 25,599 | 🐛 114 | 🌐 Python | 📅 2026-10-22 - Download market data from Yahoo! Finance's API
-* [Vonng/ddia](https://github.com/Vonng/ddia) ⭐ 23,858 | 🐛 2 | 🌐 Python | 📅 2026-10-24 - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
-* [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) ⭐ 23,271 | 🐛 359 | 🌐 Python | 📅 2026-10-06 - Universal LLM Deployment Engine with ML Compilation
-* [jundot/omlx](https://github.com/jundot/omlx) ⭐ 23,028 | 🐛 614 | 🌐 Python | 📅 2026-10-24 - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
-* [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) ⭐ 22,244 | 🐛 158 | 🌐 Python | 📅 2026-09-28 - Xiaomi Home Integration for Home Assistant
-* [astral-sh/ty](https://github.com/astral-sh/ty) ⭐ 19,946 | 🐛 974 | 🌐 Python | 📅 2026-10-23 - An extremely fast Python type checker and language server, written in Rust.
-* [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) ⭐ 19,877 | 🐛 24 | 🌐 Python | 📅 2026-10-22 - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen
-* [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) ⭐ 19,520 | 🐛 4 | 🌐 Python | 📅 2026-10-23 - Translate the video from one language to another and embed dubbing & subtitles.
-* [google-research/harness2](https://github.com/google-research/harness2) ⭐ 18,871 | 🐛 132 | 🌐 Python | 📅 2026-10-14 -
-* [ipython/ipython](https://github.com/ipython/ipython) ⭐ 16,795 | 🐛 1,285 | 🌐 Python | 📅 2026-10-23 - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
+* [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) ⭐ 375,542 | 🐛 632 | 🌐 Python | 📅 2026-09-15 - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+* [vinta/awesome-python](https://github.com/vinta/awesome-python) ⭐ 330,170 | 🐛 17 | 🌐 Python | 📅 2026-10-22 - The definitive list that answers "I want to do X in Python, which tool should I use?"
+* [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 201,877 | 🐛 2,724 | 🌐 Python | 📅 2026-10-23 - A feature-rich command-line audio/video downloader
+* [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 192,086 | 🐛 764 | 🌐 Python | 📅 2026-10-23 - Python tool for converting files and office documents to Markdown.
+* [browser-use/browser-use](https://github.com/browser-use/browser-use) ⭐ 119,094 | 🐛 611 | 🌐 Python | 📅 2026-10-24 - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
+* [openai/whisper](https://github.com/openai/whisper) ⭐ 111,233 | 🐛 179 | 🌐 Python | 📅 2026-08-31 - Robust Speech Recognition via Large-Scale Weak Supervision
+* [vllm-project/vllm](https://github.com/vllm-project/vllm) ⭐ 95,444 | 🐛 9,417 | 🌐 Python | 📅 2026-10-25 - A high-throughput and memory-efficient inference and serving engine for LLMs
+* [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) ⭐ 94,881 | 🐛 353 | 🌐 Python | 📅 2026-10-25 - Hunt down social media accounts by username across social networks
+* [home-assistant/core](https://github.com/home-assistant/core) ⭐ 91,721 | 🐛 3,434 | 🌐 Python | 📅 2026-10-25 - :house\_with\_garden: Open source home automation that puts local control and privacy first.
+* [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) ⭐ 86,241 | 🐛 284 | 🌐 Python | 📅 2026-10-22 - Open-source web crawler and scraper for LLMs and AI agents: any website into clean, LLM-ready Markdown. Run it yourself, or use Crawl4AI Cloud with one key. Join our Discord <https://discord.gg/VuxzM8m>
+* [opendatalab/MinerU](https://github.com/opendatalab/MinerU) ⭐ 82,457 | 🐛 14 | 🌐 Python | 📅 2026-10-25 - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
+* [unslothai/unsloth](https://github.com/unslothai/unsloth) ⭐ 78,547 | 🐛 339 | 🌐 Python | 📅 2026-10-25 - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.
+* [ansible/ansible](https://github.com/ansible/ansible) ⭐ 71,109 | 🐛 867 | 🌐 Python | 📅 2026-10-23 - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud
+* [asgeirtj/system\_prompts\_leaks](https://github.com/asgeirtj/system_prompts_leaks) ⭐ 70,179 | 🐛 55 | 🌐 Python | 📅 2026-10-24 - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
+* [docling-project/docling](https://github.com/docling-project/docling) ⭐ 69,559 | 🐛 908 | 🌐 Python | 📅 2026-10-25 - Get your documents ready for gen AI
+* [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) ⭐ 68,522 | 🐛 217 | 🌐 Python | 📅 2026-10-15 - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫
+* [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 67,779 | 🐛 872 | 🌐 Python | 📅 2026-10-23 - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+* [pathwaycom/pathway](https://github.com/pathwaycom/pathway) ⭐ 62,068 | 🐛 37 | 🌐 Python | 📅 2026-10-25 - Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.
+* [BerriAI/litellm](https://github.com/BerriAI/litellm) ⭐ 62,007 | 🐛 5,686 | 🌐 Python | 📅 2026-10-25 - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging \[Bedrock, Azure, OpenAI, Anthropi
+* [apache/airflow](https://github.com/apache/airflow) ⭐ 47,274 | 🐛 1,935 | 🌐 Python | 📅 2026-10-25 - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+* [mitmproxy/mitmproxy](https://github.com/mitmproxy/mitmproxy) ⭐ 46,320 | 🐛 511 | 🌐 Python | 📅 2026-10-25 - An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers.
+* [getsentry/sentry](https://github.com/getsentry/sentry) ⭐ 45,643 | 🐛 2,131 | 🌐 Python | 📅 2026-10-25 - Developer-first error tracking and performance monitoring
+* [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) ⭐ 44,471 | 🐛 1,211 | 🌐 Python | 📅 2026-10-25 - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+* [ray-project/ray](https://github.com/ray-project/ray) ⭐ 44,119 | 🐛 3,646 | 🌐 Python | 📅 2026-10-25 - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
+* [anthropics/financial-services](https://github.com/anthropics/financial-services) ⭐ 40,774 | 🐛 235 | 🌐 Python | 📅 2026-09-21 -
+* [google/langextract](https://github.com/google/langextract) ⭐ 39,039 | 🐛 115 | 🌐 Python | 📅 2026-10-17 - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
+* [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) ⭐ 38,777 | 🐛 829 | 🌐 Python | 📅 2026-10-25 - DSPy: The framework for programming—not prompting—language models
+* [sgl-project/sglang](https://github.com/sgl-project/sglang) ⭐ 38,133 | 🐛 6,175 | 🌐 Python | 📅 2026-10-25 - SGLang is a high-performance serving framework for large language models and multimodal models.
+* [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) ⭐ 37,861 | 🐛 168 | 🌐 Python | 📅 2026-10-25 - \[EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero
+* [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) ⭐ 32,848 | 🐛 141 | 🌐 Python | 📅 2026-10-24 - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+* [ranaroussi/yfinance](https://github.com/ranaroussi/yfinance) ⭐ 25,604 | 🐛 112 | 🌐 Python | 📅 2026-10-25 - Download market data from Yahoo! Finance's API
+* [Vonng/ddia](https://github.com/Vonng/ddia) ⭐ 23,867 | 🐛 2 | 🌐 Python | 📅 2026-10-25 - 《Designing Data-Intensive Application》DDIA 第一版 / 第二版 中文翻译
+* [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) ⭐ 23,271 | 🐛 360 | 🌐 Python | 📅 2026-10-25 - Universal LLM Deployment Engine with ML Compilation
+* [jundot/omlx](https://github.com/jundot/omlx) ⭐ 23,042 | 🐛 601 | 🌐 Python | 📅 2026-10-25 - LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar
+* [XiaoMi/ha\_xiaomi\_home](https://github.com/XiaoMi/ha_xiaomi_home) ⭐ 22,253 | 🐛 158 | 🌐 Python | 📅 2026-09-28 - Xiaomi Home Integration for Home Assistant
+* [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) ⭐ 22,235 | 🐛 205 | 🌐 Python | 📅 2026-10-25 - DeepInfer: High-performance, large-scale inference framework for DeepSeek models
+* [astral-sh/ty](https://github.com/astral-sh/ty) ⭐ 19,960 | 🐛 976 | 🌐 Python | 📅 2026-10-25 - An extremely fast Python type checker and language server, written in Rust.
+* [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) ⭐ 19,895 | 🐛 23 | 🌐 Python | 📅 2026-10-25 - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen
+* [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) ⭐ 19,529 | 🐛 4 | 🌐 Python | 📅 2026-10-23 - Translate the video from one language to another and embed dubbing & subtitles.
+* [google-research/harness2](https://github.com/google-research/harness2) ⭐ 19,423 | 🐛 132 | 🌐 Python | 📅 2026-10-14 -
+* [ipython/ipython](https://github.com/ipython/ipython) ⭐ 16,797 | 🐛 1,286 | 🌐 Python | 📅 2026-10-23 - Official repository for IPython itself. Other repos in the IPython organization contain things like the website, documentation builds, etc.
 * [tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot) ⭐ 16,302 | 🐛 5 | 🌐 Python | 📅 2026-07-27 - 🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享
-* [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) ⭐ 16,131 | 🐛 152 | 🌐 Python | 📅 2026-10-24 - Secure, Fast, and Extensible Sandbox runtime for AI agents.
-* [ansible/awx](https://github.com/ansible/awx) ⭐ 15,602 | 🐛 1,928 | 🌐 Python | 📅 2026-10-23 - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-* [Zulko/moviepy](https://github.com/Zulko/moviepy) ⭐ 15,020 | 🐛 92 | 🌐 Python | 📅 2026-08-26 - Video editing with Python
-* [livekit/agents](https://github.com/livekit/agents) ⭐ 14,918 | 🐛 818 | 🌐 Python | 📅 2026-10-24 - A framework for building realtime voice AI agents 🤖🎙️📹
-* [google/artemis](https://github.com/google/artemis) ⭐ 14,269 | 🐛 146 | 🌐 Python | 📅 2026-10-01 - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
-* [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) ⭐ 13,544 | 🐛 62 | 🌐 Python | 📅 2026-10-23 - Build voice agents with open-source models
-* [keephq/keep](https://github.com/keephq/keep) ⭐ 12,435 | 🐛 671 | 🌐 Python | 📅 2026-10-22 - The open-source AIOps and alert management platform
-* [rany2/edge-tts](https://github.com/rany2/edge-tts) ⭐ 12,370 | 🐛 5 | 🌐 Python | 📅 2026-10-14 - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge
-* [yizhiyanhua-ai/fireworks-tech-graph](https://github.com/yizhiyanhua-ai/fireworks-tech-graph) ⭐ 11,832 | 🐛 1 | 🌐 Python | 📅 2026-10-21 - Generate production-quality SVG+PNG technical diagrams from natural language. 7 styles, UML support, and AI/Agent workflow patterns.
-* [giampaolo/psutil](https://github.com/giampaolo/psutil) ⭐ 11,309 | 🐛 289 | 🌐 Python | 📅 2026-10-22 - Cross-platform lib for process and system monitoring in Python
-* [TencentCloud/Octop](https://github.com/TencentCloud/Octop) ⭐ 10,919 | 🐛 791 | 🌐 Python | 📅 2026-10-24 - A smarter, self-hosted AI assistant — multi-user, multi-agent.
-* [tw93/Waza](https://github.com/tw93/Waza) ⭐ 7,355 | 🐛 1 | 🌐 Python | 📅 2026-10-24 - 🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run.
+* [opensandbox-group/OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) ⭐ 16,151 | 🐛 154 | 🌐 Python | 📅 2026-10-25 - Secure, Fast, and Extensible Sandbox runtime for AI agents.
+* [ansible/awx](https://github.com/ansible/awx) ⭐ 15,604 | 🐛 1,928 | 🌐 Python | 📅 2026-10-23 - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+* [Zulko/moviepy](https://github.com/Zulko/moviepy) ⭐ 15,034 | 🐛 92 | 🌐 Python | 📅 2026-08-26 - Video editing with Python
+* [livekit/agents](https://github.com/livekit/agents) ⭐ 14,935 | 🐛 811 | 🌐 Python | 📅 2026-10-25 - A framework for building realtime voice AI agents 🤖🎙️📹
+* [google/artemis](https://github.com/google/artemis) ⭐ 14,706 | 🐛 157 | 🌐 Python | 📅 2026-10-01 - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
+* [huggingface/speech-to-speech](https://github.com/huggingface/speech-to-speech) ⭐ 13,553 | 🐛 62 | 🌐 Python | 📅 2026-10-24 - Build voice agents with open-source models
+* [keephq/keep](https://github.com/keephq/keep) ⭐ 12,437 | 🐛 671 | 🌐 Python | 📅 2026-10-22 - The open-source AIOps and alert management platform
+* [rany2/edge-tts](https://github.com/rany2/edge-tts) ⭐ 12,378 | 🐛 5 | 🌐 Python | 📅 2026-10-14 - Use Microsoft Edge's online text-to-speech service from Python WITHOUT needing Microsoft Edge
+* [giampaolo/psutil](https://github.com/giampaolo/psutil) ⭐ 11,309 | 🐛 290 | 🌐 Python | 📅 2026-10-25 - Cross-platform lib for process and system monitoring in Python
+* [TencentCloud/Octop](https://github.com/TencentCloud/Octop) ⭐ 10,985 | 🐛 784 | 🌐 Python | 📅 2026-10-25 - A smarter, self-hosted AI assistant — multi-user, multi-agent.
+* [tw93/Waza](https://github.com/tw93/Waza) ⭐ 7,357 | 🐛 1 | 🌐 Python | 📅 2026-10-25 - 🥷 Engineering habits you already know, turned into skills AI assistants like Claude Code, Codex and Cursor can run.
 * [microsoft/CUAWright](https://github.com/microsoft/CUAWright) ⭐ 6,068 | 🐛 55 | 🌐 Python | 📅 2026-10-06 - A simple SWE-style browser+desktop agent framework that achieves SOTA results on long-horizon CUA tasks
-* [cloudevents/spec](https://github.com/cloudevents/spec) ⭐ 5,938 | 🐛 17 | 🌐 Python | 📅 2026-10-22 - CloudEvents Specification
+* [cloudevents/spec](https://github.com/cloudevents/spec) ⭐ 5,940 | 🐛 17 | 🌐 Python | 📅 2026-10-22 - CloudEvents Specification
 * [robusta-dev/krr](https://github.com/robusta-dev/krr) ⭐ 4,757 | 🐛 132 | 🌐 Python | 📅 2026-10-19 - Prometheus-based Kubernetes Resource Recommendations
-* [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) ⭐ 4,583 | 🐛 29 | 🌐 Python | 📅 2026-10-22 - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
+* [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) ⭐ 4,631 | 🐛 29 | 🌐 Python | 📅 2026-10-22 - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
 * [dongrixinyu/JioNLP](https://github.com/dongrixinyu/JioNLP) ⭐ 3,874 | 🐛 43 | 🌐 Python | 📅 2026-10-16 - 中文 NLP 预处理、解析工具包，准确、高效、易用 A Chinese NLP Preprocessing & Parsing Package [www.jionlp.com](http://www.jionlp.com)
 * [octodns/octodns](https://github.com/octodns/octodns) ⭐ 3,774 | 🐛 5 | 🌐 Python | 📅 2026-10-23 - Tools for managing DNS across multiple providers
-* [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) ⭐ 3,443 | 🐛 231 | 🌐 Python | 📅 2026-10-24 - Specification and documentation for the Universal Commerce Protocol (UCP)
-* [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) ⭐ 3,324 | 🐛 27 | 🌐 Python | 📅 2026-09-15 - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
+* [Universal-Commerce-Protocol/ucp](https://github.com/Universal-Commerce-Protocol/ucp) ⭐ 3,445 | 🐛 232 | 🌐 Python | 📅 2026-10-24 - Specification and documentation for the Universal Commerce Protocol (UCP)
+* [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) ⭐ 3,341 | 🐛 26 | 🌐 Python | 📅 2026-09-15 - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
 * [ChrispyBacon-dev/DockFlare](https://github.com/ChrispyBacon-dev/DockFlare) ⭐ 2,491 | 🐛 4 | 🌐 Python | 📅 2026-10-06 - DockFlare: Automate Cloudflare Tunnels with Docker Labels
-* [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) ⭐ 1,349 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
+* [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) ⭐ 1,353 | 🐛 3 | 🌐 Python | 📅 2026-10-07 - Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 * [kr8s-org/kr8s](https://github.com/kr8s-org/kr8s) ⭐ 1,004 | 🐛 48 | 🌐 Python | 📅 2026-10-21 - A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl
 * [argoproj-labs/hera](https://github.com/argoproj-labs/hera) ⭐ 946 | 🐛 34 | 🌐 Python | 📅 2026-10-01 - Hera makes Python code easy to orchestrate on Argo Workflows through native Python integrations. It lets you construct and submit your Workflows entirely in Python. ⭐️ Remember to star!
 * [anthropics/code-migration-kit-with-claude-code](https://github.com/anthropics/code-migration-kit-with-claude-code) ⭐ 770 | 🐛 0 | 🌐 Python | 📅 2026-07-08 - Prompts, templates, and scripts for running large-scale language migrations with Claude Code
-* [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) ⭐ 718 | 🐛 3 | 🌐 Python | 📅 2022-03-20 - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
+* [Mayandev/where-is-douban250](https://github.com/Mayandev/where-is-douban250) ⭐ 719 | 🐛 3 | 🌐 Python | 📅 2022-03-20 - 🐛 一个爬虫程序，整理了腾讯视频、爱奇艺、优酷、哔哩哔哩等视频网站中，能够观看的「豆瓣电影 Top250 榜单」影片。
 
 ## Ruby
 
-* [fastlane/fastlane](https://github.com/fastlane/fastlane) ⭐ 42,294 | 🐛 688 | 🌐 Ruby | 📅 2026-10-24 - 🚀 The easiest way to automate building and releasing your iOS and Android apps
-* [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,343 | 🐛 2 | 🌐 Ruby | 📅 2026-10-23 - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
+* [fastlane/fastlane](https://github.com/fastlane/fastlane) ⭐ 42,302 | 🐛 688 | 🌐 Ruby | 📅 2026-10-24 - 🚀 The easiest way to automate building and releasing your iOS and Android apps
+* [matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift) ⭐ 26,349 | 🐛 2 | 🌐 Ruby | 📅 2026-10-25 - A collaborative list of awesome Swift libraries and resources. Feel free to contribute!
 
 ## Rust
 
-* [openai/codex](https://github.com/openai/codex) ⭐ 130,760 | 🐛 24,557 | 🌐 Rust | 📅 2026-10-23 - Lightweight coding agent that runs in your terminal
-* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 126,792 | 🐛 191 | 🌐 Rust | 📅 2026-10-24 - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-* [rust-lang/rust](https://github.com/rust-lang/rust) ⭐ 120,735 | 🐛 12,637 | 🌐 Rust | 📅 2026-10-24 - Empowering everyone to build reliable and efficient software.
-* [tauri-apps/tauri](https://github.com/tauri-apps/tauri) ⭐ 112,160 | 🐛 1,483 | 🌐 Rust | 📅 2026-10-24 - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-* [oven-sh/bun](https://github.com/oven-sh/bun) ⭐ 96,381 | 🐛 9,296 | 🌐 Rust | 📅 2026-10-24 - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-* [zed-industries/zed](https://github.com/zed-industries/zed) ⭐ 92,133 | 🐛 3,088 | 🌐 Rust | 📅 2026-10-24 - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
-* [astral-sh/uv](https://github.com/astral-sh/uv) ⭐ 91,108 | 🐛 2,986 | 🌐 Rust | 📅 2026-10-24 - An extremely fast Python package and project manager, written in Rust.
-* [warpdotdev/warp](https://github.com/warpdotdev/warp) ⭐ 65,672 | 🐛 5,484 | 🌐 Rust | 📅 2026-10-23 - Warp is an agentic development environment, born out of the terminal.
-* [tw93/Pake](https://github.com/tw93/Pake) ⭐ 62,290 | 🐛 1 | 🌐 Rust | 📅 2026-10-24 - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
-* [starship/starship](https://github.com/starship/starship) ⭐ 60,428 | 🐛 1,054 | 🌐 Rust | 📅 2026-10-24 - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-* [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 59,647 | 🐛 319 | 🌐 Rust | 📅 2026-10-23 - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-* [astral-sh/ruff](https://github.com/astral-sh/ruff) ⭐ 50,251 | 🐛 2,222 | 🌐 Rust | 📅 2026-10-24 - An extremely fast Python linter and code formatter, written in Rust.
-* [herdrdev/herdr](https://github.com/herdrdev/herdr) ⭐ 45,636 | 🐛 431 | 🌐 Rust | 📅 2026-10-23 - the runtime your coding agents live on
-* [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 45,403 | 🐛 2,355 | 🌐 Rust | 📅 2026-10-24 - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
-* [sharkdp/fd](https://github.com/sharkdp/fd) ⭐ 44,850 | 🐛 215 | 🌐 Rust | 📅 2026-10-24 - A simple, fast and user-friendly alternative to 'find'
-* [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ⭐ 44,519 | 🐛 699 | 🌐 Rust | 📅 2026-10-23 - Browser automation CLI for AI agents
-* [pola-rs/polars](https://github.com/pola-rs/polars) ⭐ 40,177 | 🐛 2,937 | 🌐 Rust | 📅 2026-10-24 - Extremely fast Query Engine for DataFrames, written in Rust
-* [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) ⭐ 38,328 | 🐛 71 | 🌐 Rust | 📅 2026-10-24 - Hundreds of models & providers. One command to find what runs on your hardware.
-* [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 37,590 | 🐛 133 | 🌐 Rust | 📅 2026-10-24 - Secure and fast microVMs for serverless computing.
-* [storytold/artcraft](https://github.com/storytold/artcraft) ⭐ 36,181 | 🐛 522 | 🌐 Rust | 📅 2026-10-23 - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
-* [rustfs/rustfs](https://github.com/rustfs/rustfs) ⭐ 35,333 | 🐛 58 | 🌐 Rust | 📅 2026-10-24 - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
-* [jdx/mise](https://github.com/jdx/mise) ⭐ 35,327 | 🐛 19 | 🌐 Rust | 📅 2026-10-24 - dev tools, env vars, task runner
-* [qdrant/qdrant](https://github.com/qdrant/qdrant) ⭐ 35,225 | 🐛 796 | 🌐 Rust | 📅 2026-10-23 - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud <https://cloud.qdrant.io/>
-* [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) ⭐ 33,753 | 🐛 153 | 🌐 Rust | 📅 2026-10-24 - Algorithm powering the For You feed on X
-* [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) ⭐ 33,223 | 🐛 494 | 🌐 Rust | 📅 2026-10-19 - A scalable, distributed, collaborative, document-graph database, for the realtime web
-* [atuinsh/atuin](https://github.com/atuinsh/atuin) ⭐ 32,062 | 🐛 420 | 🌐 Rust | 📅 2026-10-24 - ✨ Making your shell magical
-* [trycua/cua](https://github.com/trycua/cua) ⭐ 30,846 | 🐛 1,274 | 🌐 Rust | 📅 2026-10-24 - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
-* [chroma-core/chroma](https://github.com/chroma-core/chroma) ⭐ 29,571 | 🐛 973 | 🌐 Rust | 📅 2026-10-23 - Search infrastructure for AI
-* [cloudflare/pingora](https://github.com/cloudflare/pingora) ⭐ 27,689 | 🐛 316 | 🌐 Rust | 📅 2026-10-23 - A library for building fast, reliable and evolvable network services.
-* [t8y2/dbx](https://github.com/t8y2/dbx) ⭐ 27,665 | 🐛 1,390 | 🌐 Rust | 📅 2026-10-24 - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
-* [xai-org/grok-build](https://github.com/xai-org/grok-build) ⭐ 27,524 | 🐛 0 | 🌐 Rust | 📅 2026-09-29 - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-* [biomejs/biome](https://github.com/biomejs/biome) ⭐ 25,987 | 🐛 544 | 🌐 Rust | 📅 2026-10-24 - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-* [tursodatabase/turso](https://github.com/tursodatabase/turso) ⭐ 24,998 | 🐛 1,487 | 🌐 Rust | 📅 2026-10-24 - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
-* [oxc-project/oxc](https://github.com/oxc-project/oxc) ⭐ 23,208 | 🐛 1,076 | 🌐 Rust | 📅 2026-10-23 - ⚓ A collection of high-performance JavaScript tools.
-* [firecrawl/anydoc](https://github.com/firecrawl/anydoc) ⭐ 23,076 | 🐛 120 | 🌐 Rust | 📅 2026-10-23 - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
-* [ratatui/ratatui](https://github.com/ratatui/ratatui) ⭐ 23,070 | 🐛 206 | 🌐 Rust | 📅 2026-10-21 - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 <https://ratatui.rs>
-* [vectordotdev/vector](https://github.com/vectordotdev/vector) ⭐ 22,759 | 🐛 2,530 | 🌐 Rust | 📅 2026-10-24 - A high-performance observability data pipeline.
-* [cube-js/cube](https://github.com/cube-js/cube) ⭐ 21,068 | 🐛 1,148 | 🌐 Rust | 📅 2026-10-24 - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
-* [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) ⭐ 19,273 | 🐛 199 | 🌐 Rust | 📅 2026-10-24 - Hurl, run and test HTTP requests with plain text.
+* [openai/codex](https://github.com/openai/codex) ⭐ 130,861 | 🐛 24,694 | 🌐 Rust | 📅 2026-10-23 - Lightweight coding agent that runs in your terminal
+* [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) ⭐ 126,948 | 🐛 205 | 🌐 Rust | 📅 2026-10-24 - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+* [rust-lang/rust](https://github.com/rust-lang/rust) ⭐ 120,774 | 🐛 12,654 | 🌐 Rust | 📅 2026-10-25 - Empowering everyone to build reliable and efficient software.
+* [tauri-apps/tauri](https://github.com/tauri-apps/tauri) ⭐ 112,178 | 🐛 1,485 | 🌐 Rust | 📅 2026-10-25 - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+* [oven-sh/bun](https://github.com/oven-sh/bun) ⭐ 96,401 | 🐛 9,355 | 🌐 Rust | 📅 2026-10-25 - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+* [zed-industries/zed](https://github.com/zed-industries/zed) ⭐ 92,161 | 🐛 3,097 | 🌐 Rust | 📅 2026-10-25 - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
+* [astral-sh/uv](https://github.com/astral-sh/uv) ⭐ 91,143 | 🐛 2,992 | 🌐 Rust | 📅 2026-10-25 - An extremely fast Python package and project manager, written in Rust.
+* [warpdotdev/warp](https://github.com/warpdotdev/warp) ⭐ 65,693 | 🐛 5,490 | 🌐 Rust | 📅 2026-10-23 - Warp is an agentic development environment, born out of the terminal.
+* [tw93/Pake](https://github.com/tw93/Pake) ⭐ 62,306 | 🐛 3 | 🌐 Rust | 📅 2026-10-25 - Turn any website into a lightweight desktop app with one command, on macOS, Windows and Linux.
+* [starship/starship](https://github.com/starship/starship) ⭐ 60,448 | 🐛 1,055 | 🌐 Rust | 📅 2026-10-24 - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+* [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) ⭐ 59,661 | 🐛 320 | 🌐 Rust | 📅 2026-10-23 - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+* [astral-sh/ruff](https://github.com/astral-sh/ruff) ⭐ 50,270 | 🐛 2,238 | 🌐 Rust | 📅 2026-10-25 - An extremely fast Python linter and code formatter, written in Rust.
+* [herdrdev/herdr](https://github.com/herdrdev/herdr) ⭐ 45,790 | 🐛 437 | 🌐 Rust | 📅 2026-10-23 - the runtime your coding agents live on
+* [juspay/hyperswitch](https://github.com/juspay/hyperswitch) ⭐ 45,414 | 🐛 2,357 | 🌐 Rust | 📅 2026-10-25 - Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorizati
+* [sharkdp/fd](https://github.com/sharkdp/fd) ⭐ 44,860 | 🐛 213 | 🌐 Rust | 📅 2026-10-24 - A simple, fast and user-friendly alternative to 'find'
+* [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) ⭐ 44,566 | 🐛 700 | 🌐 Rust | 📅 2026-10-25 - Browser automation CLI for AI agents
+* [pola-rs/polars](https://github.com/pola-rs/polars) ⭐ 40,192 | 🐛 2,933 | 🌐 Rust | 📅 2026-10-25 - Extremely fast Query Engine for DataFrames, written in Rust
+* [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) ⭐ 38,361 | 🐛 65 | 🌐 Rust | 📅 2026-10-25 - Hundreds of models & providers. One command to find what runs on your hardware.
+* [firecracker-microvm/firecracker](https://github.com/firecracker-microvm/firecracker) ⭐ 37,605 | 🐛 133 | 🌐 Rust | 📅 2026-10-24 - Secure and fast microVMs for serverless computing.
+* [storytold/artcraft](https://github.com/storytold/artcraft) ⭐ 36,473 | 🐛 528 | 🌐 Rust | 📅 2026-10-23 - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
+* [jdx/mise](https://github.com/jdx/mise) ⭐ 35,359 | 🐛 26 | 🌐 Rust | 📅 2026-10-25 - dev tools, env vars, task runner
+* [rustfs/rustfs](https://github.com/rustfs/rustfs) ⭐ 35,356 | 🐛 60 | 🌐 Rust | 📅 2026-10-25 - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
+* [qdrant/qdrant](https://github.com/qdrant/qdrant) ⭐ 35,240 | 🐛 799 | 🌐 Rust | 📅 2026-10-23 - Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud <https://cloud.qdrant.io/>
+* [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) ⭐ 33,773 | 🐛 154 | 🌐 Rust | 📅 2026-10-24 - Algorithm powering the For You feed on X
+* [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) ⭐ 33,227 | 🐛 495 | 🌐 Rust | 📅 2026-10-19 - A scalable, distributed, collaborative, document-graph database, for the realtime web
+* [atuinsh/atuin](https://github.com/atuinsh/atuin) ⭐ 32,074 | 🐛 424 | 🌐 Rust | 📅 2026-10-24 - ✨ Making your shell magical
+* [trycua/cua](https://github.com/trycua/cua) ⭐ 30,925 | 🐛 1,305 | 🌐 Rust | 📅 2026-10-25 - Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.
+* [chroma-core/chroma](https://github.com/chroma-core/chroma) ⭐ 29,573 | 🐛 976 | 🌐 Rust | 📅 2026-10-23 - Search infrastructure for AI
+* [t8y2/dbx](https://github.com/t8y2/dbx) ⭐ 27,727 | 🐛 1,360 | 🌐 Rust | 📅 2026-10-25 - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
+* [cloudflare/pingora](https://github.com/cloudflare/pingora) ⭐ 27,693 | 🐛 316 | 🌐 Rust | 📅 2026-10-24 - A library for building fast, reliable and evolvable network services.
+* [xai-org/grok-build](https://github.com/xai-org/grok-build) ⭐ 27,542 | 🐛 0 | 🌐 Rust | 📅 2026-09-29 - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
+* [biomejs/biome](https://github.com/biomejs/biome) ⭐ 25,994 | 🐛 551 | 🌐 Rust | 📅 2026-10-25 - A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+* [tursodatabase/turso](https://github.com/tursodatabase/turso) ⭐ 25,035 | 🐛 1,505 | 🌐 Rust | 📅 2026-10-25 - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
+* [oxc-project/oxc](https://github.com/oxc-project/oxc) ⭐ 23,219 | 🐛 1,078 | 🌐 Rust | 📅 2026-10-25 - ⚓ A collection of high-performance JavaScript tools.
+* [firecrawl/anydoc](https://github.com/firecrawl/anydoc) ⭐ 23,102 | 🐛 120 | 🌐 Rust | 📅 2026-10-23 - Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean Markdown. Built in Rust, with Node.js and Python bindings.
+* [ratatui/ratatui](https://github.com/ratatui/ratatui) ⭐ 23,082 | 🐛 202 | 🌐 Rust | 📅 2026-10-24 - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 <https://ratatui.rs>
+* [vectordotdev/vector](https://github.com/vectordotdev/vector) ⭐ 22,761 | 🐛 2,531 | 🌐 Rust | 📅 2026-10-24 - A high-performance observability data pipeline.
+* [cube-js/cube](https://github.com/cube-js/cube) ⭐ 21,073 | 🐛 1,151 | 🌐 Rust | 📅 2026-10-25 - 📊 Cube Core is open-source semantic layer for AI, BI and embedded analytics
+* [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) ⭐ 19,274 | 🐛 199 | 🌐 Rust | 📅 2026-10-25 - Hurl, run and test HTTP requests with plain text.
 * [google/magika](https://github.com/google/magika) ⭐ 18,742 | 🐛 171 | 🌐 Rust | 📅 2026-10-23 - Fast and accurate AI powered file content types detection
-* [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ⭐ 18,581 | 🐛 122 | 🌐 Rust | 📅 2026-10-24 - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-* [asciinema/asciinema](https://github.com/asciinema/asciinema) ⭐ 17,908 | 🐛 13 | 🌐 Rust | 📅 2026-10-13 - Terminal session recorder, streamer and player 📹
-* [tikv/tikv](https://github.com/tikv/tikv) ⭐ 16,923 | 🐛 1,890 | 🌐 Rust | 📅 2026-10-23 - Distributed transactional key-value database, originally created to complement TiDB
-* [orhun/git-cliff](https://github.com/orhun/git-cliff) ⭐ 12,333 | 🐛 120 | 🌐 Rust | 📅 2026-10-23 - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-* [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) ⭐ 11,736 | 🐛 854 | 🌐 Rust | 📅 2026-10-23 - Cloud-native OSS search engine for observability
-* [sigoden/dufs](https://github.com/sigoden/dufs) ⭐ 10,972 | 🐛 2 | 🌐 Rust | 📅 2026-10-22 - A file server that supports static serving, uploading, searching, accessing control, webdav...
-* [PRQL/prql](https://github.com/PRQL/prql) ⭐ 10,928 | 🐛 289 | 🌐 Rust | 📅 2026-10-24 - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
-* [databendlabs/databend](https://github.com/databendlabs/databend) ⭐ 9,477 | 🐛 436 | 🌐 Rust | 📅 2026-10-24 - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
-* [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) ⭐ 9,005 | 🐛 1,234 | 🌐 Rust | 📅 2026-10-23 - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
-* [pydantic/monty](https://github.com/pydantic/monty) ⭐ 8,767 | 🐛 182 | 🌐 Rust | 📅 2026-10-23 - A secure Python sandbox, written in Rust, for code written by AI.
-* [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ⭐ 6,761 | 🐛 340 | 🌐 Rust | 📅 2026-10-24 - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
-* [storytold/cadcraft](https://github.com/storytold/cadcraft) ⭐ 6,645 | 🐛 873 | 🌐 Rust | 📅 2026-10-24 - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
-* [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) ⭐ 6,467 | 🐛 193 | 🌐 Rust | 📅 2026-10-24 - The unified toolchain and entry point for web development.
-* [loro-dev/loro](https://github.com/loro-dev/loro) ⭐ 6,244 | 🐛 72 | 🌐 Rust | 📅 2026-10-23 - Make your JSON data collaborative and version-controlled with CRDTs
-* [dalance/procs](https://github.com/dalance/procs) ⭐ 6,203 | 🐛 42 | 🌐 Rust | 📅 2026-10-20 - A modern replacement for ps written in Rust
-* [tw93/Kaku](https://github.com/tw93/Kaku) ⭐ 6,150 | 🐛 8 | 🌐 Rust | 📅 2026-10-24 - An AI-friendly Mac terminal with sensible defaults, ready out of the box.
-* [apache/opendal](https://github.com/apache/opendal) ⭐ 5,424 | 🐛 354 | 🌐 Rust | 📅 2026-10-23 - Apache OpenDAL: One Layer, All Storage.
-* [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) ⭐ 5,380 | 🐛 25 | 🌐 Rust | 📅 2026-10-24 - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
-* [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) ⭐ 5,060 | 🐛 130 | 🌐 Rust | 📅 2026-10-23 - Distributed stream processing engine in Rust
-* [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) ⭐ 4,898 | 🐛 130 | 🌐 Rust | 📅 2026-10-24 - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-
-* [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) ⭐ 4,161 | 🐛 80 | 🌐 Rust | 📅 2026-10-23 - Local-first search across your workspace, built for humans and AI agents.
-* [Open-Less/openless](https://github.com/Open-Less/openless) ⭐ 3,951 | 🐛 45 | 🌐 Rust | 📅 2026-10-23 - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-* [lakehq/sail](https://github.com/lakehq/sail) ⭐ 3,470 | 🐛 317 | 🌐 Rust | 📅 2026-10-24 - Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
-* [pamburus/hl](https://github.com/pamburus/hl) ⭐ 3,313 | 🐛 15 | 🌐 Rust | 📅 2026-10-24 - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
-* [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) ⭐ 3,242 | 🐛 64 | 🌐 Rust | 📅 2026-10-19 - 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
-* [microsoft/mxc](https://github.com/microsoft/mxc) ⭐ 2,983 | 🐛 86 | 🌐 Rust | 📅 2026-10-24 - Policy-driven, layered isolation and containment
+* [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) ⭐ 18,611 | 🐛 132 | 🌐 Rust | 📅 2026-10-25 - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+* [asciinema/asciinema](https://github.com/asciinema/asciinema) ⭐ 17,912 | 🐛 13 | 🌐 Rust | 📅 2026-10-13 - Terminal session recorder, streamer and player 📹
+* [tikv/tikv](https://github.com/tikv/tikv) ⭐ 16,923 | 🐛 1,900 | 🌐 Rust | 📅 2026-10-23 - Distributed transactional key-value database, originally created to complement TiDB
+* [orhun/git-cliff](https://github.com/orhun/git-cliff) ⭐ 12,335 | 🐛 117 | 🌐 Rust | 📅 2026-10-24 - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+* [quickwit-oss/quickwit](https://github.com/quickwit-oss/quickwit) ⭐ 11,740 | 🐛 853 | 🌐 Rust | 📅 2026-10-24 - Cloud-native OSS search engine for observability
+* [sigoden/dufs](https://github.com/sigoden/dufs) ⭐ 10,979 | 🐛 2 | 🌐 Rust | 📅 2026-10-22 - A file server that supports static serving, uploading, searching, accessing control, webdav...
+* [PRQL/prql](https://github.com/PRQL/prql) ⭐ 10,931 | 🐛 290 | 🌐 Rust | 📅 2026-10-25 - PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+* [databendlabs/databend](https://github.com/databendlabs/databend) ⭐ 9,479 | 🐛 438 | 🌐 Rust | 📅 2026-10-25 - Data Agent Ready Warehouse : One for  Analytics, Search, AI, Python Sandbox.  — rebuilt from scratch. Unified architecture on your S3.
+* [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) ⭐ 9,016 | 🐛 1,234 | 🌐 Rust | 📅 2026-10-24 - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
+* [pydantic/monty](https://github.com/pydantic/monty) ⭐ 8,775 | 🐛 184 | 🌐 Rust | 📅 2026-10-25 - A secure Python sandbox, written in Rust, for code written by AI.
+* [GreptimeTeam/greptimedb](https://github.com/GreptimeTeam/greptimedb) ⭐ 6,764 | 🐛 336 | 🌐 Rust | 📅 2026-10-25 - The open-source observability database. One columnar engine for metrics, logs, and traces, on object storage.
+* [storytold/cadcraft](https://github.com/storytold/cadcraft) ⭐ 6,758 | 🐛 922 | 🌐 Rust | 📅 2026-10-25 - CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure Rust
+* [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) ⭐ 6,484 | 🐛 199 | 🌐 Rust | 📅 2026-10-25 - The unified toolchain and entry point for web development.
+* [loro-dev/loro](https://github.com/loro-dev/loro) ⭐ 6,246 | 🐛 75 | 🌐 Rust | 📅 2026-10-23 - Make your JSON data collaborative and version-controlled with CRDTs
+* [dalance/procs](https://github.com/dalance/procs) ⭐ 6,206 | 🐛 42 | 🌐 Rust | 📅 2026-10-20 - A modern replacement for ps written in Rust
+* [tw93/Kaku](https://github.com/tw93/Kaku) ⭐ 6,154 | 🐛 8 | 🌐 Rust | 📅 2026-10-25 - A fast, good-looking, AI-friendly terminal for the Mac.
+* [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) ⭐ 5,894 | 🐛 175 | 🌐 Rust | 📅 2026-10-24 - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
+* [apache/opendal](https://github.com/apache/opendal) ⭐ 5,425 | 🐛 356 | 🌐 Rust | 📅 2026-10-23 - Apache OpenDAL: One Layer, All Storage.
+* [metalbear-co/mirrord](https://github.com/metalbear-co/mirrord) ⭐ 5,382 | 🐛 21 | 🌐 Rust | 📅 2026-10-25 - Run any process, on your machine or in an AI agent's environment, as if it were a pod in your Kubernetes cluster: real env vars, DNS, network, traffic.
+* [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) ⭐ 5,067 | 🐛 130 | 🌐 Rust | 📅 2026-10-23 - Distributed stream processing engine in Rust
+* [nguyenphutrong/quotio](https://github.com/nguyenphutrong/quotio) ⭐ 4,897 | 🐛 130 | 🌐 Rust | 📅 2026-10-24 - Stop juggling AI accounts. Quotio is a beautiful native macOS menu bar app that unifies your Claude, Gemini, OpenAI, Qwen, and Antigravity subscriptions – with real-time quota tracking and smart auto-
+* [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) ⭐ 4,174 | 🐛 81 | 🌐 Rust | 📅 2026-10-23 - Local-first search across your workspace, built for humans and AI agents.
+* [Open-Less/openless](https://github.com/Open-Less/openless) ⭐ 3,964 | 🐛 51 | 🌐 Rust | 📅 2026-10-25 - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
+* [tobi/disktree](https://github.com/tobi/disktree) ⭐ 3,656 | 🐛 61 | 🌐 Rust | 📅 2026-10-23 - A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.
+* [lakehq/sail](https://github.com/lakehq/sail) ⭐ 3,470 | 🐛 318 | 🌐 Rust | 📅 2026-10-25 - Drop-in Apache Spark replacement written in Rust, unifying batch processing, stream processing, and compute-intensive AI workloads.
+* [pamburus/hl](https://github.com/pamburus/hl) ⭐ 3,313 | 🐛 23 | 🌐 Rust | 📅 2026-10-25 - A fast and powerful log viewer and processor that converts JSON logs or logfmt logs into a clear human-readable format.
+* [WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli) ⭐ 3,245 | 🐛 64 | 🌐 Rust | 📅 2026-10-19 - 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信
+* [microsoft/mxc](https://github.com/microsoft/mxc) ⭐ 2,988 | 🐛 86 | 🌐 Rust | 📅 2026-10-25 - Policy-driven, layered isolation and containment
 * [microsoft/pg\_durable](https://github.com/microsoft/pg_durable) ⭐ 2,840 | 🐛 18 | 🌐 Rust | 📅 2026-10-23 - PostgreSQL in-database durable execution
 * [tobi/walgit](https://github.com/tobi/walgit) ⭐ 2,660 | 🐛 69 | 🌐 Rust | 📅 2026-09-13 -
-* [kcl-lang/kcl](https://github.com/kcl-lang/kcl) ⭐ 2,437 | 🐛 12 | 🌐 Rust | 📅 2026-10-23 - KCL Language Core and API
-* [rustrak/rustrak](https://github.com/rustrak/rustrak) ⭐ 774 | 🐛 54 | 🌐 Rust | 📅 2026-10-24 - Ultra-lightweight error tracking server compatible with Sentry SDKs
-* [PicoMQ/picomq](https://github.com/PicoMQ/picomq) ⭐ 376 | 🐛 21 | 🌐 Rust | 📅 2026-10-24 - Kafka and Durable streams on object storage
+* [kcl-lang/kcl](https://github.com/kcl-lang/kcl) ⭐ 2,436 | 🐛 12 | 🌐 Rust | 📅 2026-10-23 - KCL Language Core and API
+* [rustrak/rustrak](https://github.com/rustrak/rustrak) ⭐ 782 | 🐛 50 | 🌐 Rust | 📅 2026-10-25 - Ultra-lightweight error tracking server compatible with Sentry SDKs
+* [longbridge/nsh](https://github.com/longbridge/nsh) ⭐ 633 | 🐛 35 | 🌐 Rust | 📅 2026-10-25 - NSH runs modules written in TSX — natively on iOS, Android, macOS, Windows, Linux, GPUI and the web
+* [PicoMQ/picomq](https://github.com/PicoMQ/picomq) ⭐ 376 | 🐛 18 | 🌐 Rust | 📅 2026-10-25 - Kafka and Durable streams on object storage
 * [JetSquirrel/cloudbridge](https://github.com/JetSquirrel/cloudbridge) ⭐ 62 | 🐛 0 | 🌐 Rust | 📅 2026-10-22 - A cross-platform desktop application for multi-cloud cost management and visualization.
 
 ## SCSS
 
-* [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) ⭐ 17,141 | 🐛 0 | 🌐 SCSS | 📅 2026-10-23 - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
+* [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges) ⭐ 17,144 | 🐛 0 | 🌐 SCSS | 📅 2026-10-23 - The largest curated collection of markdown badges for your personal developer branding, profile, and projects.
 
 ## Scala
 
-* [apache/spark](https://github.com/apache/spark) ⭐ 44,294 | 🐛 697 | 🌐 Scala | 📅 2026-10-24 - Apache Spark - A unified analytics engine for large-scale data processing
+* [apache/spark](https://github.com/apache/spark) ⭐ 44,301 | 🐛 700 | 🌐 Scala | 📅 2026-10-25 - Apache Spark - A unified analytics engine for large-scale data processing
 
 ## Shell
 
-* [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 302,224 | 🐛 200 | 🌐 Shell | 📅 2026-10-22 - Skills for Real Engineers. Straight from my .agents directory.
-* [tw93/Mole](https://github.com/tw93/Mole) ⭐ 72,669 | 🐛 2 | 🌐 Shell | 📅 2026-10-24 - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
-* [dockur/windows](https://github.com/dockur/windows) ⭐ 53,676 | 🐛 16 | 🌐 Shell | 📅 2026-10-08 - Windows inside a Docker container.
-* [omacom/omarchy](https://github.com/omacom/omarchy) ⭐ 45,589 | 🐛 5,710 | 🌐 Shell | 📅 2026-10-24 - Beautiful, Modern & Opinionated Linux
-* [a2aproject/A2A](https://github.com/a2aproject/A2A) ⭐ 26,279 | 🐛 288 | 🌐 Shell | 📅 2026-10-21 - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
-* [super-linter/super-linter](https://github.com/super-linter/super-linter) ⭐ 10,637 | 🐛 56 | 🌐 Shell | 📅 2026-10-23 - Combination of multiple linters to run as a GitHub Action or standalone
-* [longhorn/longhorn](https://github.com/longhorn/longhorn) ⭐ 8,040 | 🐛 1,922 | 🌐 Shell | 📅 2026-10-23 - Cloud-Native distributed storage built on and for Kubernetes
-* [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) ⭐ 3,995 | 🐛 3 | 🌐 Shell | 📅 2026-09-27 - Virtual DSM in a Docker container.
+* [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 302,949 | 🐛 204 | 🌐 Shell | 📅 2026-10-22 - Skills for Real Engineers. Straight from my .agents directory.
+* [tw93/Mole](https://github.com/tw93/Mole) ⭐ 72,817 | 🐛 12 | 🌐 Shell | 📅 2026-10-25 - 🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.
+* [dockur/windows](https://github.com/dockur/windows) ⭐ 53,677 | 🐛 16 | 🌐 Shell | 📅 2026-10-08 - Windows inside a Docker container.
+* [omacom/omarchy](https://github.com/omacom/omarchy) ⭐ 45,659 | 🐛 5,737 | 🌐 Shell | 📅 2026-10-25 - Beautiful, Modern & Opinionated Linux
+* [a2aproject/A2A](https://github.com/a2aproject/A2A) ⭐ 26,290 | 🐛 289 | 🌐 Shell | 📅 2026-10-21 - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
+* [super-linter/super-linter](https://github.com/super-linter/super-linter) ⭐ 10,637 | 🐛 58 | 🌐 Shell | 📅 2026-10-23 - Combination of multiple linters to run as a GitHub Action or standalone
+* [longhorn/longhorn](https://github.com/longhorn/longhorn) ⭐ 8,041 | 🐛 1,923 | 🌐 Shell | 📅 2026-10-25 - Cloud-Native distributed storage built on and for Kubernetes
+* [vdsm/virtual-dsm](https://github.com/vdsm/virtual-dsm) ⭐ 4,015 | 🐛 3 | 🌐 Shell | 📅 2026-09-27 - Virtual DSM in a Docker container.
 
 ## Swift
 
-* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 116,887 | 🐛 1,603 | 🌐 Swift | 📅 2026-10-24 -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
-* [swiftlang/swift](https://github.com/swiftlang/swift) ⭐ 70,520 | 🐛 9,477 | 🌐 Swift | 📅 2026-10-24 - The Swift Programming Language
-* [apple/container](https://github.com/apple/container) ⭐ 50,872 | 🐛 581 | 🌐 Swift | 📅 2026-10-24 - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
-* [iina/iina](https://github.com/iina/iina) ⭐ 46,890 | 🐛 1,986 | 🌐 Swift | 📅 2026-10-20 - The modern video player for macOS.
-* [exelban/stats](https://github.com/exelban/stats) ⭐ 42,780 | 🐛 22 | 🌐 Swift | 📅 2026-10-23 - macOS system monitor in your menu bar
-* [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,397 | 🐛 45 | 🌐 Swift | 📅 2026-10-10 - Elegant HTTP Networking in Swift
-* [utmapp/UTM](https://github.com/utmapp/UTM) ⭐ 36,511 | 🐛 1,138 | 🌐 Swift | 📅 2026-10-20 - Virtual machines for iOS and macOS
-* [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,549 | 🐛 28 | 🌐 Swift | 📅 2026-10-14 - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
-* [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) ⭐ 24,403 | 🐛 164 | 🌐 Swift | 📅 2026-10-18 - A lightweight, pure-Swift library for downloading and caching images from the web.
-* [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) ⭐ 23,084 | 🐛 214 | 🌐 Swift | 📅 2026-10-17 - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
-* [robbietilton/Compositor](https://github.com/robbietilton/Compositor) ⭐ 17,809 | 🐛 42 | 🌐 Swift | 📅 2026-10-24 - The Photoshop alternative for Mac
-* [mxcl/PromiseKit](https://github.com/mxcl/PromiseKit) ⭐ 14,209 | 🐛 16 | 🌐 Swift | 📅 2026-06-03 - Promises for Swift & ObjC.
-* [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) ⭐ 12,004 | 🐛 430 | 🌐 Swift | 📅 2026-10-22 - Community fork of PlayCover
-* [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) ⭐ 10,578 | 🐛 5 | 🌐 Swift | 📅 2026-08-19 - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
-* [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) ⭐ 10,185 | 🐛 134 | 🌐 Swift | 📅 2026-10-20 - A type-safe, Swift-language layer over SQLite3.
-* [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) ⭐ 8,852 | 🐛 2 | 🌐 Swift | 📅 2026-10-19 - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
-* [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) ⭐ 8,816 | 🐛 12 | 🌐 Swift | 📅 2026-10-23 - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
-* [groue/GRDB.swift](https://github.com/groue/GRDB.swift) ⭐ 8,711 | 🐛 14 | 🌐 Swift | 📅 2026-09-29 - A toolkit for SQLite databases, with a focus on application development
-* [tw93/MiaoYan](https://github.com/tw93/MiaoYan) ⭐ 8,683 | 🐛 4 | 🌐 Swift | 📅 2026-10-24 - ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
-* [apple/swift-nio](https://github.com/apple/swift-nio) ⭐ 8,539 | 🐛 308 | 🌐 Swift | 📅 2026-10-19 - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-* [openai/tart](https://github.com/openai/tart) ⭐ 7,645 | 🐛 76 | 🌐 Swift | 📅 2026-10-23 - macOS and Linux VMs on Apple Silicon to use in CI and other automations
-* [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) ⭐ 6,413 | 🐛 143 | 🌐 Swift | 📅 2026-10-11 - On-device Speech AI for Apple Silicon
-* [peetzweg/opendisplay](https://github.com/peetzweg/opendisplay) ⭐ 5,878 | 🐛 176 | 🌐 Rust | 📅 2026-10-24 - Use an iPhone, iPad, or spare Mac as a true second display for your Mac without restrictions.
-* [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) ⭐ 5,807 | 🐛 4 | 🌐 Swift | 📅 2026-09-12 - Universal API for request permission and get its statuses.
-* [marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) ⭐ 5,394 | 🐛 20 | 🌐 Swift | 📅 2026-05-25 - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
-* [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) ⭐ 5,125 | 🐛 0 | 🌐 Swift | 📅 2026-10-16 - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
+* [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) ⭐ 116,983 | 🐛 1,630 | 🌐 Swift | 📅 2026-10-25 -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
+* [swiftlang/swift](https://github.com/swiftlang/swift) ⭐ 70,521 | 🐛 9,485 | 🌐 Swift | 📅 2026-10-25 - The Swift Programming Language
+* [apple/container](https://github.com/apple/container) ⭐ 50,886 | 🐛 582 | 🌐 Swift | 📅 2026-10-24 - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.
+* [iina/iina](https://github.com/iina/iina) ⭐ 46,904 | 🐛 1,987 | 🌐 Swift | 📅 2026-10-24 - The modern video player for macOS.
+* [exelban/stats](https://github.com/exelban/stats) ⭐ 42,801 | 🐛 15 | 🌐 Swift | 📅 2026-10-25 - macOS system monitor in your menu bar
+* [Alamofire/Alamofire](https://github.com/Alamofire/Alamofire) ⭐ 42,398 | 🐛 45 | 🌐 Swift | 📅 2026-10-10 - Elegant HTTP Networking in Swift
+* [utmapp/UTM](https://github.com/utmapp/UTM) ⭐ 36,525 | 🐛 1,138 | 🌐 Swift | 📅 2026-10-20 - Virtual machines for iOS and macOS
+* [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) ⭐ 34,561 | 🐛 28 | 🌐 Swift | 📅 2026-10-14 - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
+* [onevcat/Kingfisher](https://github.com/onevcat/Kingfisher) ⭐ 24,405 | 🐛 164 | 🌐 Swift | 📅 2026-10-18 - A lightweight, pure-Swift library for downloading and caching images from the web.
+* [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) ⭐ 23,087 | 🐛 214 | 🌐 Swift | 📅 2026-10-17 - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
+* [robbietilton/Compositor](https://github.com/robbietilton/Compositor) ⭐ 17,867 | 🐛 42 | 🌐 Swift | 📅 2026-10-24 - The Photoshop alternative for Mac
+* [mxcl/PromiseKit](https://github.com/mxcl/PromiseKit) ⭐ 14,210 | 🐛 16 | 🌐 Swift | 📅 2026-06-03 - Promises for Swift & ObjC.
+* [PlayCover/PlayCover](https://github.com/PlayCover/PlayCover) ⭐ 12,007 | 🐛 431 | 🌐 Swift | 📅 2026-10-22 - Community fork of PlayCover
+* [krzyzanowskim/CryptoSwift](https://github.com/krzyzanowskim/CryptoSwift) ⭐ 10,579 | 🐛 5 | 🌐 Swift | 📅 2026-08-19 - CryptoSwift is a growing collection of standard and secure cryptographic algorithms implemented in Swift
+* [stephencelis/SQLite.swift](https://github.com/stephencelis/SQLite.swift) ⭐ 10,187 | 🐛 134 | 🌐 Swift | 📅 2026-10-20 - A type-safe, Swift-language layer over SQLite3.
+* [insidegui/VirtualBuddy](https://github.com/insidegui/VirtualBuddy) ⭐ 8,856 | 🐛 2 | 🌐 Swift | 📅 2026-10-19 - Virtualize macOS 12 and later on Apple Silicon, VirtualBuddy is a virtual machine GUI for macOS M1, M2, M3, M4
+* [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) ⭐ 8,827 | 🐛 18 | 🌐 Swift | 📅 2026-10-25 - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
+* [groue/GRDB.swift](https://github.com/groue/GRDB.swift) ⭐ 8,712 | 🐛 14 | 🌐 Swift | 📅 2026-09-29 - A toolkit for SQLite databases, with a focus on application development
+* [tw93/MiaoYan](https://github.com/tw93/MiaoYan) ⭐ 8,682 | 🐛 4 | 🌐 Swift | 📅 2026-10-25 - ⛷ A quiet, local-first Markdown writing app for Mac, to help you write great sentences.
+* [apple/swift-nio](https://github.com/apple/swift-nio) ⭐ 8,540 | 🐛 308 | 🌐 Swift | 📅 2026-10-19 - Event-driven network application framework for high performance protocol servers & clients, non-blocking.
+* [openai/tart](https://github.com/openai/tart) ⭐ 7,656 | 🐛 78 | 🌐 Swift | 📅 2026-10-23 - macOS and Linux VMs on Apple Silicon to use in CI and other automations
+* [argmaxinc/argmax-oss-swift](https://github.com/argmaxinc/argmax-oss-swift) ⭐ 6,416 | 🐛 143 | 🌐 Swift | 📅 2026-10-11 - On-device Speech AI for Apple Silicon
+* [sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit) ⭐ 5,808 | 🐛 4 | 🌐 Swift | 📅 2026-09-12 - Universal API for request permission and get its statuses.
+* [marmelroy/PhoneNumberKit](https://github.com/marmelroy/PhoneNumberKit) ⭐ 5,395 | 🐛 20 | 🌐 Swift | 📅 2026-05-25 - A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.
+* [scinfu/SwiftSoup](https://github.com/scinfu/SwiftSoup) ⭐ 5,126 | 🐛 0 | 🌐 Swift | 📅 2026-10-16 - SwiftSoup: Pure Swift HTML Parser, with best of DOM, CSS, and jquery (Supports Linux, iOS, Mac, tvOS, watchOS)
 * [devicekit/DeviceKit](https://github.com/devicekit/DeviceKit) ⭐ 4,738 | 🐛 82 | 🌐 Swift | 📅 2026-10-12 - DeviceKit is a value-type replacement of UIDevice.
 * [exyte/PopupView](https://github.com/exyte/PopupView) ⭐ 4,061 | 🐛 0 | 🌐 Swift | 📅 2026-10-06 - Toasts and popups library written with SwiftUI
 * [apple/swift-log](https://github.com/apple/swift-log) ⭐ 4,054 | 🐛 26 | 🌐 Swift | 📅 2026-10-22 - A Logging API for Swift
-* [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) ⭐ 3,798 | 🐛 158 | 🌐 Swift | 📅 2026-10-23 - Straightforward, type-safe argument parsing for Swift
+* [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) ⭐ 3,798 | 🐛 156 | 🌐 Swift | 📅 2026-10-24 - Straightforward, type-safe argument parsing for Swift
 * [yattee/yattee](https://github.com/yattee/yattee) ⭐ 3,766 | 🐛 234 | 🌐 Swift | 📅 2026-10-22 - Privacy oriented video player for iOS, tvOS and macOS
-* [swiftlang/swift-markdown](https://github.com/swiftlang/swift-markdown) ⭐ 3,443 | 🐛 67 | 🌐 Swift | 📅 2026-10-24 - A Swift package for parsing, building, editing, and analyzing Markdown documents.
+* [swiftlang/swift-markdown](https://github.com/swiftlang/swift-markdown) ⭐ 3,443 | 🐛 67 | 🌐 Swift | 📅 2026-10-25 - A Swift package for parsing, building, editing, and analyzing Markdown documents.
 * [yichengchen/ATV-Bilibili-demo](https://github.com/yichengchen/ATV-Bilibili-demo) ⭐ 3,168 | 🐛 16 | 🌐 Swift | 📅 2026-10-21 - BiliBili Client Demo for Apple TV (tvOS)
-* [apple/coreai-models](https://github.com/apple/coreai-models) ⭐ 2,213 | 🐛 47 | 🌐 Swift | 📅 2026-10-23 - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
-* [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) ⭐ 1,992 | 🐛 106 | 🌐 Swift | 📅 2026-10-23 - Generate Swift client and server code from an OpenAPI document.
+* [apple/coreai-models](https://github.com/apple/coreai-models) ⭐ 2,214 | 🐛 50 | 🌐 Swift | 📅 2026-10-23 - Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+* [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) ⭐ 1,993 | 🐛 106 | 🌐 Swift | 📅 2026-10-23 - Generate Swift client and server code from an OpenAPI document.
 * [SFSafeSymbols/SFSafeSymbols](https://github.com/SFSafeSymbols/SFSafeSymbols) ⭐ 1,897 | 🐛 11 | 🌐 Swift | 📅 2026-03-31 - Safely access Apple's SF Symbols using static typing
-* [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) ⭐ 1,439 | 🐛 84 | 🌐 Swift | 📅 2026-10-20 - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
+* [RockxyApp/Rockxy](https://github.com/RockxyApp/Rockxy) ⭐ 1,440 | 🐛 84 | 🌐 Swift | 📅 2026-10-20 - Open-source native macOS HTTP debugging proxy — intercept HTTPS, inspect APIs, mock responses, debug WebSocket & GraphQL. Community-driven. For developers, by developers.
 * [danielsaidi/RichTextKit](https://github.com/danielsaidi/RichTextKit) ⭐ 1,274 | 🐛 62 | 🌐 Swift | 📅 2026-06-05 - View and edit rich text in SwiftUI.
-* [nodes-app/swift-markdown-engine](https://github.com/nodes-app/swift-markdown-engine) ⭐ 1,231 | 🐛 53 | 🌐 Swift | 📅 2026-10-22 - A native AppKit Markdown editor for macOS, built on TextKit 2 and bridged to SwiftUI.
+* [nodes-app/swift-markdown-engine](https://github.com/nodes-app/swift-markdown-engine) ⭐ 1,233 | 🐛 53 | 🌐 Swift | 📅 2026-10-22 - A native AppKit Markdown editor for macOS, built on TextKit 2 and bridged to SwiftUI.
 * [swift-server/async-http-client](https://github.com/swift-server/async-http-client) ⭐ 1,082 | 🐛 147 | 🌐 Swift | 📅 2026-10-07 - HTTP client library built on SwiftNIO
 * [apple/swift-http-types](https://github.com/apple/swift-http-types) ⭐ 1,034 | 🐛 20 | 🌐 Swift | 📅 2026-09-25 - Version-independent HTTP currency types for Swift
 * [swiftwasm/JavaScriptKit](https://github.com/swiftwasm/JavaScriptKit) ⭐ 991 | 🐛 47 | 🌐 Swift | 📅 2026-10-19 - Swift framework to interact with JavaScript through WebAssembly.
 * [Jarvis322/macos-sysdata](https://github.com/Jarvis322/macos-sysdata) ⭐ 962 | 🐛 0 | 🌐 Swift | 📅 2026-10-23 - See what is really inside macOS System Data and delete it item by item. A free menu bar app that explains every category and shows each command before it runs.
-* [fif7y/dimble](https://github.com/fif7y/dimble) ⭐ 917 | 🐛 9 | 🌐 Swift | 📅 2026-10-24 - A calm menu bar, done the native way. Hides the icons you don't need until you do.
-* [kylebrowning/APNSwift](https://github.com/kylebrowning/APNSwift) ⭐ 843 | 🐛 0 | 🌐 Swift | 📅 2026-10-16 - 📱HTTP/2 Apple Push Notification Service built with swift - send push notifications to iOS, iPadOS, tvOS, macOS, watchOS, visionOS, and Safari!
+* [fif7y/dimble](https://github.com/fif7y/dimble) ⭐ 923 | 🐛 10 | 🌐 Swift | 📅 2026-10-24 - A calm menu bar, done the native way. Hides the icons you don't need until you do.
+* [kylebrowning/APNSwift](https://github.com/kylebrowning/APNSwift) ⭐ 844 | 🐛 1 | 🌐 Swift | 📅 2026-10-16 - 📱HTTP/2 Apple Push Notification Service built with swift - send push notifications to iOS, iPadOS, tvOS, macOS, watchOS, visionOS, and Safari!
 * [LiYanan2004/MarkdownView](https://github.com/LiYanan2004/MarkdownView) ⭐ 842 | 🐛 6 | 🌐 Swift | 📅 2026-10-21 - Display markdown content with SwiftUI.
-* [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) ⭐ 648 | 🐛 34 | 🌐 Swift | 📅 2026-10-24 - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
-* [termio-sh/termio](https://github.com/termio-sh/termio) ⭐ 581 | 🐛 38 | 🌐 Swift | 📅 2026-10-21 - A terminal-first agentic development environment for agentic coding. Build for CLI/TUI agent. Runtime for Coding Agent,  Tmux alternative
-* [apple/foundation-models-utilities](https://github.com/apple/foundation-models-utilities) ⭐ 535 | 🐛 0 | 🌐 Swift | 📅 2026-09-21 - Emerging and experimental patterns for building with the Foundation Models framework
-* [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) ⭐ 198 | 🐛 0 | 🌐 Swift | 📅 2026-10-24 - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
+* [ZingerLittleBee/Heeler](https://github.com/ZingerLittleBee/Heeler) ⭐ 656 | 🐛 35 | 🌐 Swift | 📅 2026-10-25 - Native iOS agent console for herdr — watch and drive the coding agents on your machines over SSH, with a real libghostty terminal, QR pairing, and push notifications when an agent needs you
+* [termio-sh/termio](https://github.com/termio-sh/termio) ⭐ 583 | 🐛 39 | 🌐 Swift | 📅 2026-10-25 - A terminal-first agentic development environment for agentic coding. Build for CLI/TUI agent. Runtime for Coding Agent,  Tmux alternative
+* [apple/foundation-models-utilities](https://github.com/apple/foundation-models-utilities) ⭐ 537 | 🐛 0 | 🌐 Swift | 📅 2026-09-21 - Emerging and experimental patterns for building with the Foundation Models framework
+* [SwiftTUI/swift-tui](https://github.com/SwiftTUI/swift-tui) ⭐ 199 | 🐛 0 | 🌐 Swift | 📅 2026-10-25 - SwiftUI semantics, drawn in terminal cells — macOS/Linux/Windows/WASI
 
 ## TypeScript
 
-* [morluto/rea](https://github.com/morluto/rea) ⭐ 376,246 | 🐛 1,224 | 🌐 TypeScript | 📅 2026-10-24 - Reverse engineer anything with agents, from app behavior down to native binaries.
-* [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) ⭐ 370,286 | 🐛 5 | 🌐 TypeScript | 📅 2026-10-23 - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
-* [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 194,847 | 🐛 665 | 🌐 TypeScript | 📅 2026-10-24 - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
-* [iptv-org/iptv](https://github.com/iptv-org/iptv) ⭐ 142,185 | 🐛 47 | 🌐 TypeScript | 📅 2026-10-24 - Collection of publicly available IPTV channels from all over the world
-* [garrytan/gstack](https://github.com/garrytan/gstack) ⭐ 137,460 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-24 - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
-* [shadcn-ui/ui](https://github.com/shadcn-ui/ui) ⭐ 126,424 | 🐛 1,767 | 🌐 TypeScript | 📅 2026-10-24 - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
-* [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 117,555 | 🐛 369 | 🌐 TypeScript | 📅 2026-10-24 - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-* [immich-app/immich](https://github.com/immich-app/immich) ⭐ 117,081 | 🐛 722 | 🌐 TypeScript | 📅 2026-10-24 - High performance self-hosted photo and video management solution.
-* [supabase/supabase](https://github.com/supabase/supabase) ⭐ 113,867 | 🐛 1,167 | 🌐 TypeScript | 📅 2026-10-24 - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-* [stablyai/orca](https://github.com/stablyai/orca) ⭐ 104,525 | 🐛 8,706 | 🌐 TypeScript | 📅 2026-10-24 - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
-* [microsoft/playwright](https://github.com/microsoft/playwright) ⭐ 98,413 | 🐛 198 | 🌐 TypeScript | 📅 2026-10-24 - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-* [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) ⭐ 98,038 | 🐛 99 | 🌐 TypeScript | 📅 2026-10-19 - A utility-first CSS framework for rapid UI development.
-* [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) ⭐ 95,737 | 🐛 206 | 🌐 TypeScript | 📅 2026-10-23 - JavaScript API for Chrome and Firefox
-* [vitejs/vite](https://github.com/vitejs/vite) ⭐ 83,504 | 🐛 801 | 🌐 TypeScript | 📅 2026-10-23 - Next generation frontend tooling. It's fast!
-* [grafana/grafana](https://github.com/grafana/grafana) ⭐ 77,476 | 🐛 3,332 | 🌐 TypeScript | 📅 2026-10-24 - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-* [upstash/context7](https://github.com/upstash/context7) ⭐ 63,583 | 🐛 46 | 🌐 TypeScript | 📅 2026-10-23 - Context7 Platform -- Up-to-date docs for AI agents
-* [withastro/astro](https://github.com/withastro/astro) ⭐ 63,431 | 🐛 120 | 🌐 TypeScript | 📅 2026-10-24 - The web framework for content-driven websites.
-* [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ⭐ 54,074 | 🐛 106 | 🌐 TypeScript | 📅 2026-10-23 - Chrome DevTools for coding agents
-* [chenglou/pretext](https://github.com/chenglou/pretext) ⭐ 50,893 | 🐛 65 | 🌐 TypeScript | 📅 2026-10-15 - Fast, accurate & comprehensive text measurement & layout
-* [trpc/trpc](https://github.com/trpc/trpc) ⭐ 40,720 | 🐛 181 | 🌐 TypeScript | 📅 2026-10-22 - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-* [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 40,530 | 🐛 185 | 🌐 TypeScript | 📅 2026-10-20 - An Open Source implementation of Notebook LM with more flexibility and features
-* [vadimdemedes/ink](https://github.com/vadimdemedes/ink) ⭐ 40,156 | 🐛 33 | 🌐 TypeScript | 📅 2026-10-03 - 🌈 React for interactive command-line apps
-* [videojs/video.js](https://github.com/videojs/video.js) ⭐ 40,007 | 🐛 872 | 🌐 TypeScript | 📅 2026-10-24 - Video.js v10 - open source media player framework for HTML and React.
-* [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) ⭐ 38,833 | 🐛 903 | 🌐 TypeScript | 📅 2026-10-23 - The headless rich text editor framework for web artisans.
-* [xyflow/xyflow](https://github.com/xyflow/xyflow) ⭐ 38,764 | 🐛 162 | 🌐 TypeScript | 📅 2026-10-22 - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (<https://reactflow.dev>) or Svelte (<https://svelteflow.dev>). Ready out-of-the-box and infinitely customi
-* [vercel-labs/skills](https://github.com/vercel-labs/skills) ⭐ 36,357 | 🐛 1,187 | 🌐 TypeScript | 📅 2026-10-19 - The open agent skills tool - npx skills
-* [balena-io/etcher](https://github.com/balena-io/etcher) ⭐ 34,584 | 🐛 700 | 🌐 TypeScript | 📅 2026-10-23 - Flash OS images to SD cards & USB drives, safely and easily.
-* [SigNoz/signoz](https://github.com/SigNoz/signoz) ⭐ 32,432 | 🐛 1,565 | 🌐 TypeScript | 📅 2026-10-24 - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
-* [alibaba/page-agent](https://github.com/alibaba/page-agent) ⭐ 29,560 | 🐛 112 | 🌐 TypeScript | 📅 2026-10-21 - JavaScript in-page GUI agent. Control web interfaces with natural language.
-* [yamadashy/repomix](https://github.com/yamadashy/repomix) ⭐ 29,007 | 🐛 159 | 🌐 TypeScript | 📅 2026-10-24 - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-* [google-labs-code/design.md](https://github.com/google-labs-code/design.md) ⭐ 28,515 | 🐛 42 | 🌐 TypeScript | 📅 2026-10-16 - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
-* [vercel/ai](https://github.com/vercel/ai) ⭐ 27,492 | 🐛 1,467 | 🌐 TypeScript | 📅 2026-10-24 - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
-* [apify/crawlee](https://github.com/apify/crawlee) ⭐ 26,247 | 🐛 147 | 🌐 TypeScript | 📅 2026-10-23 - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
-* [pascalorg/editor](https://github.com/pascalorg/editor) ⭐ 25,084 | 🐛 59 | 🌐 TypeScript | 📅 2026-10-24 - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
-* [dubinc/dub](https://github.com/dubinc/dub) ⭐ 24,934 | 🐛 109 | 🌐 TypeScript | 📅 2026-10-24 - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
-* [bendlang/bend](https://github.com/bendlang/bend) ⭐ 24,096 | 🐛 106 | 🌐 TypeScript | 📅 2026-10-23 - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL <https://bend-lang.com/install.sh> | sh
-* [openobserve/openobserve](https://github.com/openobserve/openobserve) ⭐ 22,478 | 🐛 614 | 🌐 TypeScript | 📅 2026-10-24 - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
-* [vercel/chatbot](https://github.com/vercel/chatbot) ⭐ 21,005 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-08 - A full-featured, hackable Next.js AI chatbot built by Vercel
-* [vercel-labs/json-render](https://github.com/vercel-labs/json-render) ⭐ 18,776 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-24 - The Generative UI framework
-* [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) ⭐ 16,806 | 🐛 578 | 🌐 TypeScript | 📅 2026-10-24 -
-* [vercel/vercel](https://github.com/vercel/vercel) ⭐ 16,434 | 🐛 878 | 🌐 TypeScript | 📅 2026-10-24 - Develop. Preview. Ship.
-* [scalar/scalar](https://github.com/scalar/scalar) ⭐ 16,314 | 🐛 32 | 🌐 TypeScript | 📅 2026-10-24 - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-* [electric-sql/pglite](https://github.com/electric-sql/pglite) ⭐ 16,185 | 🐛 162 | 🌐 TypeScript | 📅 2026-10-23 - Embeddable Postgres with real-time, reactive bindings.
-* [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) ⭐ 15,650 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-23 - Self-hosted, plugin-based server management.
-* [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) ⭐ 14,993 | 🐛 5 | 🌐 TypeScript | 📅 2024-06-11 - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
-* [oblien/openship](https://github.com/oblien/openship) ⭐ 14,917 | 🐛 137 | 🌐 TypeScript | 📅 2026-10-24 - Self-hosted deployment platform
-* [logto-io/logto](https://github.com/logto-io/logto) ⭐ 14,774 | 🐛 148 | 🌐 TypeScript | 📅 2026-10-24 - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
-* [vercel/satori](https://github.com/vercel/satori) ⭐ 14,126 | 🐛 155 | 🌐 TypeScript | 📅 2026-10-23 - Enlightened library to convert HTML and CSS to SVG
-* [emdash-cms/emdash](https://github.com/emdash-cms/emdash) ⭐ 13,916 | 🐛 340 | 🌐 TypeScript | 📅 2026-10-24 - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
-* [browserless/browserless](https://github.com/browserless/browserless) ⭐ 13,845 | 🐛 16 | 🌐 TypeScript | 📅 2026-10-23 - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
-* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,804 | 🐛 449 | 🌐 TypeScript | 📅 2026-10-21 - The developer platform for on-demand cloud development environments to create software faster and more securely.
-* [facebook/astryx](https://github.com/facebook/astryx) ⭐ 13,739 | 🐛 691 | 🌐 TypeScript | 📅 2026-10-24 - An open source design system that's fully customizable and agent ready
-* [doocs/md](https://github.com/doocs/md) ⭐ 13,456 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-21 - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-* [openreplay/openreplay](https://github.com/openreplay/openreplay) ⭐ 13,042 | 🐛 187 | 🌐 TypeScript | 📅 2026-10-23 - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
-* [vercel-labs/portless](https://github.com/vercel-labs/portless) ⭐ 12,743 | 🐛 119 | 🌐 TypeScript | 📅 2026-10-24 - Replace port numbers with stable, named local URLs. For humans and agents.
-* [meshery/meshery](https://github.com/meshery/meshery) ⭐ 12,048 | 🐛 2,255 | 🌐 TypeScript | 📅 2026-10-24 - Meshery, the cloud native manager
-* [tester-army/e2e](https://github.com/tester-army/e2e) ⭐ 11,824 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-23 - Next generation e2e testing framework for web and mobile apps.
-* [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) ⭐ 11,562 | 🐛 160 | 🌐 TypeScript | 📅 2026-10-24 - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
-* [openai/codex-security](https://github.com/openai/codex-security) ⭐ 11,191 | 🐛 175 | 🌐 TypeScript | 📅 2026-10-24 - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: <https://www.npmjs.com/package/@openai/codex-security>
-* [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ⭐ 10,647 | 🐛 197 | 🌐 TypeScript | 📅 2026-10-24 - ⚡ Next-gen Web Extension Framework
-* [electric-sql/electric](https://github.com/electric-sql/electric) ⭐ 10,412 | 🐛 277 | 🌐 TypeScript | 📅 2026-10-06 - The agent platform built on sync.
-* [cloudflare/computer](https://github.com/cloudflare/computer) ⭐ 9,696 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-23 - Give your agent a computer 👾
-* [modem-dev/hunk](https://github.com/modem-dev/hunk) ⭐ 9,674 | 🐛 170 | 🌐 TypeScript | 📅 2026-10-24 - Review-first terminal diff viewer for agentic coders
-* [highlight/highlight](https://github.com/highlight/highlight) ⭐ 9,384 | 🐛 561 | 🌐 TypeScript | 📅 2026-10-23 - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
-* [withastro/flue](https://github.com/withastro/flue) ⭐ 8,521 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-17 - The sandbox agent framework.
-* [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) ⭐ 8,408 | 🐛 286 | 🌐 TypeScript | 📅 2026-09-25 - Generate TypeScript types from OpenAPI 3 specs
-* [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) ⭐ 7,505 | 🐛 1,558 | 🌐 TypeScript | 📅 2026-10-23 - A Kubernetes web UI that is fully-featured, user-friendly and extensible
-* [anomalyco/models.dev](https://github.com/anomalyco/models.dev) ⭐ 7,369 | 🐛 399 | 🌐 TypeScript | 📅 2026-10-24 - An open-source database of AI models.
-* [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) ⭐ 6,357 | 🐛 85 | 🌐 TypeScript | 📅 2026-10-24 - pierre’s open source code
-* [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) ⭐ 6,332 | 🐛 302 | 🌐 TypeScript | 📅 2026-10-23 - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
-* [vercel/eve](https://github.com/vercel/eve) ⭐ 5,666 | 🐛 827 | 🌐 TypeScript | 📅 2026-10-24 - The Open Framework for Building Agents
-* [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) ⭐ 5,420 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-22 - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
-* [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) ⭐ 5,389 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-21 - WebGPU components for React, Vue, Svelte, Solid, JS & Framer
-* [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) ⭐ 5,244 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-24 - AI coding jargon, explained in plain English.
-* [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) ⭐ 5,168 | 🐛 11 | 🌐 TypeScript | 📅 2026-06-08 - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
-* [cloudflare/kumo](https://github.com/cloudflare/kumo) ⭐ 4,126 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-20 - Cloudflare's component library for building modern web applications.
-* [yetone/cumora](https://github.com/yetone/cumora) ⭐ 4,015 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-24 - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
+* [morluto/rea](https://github.com/morluto/rea) ⭐ 382,260 | 🐛 1,056 | 🌐 TypeScript | 📅 2026-10-25 - Reverse engineer anything with agents, from app behavior down to native binaries.
+* [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) ⭐ 370,378 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-25 - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+* [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 195,203 | 🐛 672 | 🌐 TypeScript | 📅 2026-10-25 - Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥
+* [iptv-org/iptv](https://github.com/iptv-org/iptv) ⭐ 142,296 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-25 - Collection of publicly available IPTV channels from all over the world
+* [garrytan/gstack](https://github.com/garrytan/gstack) ⭐ 137,633 | 🐛 62 | 🌐 TypeScript | 📅 2026-10-25 - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+* [shadcn-ui/ui](https://github.com/shadcn-ui/ui) ⭐ 126,496 | 🐛 1,776 | 🌐 TypeScript | 📅 2026-10-25 - Composable, accessible components with thoughtful defaults. Build your own component library with code you can customize, extend, and make your own.
+* [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 117,732 | 🐛 386 | 🌐 TypeScript | 📅 2026-10-25 - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+* [immich-app/immich](https://github.com/immich-app/immich) ⭐ 117,183 | 🐛 727 | 🌐 TypeScript | 📅 2026-10-25 - High performance self-hosted photo and video management solution.
+* [supabase/supabase](https://github.com/supabase/supabase) ⭐ 113,910 | 🐛 1,174 | 🌐 TypeScript | 📅 2026-10-25 - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+* [stablyai/orca](https://github.com/stablyai/orca) ⭐ 105,420 | 🐛 8,559 | 🌐 TypeScript | 📅 2026-10-25 - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+* [microsoft/playwright](https://github.com/microsoft/playwright) ⭐ 98,473 | 🐛 209 | 🌐 TypeScript | 📅 2026-10-25 - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+* [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) ⭐ 98,104 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-19 - A utility-first CSS framework for rapid UI development.
+* [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) ⭐ 95,743 | 🐛 213 | 🌐 TypeScript | 📅 2026-10-25 - JavaScript API for Chrome and Firefox
+* [vitejs/vite](https://github.com/vitejs/vite) ⭐ 83,534 | 🐛 807 | 🌐 TypeScript | 📅 2026-10-23 - Next generation frontend tooling. It's fast!
+* [grafana/grafana](https://github.com/grafana/grafana) ⭐ 77,493 | 🐛 3,319 | 🌐 TypeScript | 📅 2026-10-25 - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+* [upstash/context7](https://github.com/upstash/context7) ⭐ 63,648 | 🐛 45 | 🌐 TypeScript | 📅 2026-10-23 - Context7 Platform -- Up-to-date docs for AI agents
+* [withastro/astro](https://github.com/withastro/astro) ⭐ 63,455 | 🐛 120 | 🌐 TypeScript | 📅 2026-10-25 - The web framework for content-driven websites.
+* [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) ⭐ 54,111 | 🐛 111 | 🌐 TypeScript | 📅 2026-10-25 - Chrome DevTools for coding agents
+* [chenglou/pretext](https://github.com/chenglou/pretext) ⭐ 50,903 | 🐛 65 | 🌐 TypeScript | 📅 2026-10-15 - Fast, accurate & comprehensive text measurement & layout
+* [trpc/trpc](https://github.com/trpc/trpc) ⭐ 40,722 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-25 - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
+* [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) ⭐ 40,567 | 🐛 186 | 🌐 TypeScript | 📅 2026-10-20 - An Open Source implementation of Notebook LM with more flexibility and features
+* [vadimdemedes/ink](https://github.com/vadimdemedes/ink) ⭐ 40,165 | 🐛 40 | 🌐 TypeScript | 📅 2026-10-03 - 🌈 React for interactive command-line apps
+* [videojs/video.js](https://github.com/videojs/video.js) ⭐ 40,014 | 🐛 870 | 🌐 TypeScript | 📅 2026-10-25 - Video.js v10 - open source media player framework for HTML and React.
+* [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) ⭐ 38,845 | 🐛 905 | 🌐 TypeScript | 📅 2026-10-23 - The headless rich text editor framework for web artisans.
+* [xyflow/xyflow](https://github.com/xyflow/xyflow) ⭐ 38,772 | 🐛 162 | 🌐 TypeScript | 📅 2026-10-22 - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (<https://reactflow.dev>) or Svelte (<https://svelteflow.dev>). Ready out-of-the-box and infinitely customi
+* [vercel-labs/skills](https://github.com/vercel-labs/skills) ⭐ 36,483 | 🐛 1,192 | 🌐 TypeScript | 📅 2026-10-19 - The open agent skills tool - npx skills
+* [balena-io/etcher](https://github.com/balena-io/etcher) ⭐ 34,593 | 🐛 700 | 🌐 TypeScript | 📅 2026-10-23 - Flash OS images to SD cards & USB drives, safely and easily.
+* [SigNoz/signoz](https://github.com/SigNoz/signoz) ⭐ 32,442 | 🐛 1,568 | 🌐 TypeScript | 📅 2026-10-25 - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
+* [alibaba/page-agent](https://github.com/alibaba/page-agent) ⭐ 29,562 | 🐛 112 | 🌐 TypeScript | 📅 2026-10-21 - JavaScript in-page GUI agent. Control web interfaces with natural language.
+* [yamadashy/repomix](https://github.com/yamadashy/repomix) ⭐ 29,015 | 🐛 153 | 🌐 TypeScript | 📅 2026-10-25 - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
+* [google-labs-code/design.md](https://github.com/google-labs-code/design.md) ⭐ 28,524 | 🐛 43 | 🌐 TypeScript | 📅 2026-10-16 - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
+* [vercel/ai](https://github.com/vercel/ai) ⭐ 27,507 | 🐛 1,499 | 🌐 TypeScript | 📅 2026-10-25 - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
+* [apify/crawlee](https://github.com/apify/crawlee) ⭐ 26,264 | 🐛 149 | 🌐 TypeScript | 📅 2026-10-23 - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
+* [pascalorg/editor](https://github.com/pascalorg/editor) ⭐ 25,095 | 🐛 60 | 🌐 TypeScript | 📅 2026-10-25 - Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.
+* [dubinc/dub](https://github.com/dubinc/dub) ⭐ 24,945 | 🐛 107 | 🌐 TypeScript | 📅 2026-10-25 - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
+* [bendlang/bend](https://github.com/bendlang/bend) ⭐ 24,134 | 🐛 114 | 🌐 TypeScript | 📅 2026-10-23 - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL <https://bend-lang.com/install.sh> | sh
+* [openobserve/openobserve](https://github.com/openobserve/openobserve) ⭐ 22,486 | 🐛 622 | 🌐 TypeScript | 📅 2026-10-25 - Open source observability platform for logs, metrics, traces, RUM (web, android, ios), Session replay, pipelines, SLO and LLM observability. A sophisticated, simple and highly performant alternative t
+* [vercel/chatbot](https://github.com/vercel/chatbot) ⭐ 21,004 | 🐛 31 | 🌐 TypeScript | 📅 2026-07-08 - A full-featured, hackable Next.js AI chatbot built by Vercel
+* [vercel-labs/json-render](https://github.com/vercel-labs/json-render) ⭐ 18,786 | 🐛 102 | 🌐 TypeScript | 📅 2026-10-24 - The Generative UI framework
+* [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) ⭐ 16,813 | 🐛 579 | 🌐 TypeScript | 📅 2026-10-25 -
+* [vercel/vercel](https://github.com/vercel/vercel) ⭐ 16,440 | 🐛 878 | 🌐 TypeScript | 📅 2026-10-24 - Develop. Preview. Ship.
+* [scalar/scalar](https://github.com/scalar/scalar) ⭐ 16,316 | 🐛 40 | 🌐 TypeScript | 📅 2026-10-25 - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+* [electric-sql/pglite](https://github.com/electric-sql/pglite) ⭐ 16,187 | 🐛 165 | 🌐 TypeScript | 📅 2026-10-25 - Embeddable Postgres with real-time, reactive bindings.
+* [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) ⭐ 15,657 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-25 - Self-hosted, plugin-based server management.
+* [Sairyss/domain-driven-hexagon](https://github.com/Sairyss/domain-driven-hexagon) ⭐ 14,994 | 🐛 5 | 🌐 TypeScript | 📅 2024-06-11 - Learn Domain-Driven Design, software architecture, design patterns, best practices. Code examples included
+* [oblien/openship](https://github.com/oblien/openship) ⭐ 14,932 | 🐛 150 | 🌐 TypeScript | 📅 2026-10-25 - Self-hosted deployment platform
+* [logto-io/logto](https://github.com/logto-io/logto) ⭐ 14,781 | 🐛 148 | 🌐 TypeScript | 📅 2026-10-24 - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
+* [vercel/satori](https://github.com/vercel/satori) ⭐ 14,131 | 🐛 156 | 🌐 TypeScript | 📅 2026-10-23 - Enlightened library to convert HTML and CSS to SVG
+* [emdash-cms/emdash](https://github.com/emdash-cms/emdash) ⭐ 13,944 | 🐛 328 | 🌐 TypeScript | 📅 2026-10-25 - EmDash is a full-stack TypeScript CMS based on Astro; the spiritual successor to WordPress
+* [browserless/browserless](https://github.com/browserless/browserless) ⭐ 13,856 | 🐛 17 | 🌐 TypeScript | 📅 2026-10-23 - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
+* [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) ⭐ 13,804 | 🐛 450 | 🌐 TypeScript | 📅 2026-10-25 - The developer platform for on-demand cloud development environments to create software faster and more securely.
+* [facebook/astryx](https://github.com/facebook/astryx) ⭐ 13,748 | 🐛 757 | 🌐 TypeScript | 📅 2026-10-25 - An open source design system that's fully customizable and agent ready
+* [doocs/md](https://github.com/doocs/md) ⭐ 13,461 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-21 - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
+* [openreplay/openreplay](https://github.com/openreplay/openreplay) ⭐ 13,048 | 🐛 188 | 🌐 TypeScript | 📅 2026-10-23 - Session replay, cobrowsing and product analytics you can self-host. Best for reproducing issues and iterating on your product.
+* [vercel-labs/portless](https://github.com/vercel-labs/portless) ⭐ 12,749 | 🐛 112 | 🌐 TypeScript | 📅 2026-10-24 - Replace port numbers with stable, named local URLs. For humans and agents.
+* [meshery/meshery](https://github.com/meshery/meshery) ⭐ 12,051 | 🐛 2,258 | 🌐 TypeScript | 📅 2026-10-25 - Meshery, the cloud native manager
+* [tester-army/e2e](https://github.com/tester-army/e2e) ⭐ 11,875 | 🐛 107 | 🌐 TypeScript | 📅 2026-10-23 - Next generation e2e testing framework for web and mobile apps.
+* [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) ⭐ 11,573 | 🐛 163 | 🌐 TypeScript | 📅 2026-10-25 - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
+* [openai/codex-security](https://github.com/openai/codex-security) ⭐ 11,196 | 🐛 185 | 🌐 TypeScript | 📅 2026-10-25 - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: <https://www.npmjs.com/package/@openai/codex-security>
+* [wxt-dev/wxt](https://github.com/wxt-dev/wxt) ⭐ 10,654 | 🐛 198 | 🌐 TypeScript | 📅 2026-10-25 - ⚡ Next-gen Web Extension Framework
+* [electric-sql/electric](https://github.com/electric-sql/electric) ⭐ 10,415 | 🐛 278 | 🌐 TypeScript | 📅 2026-10-06 - The agent platform built on sync.
+* [cloudflare/computer](https://github.com/cloudflare/computer) ⭐ 9,709 | 🐛 27 | 🌐 TypeScript | 📅 2026-10-23 - Give your agent a computer 👾
+* [modem-dev/hunk](https://github.com/modem-dev/hunk) ⭐ 9,685 | 🐛 167 | 🌐 TypeScript | 📅 2026-10-25 - Review-first terminal diff viewer for agentic coders
+* [highlight/highlight](https://github.com/highlight/highlight) ⭐ 9,384 | 🐛 563 | 🌐 TypeScript | 📅 2026-10-23 - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
+* [withastro/flue](https://github.com/withastro/flue) ⭐ 8,536 | 🐛 52 | 🌐 TypeScript | 📅 2026-10-17 - The sandbox agent framework.
+* [openapi-ts/openapi-typescript](https://github.com/openapi-ts/openapi-typescript) ⭐ 8,413 | 🐛 286 | 🌐 TypeScript | 📅 2026-09-25 - Generate TypeScript types from OpenAPI 3 specs
+* [kubernetes-sigs/headlamp](https://github.com/kubernetes-sigs/headlamp) ⭐ 7,510 | 🐛 1,559 | 🌐 TypeScript | 📅 2026-10-23 - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+* [anomalyco/models.dev](https://github.com/anomalyco/models.dev) ⭐ 7,381 | 🐛 411 | 🌐 TypeScript | 📅 2026-10-25 - An open-source database of AI models.
+* [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) ⭐ 6,574 | 🐛 303 | 🌐 TypeScript | 📅 2026-10-24 - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+* [pierrecomputer/pierre](https://github.com/pierrecomputer/pierre) ⭐ 6,362 | 🐛 82 | 🌐 TypeScript | 📅 2026-10-25 - pierre’s open source code
+* [vercel/eve](https://github.com/vercel/eve) ⭐ 5,669 | 🐛 785 | 🌐 TypeScript | 📅 2026-10-25 - The Open Framework for Building Agents
+* [shader-effects-inc/shaders](https://github.com/shader-effects-inc/shaders) ⭐ 5,449 | 🐛 6 | 🌐 TypeScript | 📅 2026-10-21 - WebGPU components for React, Vue, Svelte, Solid, JS & Framer
+* [cloudflare/vibesdk](https://github.com/cloudflare/vibesdk) ⭐ 5,427 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-22 - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
+* [mattpocock/dictionary-of-ai-coding](https://github.com/mattpocock/dictionary-of-ai-coding) ⭐ 5,262 | 🐛 23 | 🌐 TypeScript | 📅 2026-09-24 - AI coding jargon, explained in plain English.
+* [MatrixSeven/file-transfer-go](https://github.com/MatrixSeven/file-transfer-go) ⭐ 5,166 | 🐛 11 | 🌐 TypeScript | 📅 2026-06-08 - Go/React开发的端到端webrtc的文件传输/文字传输/桌面共享，安全，隐私，数据不经过服务器。
+* [cloudflare/kumo](https://github.com/cloudflare/kumo) ⭐ 4,129 | 🐛 74 | 🌐 TypeScript | 📅 2026-10-20 - Cloudflare's component library for building modern web applications.
+* [yetone/cumora](https://github.com/yetone/cumora) ⭐ 4,017 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-25 - Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates — with cloud or bring-your-own (Claude Code / Codex) brains.
 * [vercel-labs/wterm](https://github.com/vercel-labs/wterm) ⭐ 3,511 | 🐛 20 | 🌐 TypeScript | 📅 2026-10-22 - A terminal emulator for the web
-* [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) ⭐ 2,968 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-15 - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.
-* [pingcap/ossinsight](https://github.com/pingcap/ossinsight) ⭐ 2,517 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-20 - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: <https://twitter.com/oss>
-* [vercel-labs/emulate](https://github.com/vercel-labs/emulate) ⭐ 1,952 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-22 - Local API emulation for CI and no-network sandboxes
-* [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) ⭐ 1,860 | 🐛 59 | 🌐 TypeScript | 📅 2026-10-24 - OpenTelemetry observability platform
-* [Git-Agni/prod-FARM-IOS-Core](https://github.com/Git-Agni/prod-FARM-IOS-Core) ⭐ 1,767 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-07 - A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.
-* [superloglabs/superlog](https://github.com/superloglabs/superlog) ⭐ 1,470 | 🐛 83 | 🌐 TypeScript | 📅 2026-10-23 - Open-source observability tool that uses AI agents to self-heal your software
-* [cloudflare/nimbus](https://github.com/cloudflare/nimbus) ⭐ 1,446 | 🐛 7 | 🌐 TypeScript | 📅 2026-10-24 - Docs for humans and agents, built on Astro
-* [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) ⭐ 1,378 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15 - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. <https://killaislop.com>
-* [cloudflare/forge](https://github.com/cloudflare/forge) ⭐ 1,152 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-23 -
-* [voidzero-dev/void](https://github.com/voidzero-dev/void) ⭐ 577 | 🐛 49 | 🌐 TypeScript | 📅 2026-10-23 - Build with Vite. Deploy with Void.
+* [shadcn-labs/pdfcn](https://github.com/shadcn-labs/pdfcn) ⭐ 2,982 | 🐛 54 | 🌐 TypeScript | 📅 2026-10-15 - Beautiful pdf components, built on Takumi and Forme. 100% Free, Zero config, one command setup.
+* [pingcap/ossinsight](https://github.com/pingcap/ossinsight) ⭐ 2,518 | 🐛 38 | 🌐 TypeScript | 📅 2026-10-20 - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: <https://twitter.com/oss>
+* [vercel-labs/emulate](https://github.com/vercel-labs/emulate) ⭐ 1,953 | 🐛 75 | 🌐 TypeScript | 📅 2026-10-25 - Local API emulation for CI and no-network sandboxes
+* [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) ⭐ 1,902 | 🐛 51 | 🌐 TypeScript | 📅 2026-10-25 - OpenTelemetry observability platform
+* [Git-Agni/prod-FARM-IOS-Core](https://github.com/Git-Agni/prod-FARM-IOS-Core) ⭐ 1,769 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-07 - A farm of real iPhones, run from your Mac. Open-source iOS device automation with live control, a Postgres-backed scheduler, and TikTok workflows. Self-hosted, Apache-2.0.
+* [superloglabs/superlog](https://github.com/superloglabs/superlog) ⭐ 1,471 | 🐛 84 | 🌐 TypeScript | 📅 2026-10-25 - Open-source observability tool that uses AI agents to self-heal your software
+* [cloudflare/nimbus](https://github.com/cloudflare/nimbus) ⭐ 1,451 | 🐛 9 | 🌐 TypeScript | 📅 2026-10-25 - Docs for humans and agents, built on Astro
+* [yetone/kill-ai-slop](https://github.com/yetone/kill-ai-slop) ⭐ 1,385 | 🐛 3 | 🌐 TypeScript | 📅 2026-09-15 - A field guide to the visual & copy tics of AI-generated products — and an Agent Skill that scans your project and strips them out. <https://killaislop.com>
+* [cloudflare/forge](https://github.com/cloudflare/forge) ⭐ 1,153 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-24 -
+* [voidzero-dev/void](https://github.com/voidzero-dev/void) ⭐ 585 | 🐛 57 | 🌐 TypeScript | 📅 2026-10-25 - Build with Vite. Deploy with Void.
 * [mrnugget/jev-shell-history](https://github.com/mrnugget/jev-shell-history) ⭐ 120 | 🐛 4 | 🌐 TypeScript | 📅 2026-09-18 - Fish-style zsh history autosuggestions ranked by Jev (TypeSafe)
 * [maguowei/code-manager](https://github.com/maguowei/code-manager) ⭐ 7 | 🐛 1 | 🌐 TypeScript | 📅 2026-10-14 - code manager
 
 ## Zig
 
-* [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) ⭐ 62,563 | 🐛 255 | 🌐 Zig | 📅 2026-10-24 - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-* [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,242 | 🐛 104 | 🌐 Zig | 📅 2026-10-23 - The financial transactions database designed for mission critical safety and performance.
-* [vercel-labs/native](https://github.com/vercel-labs/native) ⭐ 7,809 | 🐛 181 | 🌐 Zig | 📅 2026-10-21 - Toolkit for building native desktop apps
+* [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) ⭐ 62,582 | 🐛 257 | 🌐 Zig | 📅 2026-10-25 - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+* [tigerbeetle/tigerbeetle](https://github.com/tigerbeetle/tigerbeetle) ⭐ 17,246 | 🐛 104 | 🌐 Zig | 📅 2026-10-23 - The financial transactions database designed for mission critical safety and performance.
+* [vercel-labs/native](https://github.com/vercel-labs/native) ⭐ 7,810 | 🐛 183 | 🌐 Zig | 📅 2026-10-21 - Toolkit for building native desktop apps
 
 ## License
 
@@ -793,4 +794,4 @@ To the extent possible under law, [maguowei](https://github.com/maguowei) has wa
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
